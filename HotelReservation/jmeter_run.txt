@@ -1,0 +1,512 @@
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_1.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739804771
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 4:06:12 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 4:06:12 PM CET (1739804772758)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    367 in 00:00:17 =   21.4/s Avg:  1288 Min:     2 Max: 15769 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    546 in 00:00:30 =   18.3/s Avg:  2858 Min:     1 Max: 22429 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    913 in 00:00:47 =   19.4/s Avg:  2227 Min:     1 Max: 22429 Err:     0 (0.00%)
+summary +    514 in 00:00:30 =   17.1/s Avg:  2745 Min:     2 Max: 22047 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1427 in 00:01:17 =   18.5/s Avg:  2414 Min:     1 Max: 22429 Err:     0 (0.00%)
+summary +    536 in 00:00:30 =   17.8/s Avg:  2946 Min:     2 Max: 22332 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1963 in 00:01:47 =   18.3/s Avg:  2559 Min:     1 Max: 22429 Err:     0 (0.00%)
+summary +    492 in 00:00:30 =   16.5/s Avg:  2972 Min:     2 Max: 22498 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2455 in 00:02:17 =   17.9/s Avg:  2642 Min:     1 Max: 22498 Err:     0 (0.00%)
+summary +    541 in 00:00:30 =   18.0/s Avg:  2808 Min:     1 Max: 21819 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2996 in 00:02:47 =   17.9/s Avg:  2672 Min:     1 Max: 22498 Err:     0 (0.00%)
+summary +    511 in 00:00:30 =   16.8/s Avg:  2825 Min:     2 Max: 23063 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3507 in 00:03:18 =   17.7/s Avg:  2694 Min:     1 Max: 23063 Err:     0 (0.00%)
+summary +     85 in 00:00:08 =   10.5/s Avg:  7890 Min:     2 Max: 19915 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3592 in 00:03:26 =   17.5/s Avg:  2817 Min:     1 Max: 23063 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 4:09:38 PM CET (1739804978725)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739804980
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_2.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739805540
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 4:19:01 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 4:19:01 PM CET (1739805541538)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:00 =    2.6/s Avg:   107 Min:   107 Max:   107 Err:     0 (0.00%) Active: 18 Started: 18 Finished: 0
+summary +    551 in 00:00:28 =   19.7/s Avg:  1965 Min:     2 Max: 23785 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    552 in 00:00:28 =   19.5/s Avg:  1962 Min:     2 Max: 23785 Err:     0 (0.00%)
+summary +    508 in 00:00:30 =   16.9/s Avg:  2809 Min:     2 Max: 22704 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1060 in 00:00:58 =   18.2/s Avg:  2368 Min:     2 Max: 23785 Err:     0 (0.00%)
+summary +    527 in 00:00:30 =   17.4/s Avg:  2888 Min:     2 Max: 22876 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1587 in 00:01:29 =   17.9/s Avg:  2541 Min:     2 Max: 23785 Err:     0 (0.00%)
+summary +    517 in 00:00:30 =   17.5/s Avg:  2901 Min:     2 Max: 22983 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2104 in 00:01:58 =   17.8/s Avg:  2629 Min:     2 Max: 23785 Err:     0 (0.00%)
+summary +    539 in 00:00:31 =   17.6/s Avg:  2820 Min:     1 Max: 22626 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2643 in 00:02:29 =   17.7/s Avg:  2668 Min:     1 Max: 23785 Err:     0 (0.00%)
+summary +    544 in 00:00:29 =   18.6/s Avg:  2735 Min:     1 Max: 22828 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3187 in 00:02:58 =   17.9/s Avg:  2679 Min:     1 Max: 23785 Err:     0 (0.00%)
+summary +    417 in 00:00:28 =   14.8/s Avg:  3846 Min:     2 Max: 23528 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3604 in 00:03:26 =   17.5/s Avg:  2814 Min:     1 Max: 23785 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 4:22:28 PM CET (1739805748160)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739805749
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_3.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739805986
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 4:26:27 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 4:26:27 PM CET (1739805987924)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +     79 in 00:00:02 =   34.5/s Avg:    79 Min:     2 Max:  1233 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    529 in 00:00:30 =   17.8/s Avg:  2280 Min:     2 Max: 21720 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    608 in 00:00:32 =   19.0/s Avg:  1994 Min:     2 Max: 21720 Err:     0 (0.00%)
+summary +    507 in 00:00:30 =   16.9/s Avg:  2825 Min:     2 Max: 22865 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1115 in 00:01:02 =   18.0/s Avg:  2372 Min:     2 Max: 22865 Err:     0 (0.00%)
+summary +    568 in 00:00:30 =   18.7/s Avg:  2824 Min:     2 Max: 22021 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1683 in 00:01:32 =   18.2/s Avg:  2525 Min:     2 Max: 22865 Err:     0 (0.00%)
+summary +    520 in 00:00:30 =   17.6/s Avg:  2696 Min:     2 Max: 22518 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2203 in 00:02:02 =   18.1/s Avg:  2565 Min:     2 Max: 22865 Err:     0 (0.00%)
+summary +    560 in 00:00:30 =   18.4/s Avg:  2711 Min:     2 Max: 21973 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2763 in 00:02:32 =   18.1/s Avg:  2594 Min:     2 Max: 22865 Err:     0 (0.00%)
+summary +    512 in 00:00:29 =   17.4/s Avg:  2968 Min:     1 Max: 22314 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3275 in 00:03:02 =   18.0/s Avg:  2653 Min:     1 Max: 22865 Err:     0 (0.00%)
+summary +    353 in 00:00:25 =   13.9/s Avg:  4209 Min:     2 Max: 22878 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3628 in 00:03:27 =   17.5/s Avg:  2804 Min:     1 Max: 22878 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 4:29:55 PM CET (1739806195376)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739806196
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_4.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739806355
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 4:32:36 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 4:32:37 PM CET (1739806357031)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    468 in 00:00:23 =   20.5/s Avg:  1650 Min:     2 Max: 21652 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    563 in 00:00:30 =   18.7/s Avg:  2630 Min:     2 Max: 22785 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1031 in 00:00:53 =   19.5/s Avg:  2185 Min:     2 Max: 22785 Err:     0 (0.00%)
+summary +    546 in 00:00:30 =   18.3/s Avg:  2718 Min:     2 Max: 22490 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1577 in 00:01:23 =   19.1/s Avg:  2370 Min:     2 Max: 22785 Err:     0 (0.00%)
+summary +    491 in 00:00:30 =   16.4/s Avg:  3018 Min:     2 Max: 23134 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2068 in 00:01:53 =   18.3/s Avg:  2524 Min:     2 Max: 23134 Err:     0 (0.00%)
+summary +    519 in 00:00:30 =   17.1/s Avg:  2985 Min:     1 Max: 23035 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2587 in 00:02:23 =   18.1/s Avg:  2616 Min:     1 Max: 23134 Err:     0 (0.00%)
+summary +    484 in 00:00:30 =   16.1/s Avg:  3018 Min:     2 Max: 22863 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3071 in 00:02:53 =   17.7/s Avg:  2680 Min:     1 Max: 23134 Err:     0 (0.00%)
+summary +    519 in 00:00:30 =   17.5/s Avg:  2997 Min:     2 Max: 22171 Err:     0 (0.00%) Active: 36 Started: 50 Finished: 14
+summary =   3590 in 00:03:23 =   17.7/s Avg:  2725 Min:     1 Max: 23134 Err:     0 (0.00%)
+summary +     35 in 00:00:03 =   10.0/s Avg: 10213 Min:  3427 Max: 19882 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3625 in 00:03:26 =   17.6/s Avg:  2798 Min:     1 Max: 23134 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 4:36:03 PM CET (1739806563619)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739806565
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_5.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739807363
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 4:49:24 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 4:49:24 PM CET (1739807364873)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    128 in 00:00:05 =   25.5/s Avg:   729 Min:     2 Max:  4591 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    559 in 00:00:30 =   18.5/s Avg:  2340 Min:     1 Max: 22495 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    687 in 00:00:35 =   19.5/s Avg:  2040 Min:     1 Max: 22495 Err:     0 (0.00%)
+summary +    528 in 00:00:30 =   17.8/s Avg:  2904 Min:     2 Max: 23063 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1215 in 00:01:05 =   18.7/s Avg:  2416 Min:     1 Max: 23063 Err:     0 (0.00%)
+summary +    552 in 00:00:30 =   18.2/s Avg:  2697 Min:     1 Max: 23547 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1767 in 00:01:35 =   18.6/s Avg:  2503 Min:     1 Max: 23547 Err:     0 (0.00%)
+summary +    544 in 00:00:30 =   18.3/s Avg:  2697 Min:     1 Max: 22987 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2311 in 00:02:05 =   18.5/s Avg:  2549 Min:     1 Max: 23547 Err:     0 (0.00%)
+summary +    552 in 00:00:30 =   18.4/s Avg:  2744 Min:     1 Max: 23483 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2863 in 00:02:35 =   18.5/s Avg:  2587 Min:     1 Max: 23547 Err:     0 (0.00%)
+summary +    492 in 00:00:30 =   16.4/s Avg:  2893 Min:     2 Max: 23669 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3355 in 00:03:05 =   18.1/s Avg:  2632 Min:     1 Max: 23669 Err:     0 (0.00%)
+summary +    317 in 00:00:22 =   14.5/s Avg:  4232 Min:     2 Max: 20970 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3672 in 00:03:27 =   17.8/s Avg:  2770 Min:     1 Max: 23669 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 4:52:51 PM CET (1739807571869)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739807573
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_6.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739807732
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 4:55:32 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 4:55:32 PM CET (1739807732972)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:00 =    3.0/s Avg:    70 Min:    70 Max:    70 Err:     0 (0.00%) Active: 15 Started: 15 Finished: 0
+summary +    442 in 00:00:27 =   16.5/s Avg:  2231 Min:     2 Max: 23507 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    443 in 00:00:27 =   16.3/s Avg:  2226 Min:     2 Max: 23507 Err:     0 (0.00%)
+summary +    464 in 00:00:30 =   15.5/s Avg:  2933 Min:     2 Max: 26250 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    907 in 00:00:57 =   15.9/s Avg:  2588 Min:     2 Max: 26250 Err:     0 (0.00%)
+summary +    538 in 00:00:30 =   18.0/s Avg:  3021 Min:     2 Max: 23477 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1445 in 00:01:27 =   16.6/s Avg:  2749 Min:     2 Max: 26250 Err:     0 (0.00%)
+summary +    547 in 00:00:30 =   18.3/s Avg:  2733 Min:     2 Max: 23267 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1992 in 00:01:57 =   17.0/s Avg:  2745 Min:     2 Max: 26250 Err:     0 (0.00%)
+summary +    524 in 00:00:30 =   17.4/s Avg:  2851 Min:     1 Max: 22658 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2516 in 00:02:27 =   17.1/s Avg:  2767 Min:     1 Max: 26250 Err:     0 (0.00%)
+summary +    507 in 00:00:30 =   17.0/s Avg:  2872 Min:     2 Max: 22318 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3023 in 00:02:57 =   17.1/s Avg:  2784 Min:     1 Max: 26250 Err:     0 (0.00%)
+summary +    453 in 00:00:30 =   15.3/s Avg:  3822 Min:     2 Max: 23992 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3476 in 00:03:26 =   16.8/s Avg:  2920 Min:     1 Max: 26250 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 4:58:59 PM CET (1739807939643)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739807941
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_7.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739808135
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 5:02:15 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 5:02:16 PM CET (1739808136235)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    279 in 00:00:14 =   20.6/s Avg:  1084 Min:     2 Max: 10431 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    497 in 00:00:30 =   16.4/s Avg:  2968 Min:     2 Max: 22149 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    776 in 00:00:44 =   17.7/s Avg:  2291 Min:     2 Max: 22149 Err:     0 (0.00%)
+summary +    499 in 00:00:30 =   16.6/s Avg:  3053 Min:     1 Max: 22378 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1275 in 00:01:14 =   17.3/s Avg:  2589 Min:     1 Max: 22378 Err:     0 (0.00%)
+summary +    536 in 00:00:30 =   17.8/s Avg:  2806 Min:     2 Max: 21879 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1811 in 00:01:44 =   17.4/s Avg:  2653 Min:     1 Max: 22378 Err:     0 (0.00%)
+summary +    532 in 00:00:30 =   17.9/s Avg:  2852 Min:     2 Max: 23443 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2343 in 00:02:14 =   17.5/s Avg:  2699 Min:     1 Max: 23443 Err:     0 (0.00%)
+summary +    516 in 00:00:30 =   17.1/s Avg:  2825 Min:     1 Max: 23861 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2859 in 00:02:44 =   17.5/s Avg:  2721 Min:     1 Max: 23861 Err:     0 (0.00%)
+summary +    533 in 00:00:30 =   17.8/s Avg:  2750 Min:     1 Max: 22698 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3392 in 00:03:14 =   17.5/s Avg:  2726 Min:     1 Max: 23861 Err:     0 (0.00%)
+summary +    157 in 00:00:13 =   12.6/s Avg:  5757 Min:     2 Max: 22313 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3549 in 00:03:26 =   17.2/s Avg:  2860 Min:     1 Max: 23861 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 5:05:42 PM CET (1739808342680)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739808344
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_8.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739808506
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 5:08:27 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 5:08:27 PM CET (1739808507454)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +     67 in 00:00:03 =   23.0/s Avg:   133 Min:     2 Max:  1082 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    540 in 00:00:30 =   18.1/s Avg:  2318 Min:     2 Max: 24528 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    607 in 00:00:33 =   18.6/s Avg:  2077 Min:     2 Max: 24528 Err:     0 (0.00%)
+summary +    513 in 00:00:30 =   17.3/s Avg:  2827 Min:     2 Max: 23190 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1120 in 00:01:02 =   17.9/s Avg:  2420 Min:     2 Max: 24528 Err:     0 (0.00%)
+summary +    512 in 00:00:30 =   17.1/s Avg:  2946 Min:     1 Max: 22911 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1632 in 00:01:32 =   17.7/s Avg:  2585 Min:     1 Max: 24528 Err:     0 (0.00%)
+summary +    487 in 00:00:30 =   16.2/s Avg:  2956 Min:     1 Max: 24246 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2119 in 00:02:03 =   17.3/s Avg:  2670 Min:     1 Max: 24528 Err:     0 (0.00%)
+summary +    520 in 00:00:30 =   17.4/s Avg:  3024 Min:     1 Max: 23568 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2639 in 00:02:32 =   17.3/s Avg:  2740 Min:     1 Max: 24528 Err:     0 (0.00%)
+summary +    486 in 00:00:30 =   16.2/s Avg:  3127 Min:     1 Max: 23869 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3125 in 00:03:02 =   17.1/s Avg:  2800 Min:     1 Max: 24528 Err:     0 (0.00%)
+summary +    339 in 00:00:24 =   14.3/s Avg:  4045 Min:     1 Max: 22743 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3464 in 00:03:26 =   16.8/s Avg:  2922 Min:     1 Max: 24528 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 5:11:53 PM CET (1739808713695)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739808715
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_9.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739809052
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 5:17:33 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 5:17:33 PM CET (1739809053814)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:00 =    2.6/s Avg:   105 Min:   105 Max:   105 Err:     0 (0.00%) Active: 18 Started: 18 Finished: 0
+summary +    462 in 00:00:26 =   17.9/s Avg:  1966 Min:     2 Max: 19499 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    463 in 00:00:26 =   17.7/s Avg:  1962 Min:     2 Max: 19499 Err:     0 (0.00%)
+summary +    493 in 00:00:30 =   16.6/s Avg:  3069 Min:     1 Max: 22820 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    956 in 00:00:56 =   17.1/s Avg:  2533 Min:     1 Max: 22820 Err:     0 (0.00%)
+summary +    503 in 00:00:30 =   16.6/s Avg:  2926 Min:     1 Max: 22574 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1459 in 00:01:26 =   16.9/s Avg:  2668 Min:     1 Max: 22820 Err:     0 (0.00%)
+summary +    516 in 00:00:30 =   17.2/s Avg:  2991 Min:     1 Max: 23739 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1975 in 00:01:56 =   17.0/s Avg:  2753 Min:     1 Max: 23739 Err:     0 (0.00%)
+summary +    488 in 00:00:30 =   16.1/s Avg:  2923 Min:     2 Max: 24250 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2463 in 00:02:27 =   16.8/s Avg:  2786 Min:     1 Max: 24250 Err:     0 (0.00%)
+summary +    524 in 00:00:30 =   17.4/s Avg:  3037 Min:     1 Max: 23742 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2987 in 00:02:57 =   16.9/s Avg:  2830 Min:     1 Max: 24250 Err:     0 (0.00%)
+summary +    431 in 00:00:29 =   14.7/s Avg:  3596 Min:     2 Max: 23386 Err:     0 (0.00%) Active: 19 Started: 50 Finished: 31
+summary =   3418 in 00:03:26 =   16.6/s Avg:  2927 Min:     1 Max: 24250 Err:     0 (0.00%)
+summary +     18 in 00:00:01 =   12.6/s Avg: 11307 Min:  7500 Max: 15960 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3436 in 00:03:28 =   16.6/s Avg:  2971 Min:     1 Max: 24250 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 5:21:01 PM CET (1739809261610)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739809263
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_10.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739809877
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 5:31:17 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 5:31:18 PM CET (1739809878097)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    252 in 00:00:12 =   21.2/s Avg:  1278 Min:     2 Max: 10648 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    468 in 00:00:30 =   15.7/s Avg:  2905 Min:     2 Max: 22431 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    720 in 00:00:42 =   17.2/s Avg:  2335 Min:     2 Max: 22431 Err:     0 (0.00%)
+summary +    524 in 00:00:30 =   17.5/s Avg:  2864 Min:     1 Max: 23193 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1244 in 00:01:12 =   17.3/s Avg:  2558 Min:     1 Max: 23193 Err:     0 (0.00%)
+summary +    481 in 00:00:30 =   16.1/s Avg:  3107 Min:     2 Max: 22259 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1725 in 00:01:42 =   17.0/s Avg:  2711 Min:     1 Max: 23193 Err:     0 (0.00%)
+summary +    490 in 00:00:30 =   16.3/s Avg:  3106 Min:     2 Max: 23675 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2215 in 00:02:12 =   16.8/s Avg:  2799 Min:     1 Max: 23675 Err:     0 (0.00%)
+summary +    509 in 00:00:30 =   17.0/s Avg:  2918 Min:     1 Max: 23182 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2724 in 00:02:42 =   16.8/s Avg:  2821 Min:     1 Max: 23675 Err:     0 (0.00%)
+summary +    484 in 00:00:30 =   16.1/s Avg:  2957 Min:     2 Max: 23075 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3208 in 00:03:12 =   16.7/s Avg:  2841 Min:     1 Max: 23675 Err:     0 (0.00%)
+summary +    185 in 00:00:15 =   12.5/s Avg:  5563 Min:     2 Max: 22073 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3393 in 00:03:27 =   16.4/s Avg:  2990 Min:     1 Max: 23675 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 5:34:44 PM CET (1739810084967)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739810086
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_11.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739810639
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 5:44:00 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 5:44:00 PM CET (1739810640504)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:00 =    2.4/s Avg:   140 Min:   140 Max:   140 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+summary +    527 in 00:00:29 =   18.2/s Avg:  2009 Min:     2 Max: 20507 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    528 in 00:00:29 =   18.0/s Avg:  2006 Min:     2 Max: 20507 Err:     0 (0.00%)
+summary +    487 in 00:00:30 =   16.1/s Avg:  3049 Min:     2 Max: 24121 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1015 in 00:01:00 =   17.0/s Avg:  2506 Min:     2 Max: 24121 Err:     0 (0.00%)
+summary +    462 in 00:00:30 =   15.5/s Avg:  3328 Min:     2 Max: 24768 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1477 in 00:01:29 =   16.5/s Avg:  2763 Min:     2 Max: 24768 Err:     0 (0.00%)
+summary +    475 in 00:00:30 =   15.8/s Avg:  3124 Min:     2 Max: 23716 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1952 in 00:02:00 =   16.3/s Avg:  2851 Min:     2 Max: 24768 Err:     0 (0.00%)
+summary +    495 in 00:00:30 =   16.6/s Avg:  2884 Min:     2 Max: 22566 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2447 in 00:02:29 =   16.4/s Avg:  2858 Min:     2 Max: 24768 Err:     0 (0.00%)
+summary +    500 in 00:00:30 =   16.5/s Avg:  3161 Min:     1 Max: 24893 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2947 in 00:03:00 =   16.4/s Avg:  2909 Min:     1 Max: 24893 Err:     0 (0.00%)
+summary +    417 in 00:00:28 =   15.0/s Avg:  3879 Min:     2 Max: 22641 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3364 in 00:03:28 =   16.2/s Avg:  3029 Min:     1 Max: 24893 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 5:47:28 PM CET (1739810848260)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739810849
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_12.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739811102
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 5:51:43 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 5:51:43 PM CET (1739811103451)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    323 in 00:00:17 =   19.4/s Avg:  1691 Min:     2 Max: 13625 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    471 in 00:00:30 =   15.8/s Avg:  2902 Min:     2 Max: 23228 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    794 in 00:00:47 =   17.1/s Avg:  2409 Min:     2 Max: 23228 Err:     0 (0.00%)
+summary +    479 in 00:00:30 =   15.9/s Avg:  3184 Min:     2 Max: 23877 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1273 in 00:01:17 =   16.6/s Avg:  2701 Min:     2 Max: 23877 Err:     0 (0.00%)
+summary +    494 in 00:00:30 =   16.6/s Avg:  2898 Min:     2 Max: 22266 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1767 in 00:01:46 =   16.6/s Avg:  2756 Min:     2 Max: 23877 Err:     0 (0.00%)
+summary +    504 in 00:00:30 =   16.7/s Avg:  3174 Min:     2 Max: 24092 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2271 in 00:02:17 =   16.6/s Avg:  2849 Min:     2 Max: 24092 Err:     0 (0.00%)
+summary +    494 in 00:00:30 =   16.5/s Avg:  2930 Min:     1 Max: 24827 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2765 in 00:02:47 =   16.6/s Avg:  2863 Min:     1 Max: 24827 Err:     0 (0.00%)
+summary +    522 in 00:00:30 =   17.5/s Avg:  2765 Min:     1 Max: 23648 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3287 in 00:03:16 =   16.7/s Avg:  2848 Min:     1 Max: 24827 Err:     0 (0.00%)
+summary +    103 in 00:00:10 =   10.5/s Avg:  7410 Min:     2 Max: 23943 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3390 in 00:03:26 =   16.4/s Avg:  2986 Min:     1 Max: 24827 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 5:55:09 PM CET (1739811309894)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739811311
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_13.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739811895
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 6:04:56 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 6:04:56 PM CET (1739811896473)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +     85 in 00:00:04 =   24.0/s Avg:   148 Min:     2 Max:  2784 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    474 in 00:00:30 =   15.9/s Avg:  2671 Min:     2 Max: 22198 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    559 in 00:00:33 =   16.7/s Avg:  2288 Min:     2 Max: 22198 Err:     0 (0.00%)
+summary +    502 in 00:00:30 =   16.7/s Avg:  2950 Min:     1 Max: 23303 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1061 in 00:01:04 =   16.7/s Avg:  2601 Min:     1 Max: 23303 Err:     0 (0.00%)
+summary +    501 in 00:00:30 =   16.7/s Avg:  3078 Min:     1 Max: 23305 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1562 in 00:01:34 =   16.7/s Avg:  2754 Min:     1 Max: 23305 Err:     0 (0.00%)
+summary +    491 in 00:00:30 =   16.5/s Avg:  2940 Min:     2 Max: 24274 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2053 in 00:02:03 =   16.6/s Avg:  2799 Min:     1 Max: 24274 Err:     0 (0.00%)
+summary +    474 in 00:00:30 =   15.7/s Avg:  3247 Min:     2 Max: 24624 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2527 in 00:02:33 =   16.5/s Avg:  2883 Min:     1 Max: 24624 Err:     0 (0.00%)
+summary +    483 in 00:00:30 =   16.2/s Avg:  2912 Min:     2 Max: 25595 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3010 in 00:03:03 =   16.4/s Avg:  2888 Min:     1 Max: 25595 Err:     0 (0.00%)
+summary +    334 in 00:00:23 =   14.7/s Avg:  4302 Min:     2 Max: 25200 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3344 in 00:03:26 =   16.2/s Avg:  3029 Min:     1 Max: 25595 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 6:08:22 PM CET (1739812102716)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739812104
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_14.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739812362
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 6:12:42 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 6:12:43 PM CET (1739812363084)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    300 in 00:00:17 =   17.9/s Avg:  1710 Min:     2 Max: 11435 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    488 in 00:00:30 =   16.3/s Avg:  2931 Min:     2 Max: 24987 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    788 in 00:00:47 =   16.9/s Avg:  2466 Min:     2 Max: 24987 Err:     0 (0.00%)
+summary +    474 in 00:00:30 =   15.7/s Avg:  3074 Min:     2 Max: 24616 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1262 in 00:01:17 =   16.4/s Avg:  2694 Min:     2 Max: 24987 Err:     0 (0.00%)
+summary +    477 in 00:00:30 =   16.0/s Avg:  3081 Min:     2 Max: 25892 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1739 in 00:01:47 =   16.3/s Avg:  2801 Min:     2 Max: 25892 Err:     0 (0.00%)
+summary +    477 in 00:00:30 =   15.9/s Avg:  3219 Min:     1 Max: 24258 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2216 in 00:02:17 =   16.2/s Avg:  2891 Min:     1 Max: 25892 Err:     0 (0.00%)
+summary +    493 in 00:00:30 =   16.3/s Avg:  3040 Min:     2 Max: 24705 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2709 in 00:02:47 =   16.2/s Avg:  2918 Min:     1 Max: 25892 Err:     0 (0.00%)
+summary +    476 in 00:00:30 =   16.0/s Avg:  3151 Min:     1 Max: 26155 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3185 in 00:03:17 =   16.2/s Avg:  2953 Min:     1 Max: 26155 Err:     0 (0.00%)
+summary +    103 in 00:00:10 =   10.4/s Avg:  7345 Min:     2 Max: 21773 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3288 in 00:03:27 =   15.9/s Avg:  3090 Min:     1 Max: 26155 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 6:16:09 PM CET (1739812569961)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739812571
+########### FINISH THE RUN ###########
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others\experiments>python3 cl-docker-test.py 10.0.25.25:5000 c:\users\tmpnguyen\downloads\test.jmx 50 1 200 run_test_no_15.csv
+########### READY FOR THE RUN ###########
+Experiment start at: 1739812815
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Feb 17, 2025 6:20:15 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using c:\users\tmpnguyen\downloads\test.jmx
+Starting standalone test @ February 17, 2025 6:20:16 PM CET (1739812816055)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    241 in 00:00:14 =   17.5/s Avg:  2070 Min:     2 Max: 13141 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    466 in 00:00:30 =   15.5/s Avg:  2728 Min:     2 Max: 23789 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =    707 in 00:00:44 =   16.2/s Avg:  2504 Min:     2 Max: 23789 Err:     0 (0.00%)
+summary +    485 in 00:00:30 =   16.0/s Avg:  3100 Min:     1 Max: 23480 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1192 in 00:01:14 =   16.1/s Avg:  2746 Min:     1 Max: 23789 Err:     0 (0.00%)
+summary +    459 in 00:00:30 =   15.3/s Avg:  3176 Min:     2 Max: 26930 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   1651 in 00:01:44 =   15.9/s Avg:  2866 Min:     1 Max: 26930 Err:     0 (0.00%)
+summary +    481 in 00:00:30 =   16.1/s Avg:  3214 Min:     2 Max: 24550 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2132 in 00:02:14 =   15.9/s Avg:  2944 Min:     1 Max: 26930 Err:     0 (0.00%)
+summary +    467 in 00:00:30 =   15.7/s Avg:  3244 Min:     1 Max: 24260 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   2599 in 00:02:44 =   15.9/s Avg:  2998 Min:     1 Max: 26930 Err:     0 (0.00%)
+summary +    480 in 00:00:30 =   16.0/s Avg:  3159 Min:     2 Max: 24692 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   3079 in 00:03:14 =   15.9/s Avg:  3023 Min:     1 Max: 26930 Err:     0 (0.00%)
+summary +    157 in 00:00:14 =   11.0/s Avg:  5926 Min:     2 Max: 23813 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =   3236 in 00:03:28 =   15.6/s Avg:  3164 Min:     1 Max: 26930 Err:     0 (0.00%)
+Tidying up ...    @ February 17, 2025 6:23:44 PM CET (1739813024348)
+... end of run
+JMeter command completed successfully!
+Experiment end at: 1739813025
+########### FINISH THE RUN ###########
+

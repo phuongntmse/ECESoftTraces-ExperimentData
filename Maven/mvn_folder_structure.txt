@@ -1,0 +1,10 @@
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\Activiti
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\clojure
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\jitwatch
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\languagetool
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\litemall
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java
+C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple

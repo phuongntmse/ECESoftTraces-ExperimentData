@@ -1,0 +1,80 @@
+BaselineInfo:
+  WebDBID: -1
+  TimeStamp: 20241210135530
+Version:
+  Major: 11
+  Minor: 0
+  Build: 1002
+  SpecialBuildName: ""
+  ptArchitecture: x86_64_linux
+Results:
+  Results Complete: true
+  NumTestProcesses: 1
+  CPU_INTEGER_MATH: 0
+  CPU_FLOATINGPOINT_MATH: 0
+  CPU_PRIME: 0
+  CPU_SORTING: 0
+  CPU_ENCRYPTION: 0
+  CPU_COMPRESSION: 0
+  CPU_SINGLETHREAD: 0
+  CPU_PHYSICS: 0
+  CPU_MATRIX_MULT_SSE: 0
+  CPU_mm: 0
+  CPU_sse: 0
+  CPU_fma: 0
+  CPU_avx: 0
+  CPU_avx512: 0
+  m_CPU_enc_SHA: 0
+  m_CPU_enc_AES: 0
+  m_CPU_enc_ECDSA: 0
+  ME_ALLOC_S: 807.66104050716717
+  ME_READ_S: 23143.471582031249
+  ME_READ_L: 11730.71875
+  ME_WRITE: 5743.4345703125
+  ME_LARGE: 1474.55
+  ME_LATENCY: 54.458302882180085
+  ME_THREADED: 13992.65625
+  SUMM_CPU: 0
+  SUMM_ME: 1299.90043545752
+SystemInformation:
+  OSName: Ubuntu 22.04.4 LTS
+  Kernel: 5.15.0-125-generic
+  Device: ""
+  Processor: Intel Core i3-6100 CPU @ 3.70GHz
+  NumSockets: 1
+  Manufacturer: GenuineIntel
+  NumCores: 2
+  NumLogicals: 4
+  CPUFrequency: 3700
+  Memory: 7800
+  MemModuleInfo:
+    iNumMemSticks: 4
+    DIMM 1:
+      manufacturer: 802C0000802C
+      modulePartNo: "8ATF1G64AZ-2G3H1    "
+      memType: DDR4
+      size: 8
+      clkspeed: 1200
+      moduleVoltage: 1.20000005
+    DIMM 2:
+      manufacturer: Not Specified
+      modulePartNo: Not Specified
+      memType: Unknown
+      size: 0
+      clkspeed: 0
+      moduleVoltage: 0
+    DIMM 3:
+      manufacturer: Not Specified
+      modulePartNo: Not Specified
+      memType: Unknown
+      size: 0
+      clkspeed: 0
+      moduleVoltage: 0
+    DIMM 4:
+      manufacturer: Not Specified
+      modulePartNo: Not Specified
+      memType: Unknown
+      size: 0
+      clkspeed: 0
+      moduleVoltage: 0
+Checksum: CAB19CB35E62399BDB061681C6EA0B8FC9E26710

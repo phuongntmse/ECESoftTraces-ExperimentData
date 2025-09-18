@@ -1,0 +1,18 @@
+
+C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp1
+Std of energy (using Total Power):  2.255520791674095
+Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp1\summary_correlation_results.csv
+
+C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp1b
+Std of energy (using Total Power):  1.7165378836826546
+Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp1b\summary_correlation_results.csv
+
+C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp2
+Std of energy (using Total Power):  0.5495788451454826
+Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp2\summary_correlation_results.csv
+
+C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp3
+Std of energy (using Total Power):  3.2889222564376075
+Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\ClientServer\Exp3\summary_correlation_results.csv
+
+C:\Users\tmpnguyen\Analysis>

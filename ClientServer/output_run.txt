@@ -1,0 +1,989 @@
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1 exp1_all.csv
+Can not find rapl data for all runs
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no1\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                              -0.032465  0.8323315249
+Application Server CPU Utilization                        -0.025352  0.8686997449
+Application Server Memory Utilization                      0.106049  0.4880960322
+CPU Frequency                                             -0.102286  0.5037466621
+CPU Utilization                                            0.492494  0.0005889967
+Memory Utilization                                         0.122622  0.4222847493
+Number of HTTP request                                     0.169131  0.2667133428
+Number of Requests with RequestMethod POST                 0.169131  0.2667133428
+Number of Requests with ResponseCode 200                   0.169131  0.2667133428
+Number of SQL statements                                   0.870020  0.0000000000
+Number of network packets                                  0.058470  0.7028181350
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.039136  0.7985343381
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no10\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.252752  0.0077217585
+Application Server CPU Utilization                         0.232961  0.0143171855
+Application Server Memory Utilization                      0.904286  0.0000000000
+CPU Frequency                                              0.429465  0.0000028439
+CPU Utilization                                            0.865984  0.0000000000
+Memory Utilization                                         0.906343  0.0000000000
+Number of HTTP request                                     0.068313  0.4782517261
+Number of Requests with RequestMethod POST                 0.068313  0.4782517261
+Number of Requests with ResponseCode 200                   0.068313  0.4782517261
+Number of SQL statements                                  -0.486784  0.0000000696
+Number of network packets                                 -0.197351  0.0387751875
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.195345  0.0408408755
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no11\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.111847  0.4592806892
+Application Server CPU Utilization                         0.122038  0.4191178827
+Application Server Memory Utilization                      0.119998  0.4269937294
+CPU Frequency                                              0.203915  0.1740555853
+CPU Utilization                                            0.322326  0.0289157553
+Memory Utilization                                         0.131772  0.3826938510
+Number of HTTP request                                     0.192030  0.2010708842
+Number of Requests with RequestMethod POST                 0.192030  0.2010708842
+Number of Requests with ResponseCode 200                   0.192030  0.2010708842
+Number of SQL statements                                   0.729021  0.0000000092
+Number of network packets                                  0.050012  0.7413462246
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.033889  0.8230808452
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no12\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.089477  0.3989781405
+Application Server CPU Utilization                         0.117436  0.2675922354
+Application Server Memory Utilization                      0.059804  0.5733588011
+CPU Frequency                                             -0.010767  0.9193143272
+CPU Utilization                                            0.658641  0.0000000000
+Memory Utilization                                         0.048424  0.6485201232
+Number of HTTP request                                    -0.200438  0.0567796903
+Number of Requests with RequestMethod POST                -0.200438  0.0567796903
+Number of Requests with ResponseCode 200                  -0.200438  0.0567796903
+Number of SQL statements                                   0.753907  0.0000000000
+Number of network packets                                  0.154283  0.1442401531
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.135371  0.2007547591
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no13\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.246618  0.0191174921
+Application Server CPU Utilization                         0.232162  0.0276741546
+Application Server Memory Utilization                      0.949206  0.0000000000
+CPU Frequency                                              0.382871  0.0001957557
+CPU Utilization                                            0.967797  0.0000000000
+Memory Utilization                                         0.949323  0.0000000000
+Number of HTTP request                                     0.074175  0.4871742892
+Number of Requests with RequestMethod POST                 0.074175  0.4871742892
+Number of Requests with ResponseCode 200                   0.074175  0.4871742892
+Number of SQL statements                                   0.092956  0.3835267871
+Number of network packets                                 -0.169389  0.1104746126
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.177250  0.0946626167
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no14\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.124030  0.4061854120
+Application Server CPU Utilization                         0.150333  0.3131542846
+Application Server Memory Utilization                      0.133051  0.3726268332
+CPU Frequency                                              0.016404  0.9128555533
+CPU Utilization                                            0.537773  0.0000968816
+Memory Utilization                                         0.139037  0.3513060252
+Number of HTTP request                                     0.203190  0.1707402001
+Number of Requests with RequestMethod POST                 0.203190  0.1707402001
+Number of Requests with ResponseCode 200                   0.203190  0.1707402001
+Number of SQL statements                                   0.669888  0.0000002609
+Number of network packets                                  0.064732  0.6655372130
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.051367  0.7316726296
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no15\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.182137  0.0894319607
+Application Server CPU Utilization                         0.163045  0.1290644045
+Application Server Memory Utilization                      0.944182  0.0000000000
+CPU Frequency                                              0.329089  0.0017439988
+CPU Utilization                                            0.960992  0.0000000000
+Memory Utilization                                         0.950707  0.0000000000
+Number of HTTP request                                     0.067045  0.5348308765
+Number of Requests with RequestMethod POST                 0.067045  0.5348308765
+Number of Requests with ResponseCode 200                   0.067045  0.5348308765
+Number of SQL statements                                   0.044483  0.6806843392
+Number of network packets                                 -0.185904  0.0828917215
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.196415  0.0666391965
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no2\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.082371  0.4481619258
+Application Server CPU Utilization                         0.053203  0.6245465896
+Application Server Memory Utilization                      0.757838  0.0000000000
+CPU Frequency                                              0.129066  0.2334875856
+CPU Utilization                                            0.817403  0.0000000000
+Memory Utilization                                         0.780142  0.0000000000
+Number of HTTP request                                     0.023409  0.8295987752
+Number of Requests with RequestMethod POST                 0.023409  0.8295987752
+Number of Requests with ResponseCode 200                   0.023409  0.8295987752
+Number of SQL statements                                   0.399946  0.0001240560
+Number of network packets                                  0.166957  0.1221977676
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.154603  0.1527756385
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no3\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.141983  0.1722260685
+Application Server CPU Utilization                         0.114544  0.2716348000
+Application Server Memory Utilization                      0.905511  0.0000000000
+CPU Frequency                                              0.341083  0.0007677867
+CPU Utilization                                            0.949666  0.0000000000
+Memory Utilization                                         0.909120  0.0000000000
+Number of HTTP request                                     0.054232  0.6036623501
+Number of Requests with RequestMethod POST                 0.054232  0.6036623501
+Number of Requests with ResponseCode 200                   0.054232  0.6036623501
+Number of SQL statements                                   0.149600  0.1501129636
+Number of network packets                                 -0.210116  0.0420889509
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.222007  0.0315117203
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no4\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.111198  0.2025756393
+Application Server CPU Utilization                         0.129732  0.1366673356
+Application Server Memory Utilization                      0.101086  0.2469661164
+CPU Frequency                                              0.013971  0.8731853673
+CPU Utilization                                            0.611025  0.0000000000
+Memory Utilization                                         0.070707  0.4186608553
+Number of HTTP request                                     0.081725  0.3497001580
+Number of Requests with RequestMethod POST                 0.081725  0.3497001580
+Number of Requests with ResponseCode 200                   0.081725  0.3497001580
+Number of SQL statements                                   0.580174  0.0000000000
+Number of network packets                                 -0.074157  0.3962612503
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.095454  0.2744239089
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no5\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.195703  0.0880577870
+Application Server CPU Utilization                         0.198105  0.0841503742
+Application Server Memory Utilization                      0.357013  0.0014362303
+CPU Frequency                                              0.111591  0.3339372786
+CPU Utilization                                            0.631810  0.0000000007
+Memory Utilization                                         0.364631  0.0011129023
+Number of HTTP request                                     0.052603  0.6495721499
+Number of Requests with RequestMethod POST                 0.052603  0.6495721499
+Number of Requests with ResponseCode 200                   0.052603  0.6495721499
+Number of SQL statements                                   0.318344  0.0047789079
+Number of network packets                                  0.070671  0.5413619206
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.062582  0.5887095444
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no6\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.075147  0.4186502312
+Application Server CPU Utilization                         0.089743  0.3338271038
+Application Server Memory Utilization                      0.084928  0.3605161167
+CPU Frequency                                             -0.035967  0.6990017901
+CPU Utilization                                            0.773870  0.0000000000
+Memory Utilization                                         0.060113  0.5178750859
+Number of HTTP request                                     0.062828  0.4991089075
+Number of Requests with RequestMethod POST                 0.062828  0.4991089075
+Number of Requests with ResponseCode 200                   0.062828  0.4991089075
+Number of SQL statements                                   0.642755  0.0000000000
+Number of network packets                                 -0.015175  0.8704399452
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.027842  0.7647288523
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no7\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.222299  0.0362782986
+Application Server CPU Utilization                         0.183530  0.0851426785
+Application Server Memory Utilization                      0.930626  0.0000000000
+CPU Frequency                                              0.339433  0.0011374506
+CPU Utilization                                            0.968127  0.0000000000
+Memory Utilization                                         0.930664  0.0000000000
+Number of HTTP request                                     0.072054  0.5022109120
+Number of Requests with RequestMethod POST                 0.072054  0.5022109120
+Number of Requests with ResponseCode 200                   0.072054  0.5022109120
+Number of SQL statements                                   0.122976  0.2509191625
+Number of network packets                                 -0.159750  0.1348111794
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.168479  0.1145042524
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no8\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.243120  0.0240979513
+Application Server CPU Utilization                         0.222925  0.0391019874
+Application Server Memory Utilization                      0.928730  0.0000000000
+CPU Frequency                                              0.370145  0.0004517933
+CPU Utilization                                            0.965876  0.0000000000
+Memory Utilization                                         0.929024  0.0000000000
+Number of HTTP request                                     0.092447  0.3972239502
+Number of Requests with RequestMethod POST                 0.092447  0.3972239502
+Number of Requests with ResponseCode 200                   0.092447  0.3972239502
+Number of SQL statements                                  -0.037488  0.7318381919
+Number of network packets                                 -0.135601  0.2131779421
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.144302  0.1849821108
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no9\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.282082  0.0142109193
+Application Server CPU Utilization                         0.222168  0.0553992615
+Application Server Memory Utilization                      0.919512  0.0000000000
+CPU Frequency                                              0.407608  0.0002837746
+CPU Utilization                                            0.949280  0.0000000000
+Memory Utilization                                         0.919853  0.0000000000
+Number of HTTP request                                     0.112641  0.3359573302
+Number of Requests with RequestMethod POST                 0.112641  0.3359573302
+Number of Requests with ResponseCode 200                   0.112641  0.3359573302
+Number of SQL statements                                  -0.252742  0.0286914904
+Number of network packets                                 -0.145420  0.2131860036
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.148561  0.2033607098
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b exp1b_all.csv
+Can not find rapl data for all runs
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no1\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.186445  0.0263082624
+Application Server CPU Utilization                         0.144370  0.0865009141
+Application Server Memory Utilization                      0.945974  0.0000000000
+CPU Frequency                                              0.380422  0.0000030121
+CPU Utilization                                            0.944527  0.0000000000
+Memory Utilization                                         0.952767  0.0000000000
+Number of HTTP request                                     0.057694  0.4952416564
+Number of Requests with RequestMethod POST                 0.057694  0.4952416564
+Number of Requests with ResponseCode 200                   0.057694  0.4952416564
+Number of SQL statements                                  -0.291936  0.0004231825
+Number of network packets                                 -0.130030  0.1229893810
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.132311  0.1164990688
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no10\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.095499  0.2195757466
+Application Server CPU Utilization                         0.086994  0.2636139498
+Application Server Memory Utilization                      0.603119  0.0000000000
+CPU Frequency                                              0.140314  0.0705142095
+CPU Utilization                                            0.774709  0.0000000000
+Memory Utilization                                         0.617026  0.0000000000
+Number of HTTP request                                    -0.001681  0.9828026963
+Number of Requests with RequestMethod POST                -0.001681  0.9828026963
+Number of Requests with ResponseCode 200                  -0.001681  0.9828026963
+Number of SQL statements                                   0.503956  0.0000000000
+Number of network packets                                  0.026599  0.7329418086
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.019365  0.8038278334
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no11\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.140433  0.0702732678
+Application Server CPU Utilization                         0.126800  0.1024890350
+Application Server Memory Utilization                      0.811011  0.0000000000
+CPU Frequency                                              0.212710  0.0057831921
+CPU Utilization                                            0.770575  0.0000000000
+Memory Utilization                                         0.808006  0.0000000000
+Number of HTTP request                                     0.008826  0.9098676637
+Number of Requests with RequestMethod POST                 0.008826  0.9098676637
+Number of Requests with ResponseCode 200                   0.008826  0.9098676637
+Number of SQL statements                                   0.640390  0.0000000000
+Number of network packets                                 -0.295854  0.0001036748
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.304855  0.0000618139
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no12\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.101517  0.2029197579
+Application Server CPU Utilization                         0.087389  0.2733708643
+Application Server Memory Utilization                      0.841386  0.0000000000
+CPU Frequency                                              0.162271  0.0409946148
+CPU Utilization                                            0.810525  0.0000000000
+Memory Utilization                                         0.845586  0.0000000000
+Number of HTTP request                                     0.017459  0.8270962706
+Number of Requests with RequestMethod POST                 0.017459  0.8270962706
+Number of Requests with ResponseCode 200                   0.017459  0.8270962706
+Number of SQL statements                                   0.573773  0.0000000000
+Number of network packets                                 -0.315448  0.0000511823
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.323839  0.0000312709
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no13\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.100937  0.2405484593
+Application Server CPU Utilization                         0.071241  0.4080861322
+Application Server Memory Utilization                      0.075753  0.3789614817
+CPU Frequency                                              0.024546  0.7758605922
+CPU Utilization                                            0.297016  0.0004242751
+Memory Utilization                                         0.121562  0.1570504635
+Number of HTTP request                                     0.038773  0.6528297085
+Number of Requests with RequestMethod POST                 0.038773  0.6528297085
+Number of Requests with ResponseCode 200                   0.038773  0.6528297085
+Number of SQL statements                                   0.318347  0.0001499639
+Number of network packets                                  0.119879  0.1629160858
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.112537  0.1904295359
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no14\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.259809  0.0005163198
+Application Server CPU Utilization                         0.181024  0.0165119334
+Application Server Memory Utilization                      0.954802  0.0000000000
+CPU Frequency                                              0.418994  0.0000000079
+CPU Utilization                                            0.955857  0.0000000000
+Memory Utilization                                         0.954268  0.0000000000
+Number of HTTP request                                     0.053793  0.4795520759
+Number of Requests with RequestMethod POST                 0.053793  0.4795520759
+Number of Requests with ResponseCode 200                   0.053793  0.4795520759
+Number of SQL statements                                  -0.284735  0.0001339618
+Number of network packets                                 -0.121475  0.1092917715
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.121630  0.1088384039
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no15\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.107151  0.1733862338
+Application Server CPU Utilization                         0.084657  0.2826244109
+Application Server Memory Utilization                      0.883442  0.0000000000
+CPU Frequency                                              0.312088  0.0000500117
+CPU Utilization                                            0.910582  0.0000000000
+Memory Utilization                                         0.891343  0.0000000000
+Number of HTTP request                                     0.022036  0.7800917949
+Number of Requests with RequestMethod POST                 0.022036  0.7800917949
+Number of Requests with ResponseCode 200                   0.022036  0.7800917949
+Number of SQL statements                                   0.513369  0.0000000000
+Number of network packets                                 -0.266796  0.0005760887
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.273217  0.0004175470
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no2\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                              -0.045243  0.6435494046
+Application Server CPU Utilization                        -0.016249  0.8680633718
+Application Server Memory Utilization                      0.032213  0.7418617608
+CPU Frequency                                              0.035523  0.7164172837
+CPU Utilization                                            0.654968  0.0000000000
+Memory Utilization                                         0.027659  0.7773316734
+Number of HTTP request                                     0.014087  0.8854878450
+Number of Requests with RequestMethod POST                 0.014087  0.8854878450
+Number of Requests with ResponseCode 200                   0.014087  0.8854878450
+Number of SQL statements                                   0.682399  0.0000000000
+Number of network packets                                  0.148821  0.1260499813
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.144023  0.1388681325
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no3\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.171410  0.0083194295
+Application Server CPU Utilization                         0.153607  0.0182132235
+Application Server Memory Utilization                      0.951607  0.0000000000
+CPU Frequency                                              0.369259  0.0000000049
+CPU Utilization                                            0.954926  0.0000000000
+Memory Utilization                                         0.952251  0.0000000000
+Number of HTTP request                                     0.040161  0.5392552062
+Number of Requests with RequestMethod POST                 0.040161  0.5392552062
+Number of Requests with ResponseCode 200                   0.040161  0.5392552062
+Number of SQL statements                                  -0.367241  0.0000000060
+Number of network packets                                 -0.140886  0.0304919856
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.138090  0.0339824639
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no4\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.195558  0.0188256103
+Application Server CPU Utilization                         0.168460  0.0435548038
+Application Server Memory Utilization                      0.945727  0.0000000000
+CPU Frequency                                              0.431847  0.0000000650
+CPU Utilization                                            0.935060  0.0000000000
+Memory Utilization                                         0.948356  0.0000000000
+Number of HTTP request                                     0.050070  0.5511913446
+Number of Requests with RequestMethod POST                 0.050070  0.5511913446
+Number of Requests with ResponseCode 200                   0.050070  0.5511913446
+Number of SQL statements                                  -0.265121  0.0013209188
+Number of network packets                                 -0.135483  0.1054256845
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.139230  0.0960483308
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no5\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                              -0.018126  0.8586603370
+Application Server CPU Utilization                        -0.009887  0.9226216591
+Application Server Memory Utilization                      0.101839  0.3158455650
+CPU Frequency                                              0.179873  0.0748234457
+CPU Utilization                                            0.502901  0.0000001128
+Memory Utilization                                         0.101798  0.3160428095
+Number of HTTP request                                     0.060021  0.5550910061
+Number of Requests with RequestMethod POST                 0.060021  0.5550910061
+Number of Requests with ResponseCode 200                   0.060021  0.5550910061
+Number of SQL statements                                   0.660125  0.0000000000
+Number of network packets                                 -0.179360  0.0756709194
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.179357  0.0756752456
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no6\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.089256  0.2978469546
+Application Server CPU Utilization                         0.098656  0.2496428711
+Application Server Memory Utilization                      0.015542  0.8564245521
+CPU Frequency                                              0.036566  0.6702595519
+CPU Utilization                                            0.667869  0.0000000000
+Memory Utilization                                        -0.013168  0.8781702647
+Number of HTTP request                                     0.019336  0.8219007248
+Number of Requests with RequestMethod POST                 0.019336  0.8219007248
+Number of Requests with ResponseCode 200                   0.019336  0.8219007248
+Number of SQL statements                                   0.733132  0.0000000000
+Number of network packets                                 -0.028130  0.7432837663
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.037698  0.6606752382
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no7\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.137666  0.1676485098
+Application Server CPU Utilization                         0.144073  0.1485469186
+Application Server Memory Utilization                      0.032558  0.7452917371
+CPU Frequency                                              0.022868  0.8195404639
+CPU Utilization                                            0.444018  0.0000029459
+Memory Utilization                                         0.040236  0.6880365927
+Number of HTTP request                                     0.009165  0.9271565816
+Number of Requests with RequestMethod POST                 0.009165  0.9271565816
+Number of Requests with ResponseCode 200                   0.009165  0.9271565816
+Number of SQL statements                                   0.613100  0.0000000000
+Number of network packets                                 -0.033134  0.7409409166
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.037727  0.7065705264
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no8\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.099962  0.2315847042
+Application Server CPU Utilization                         0.117921  0.1577728244
+Application Server Memory Utilization                     -0.033448  0.6896000951
+CPU Frequency                                              0.045363  0.5879570529
+CPU Utilization                                            0.615726  0.0000000000
+Memory Utilization                                        -0.033625  0.6880492344
+Number of HTTP request                                     0.024982  0.7655008473
+Number of Requests with RequestMethod POST                 0.024982  0.7655008473
+Number of Requests with ResponseCode 200                   0.024982  0.7655008473
+Number of SQL statements                                   0.734109  0.0000000000
+Number of network packets                                 -0.046742  0.5766542577
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.060134  0.4724518496
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no9\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.078937  0.3353289951
+Application Server CPU Utilization                         0.071718  0.3815252754
+Application Server Memory Utilization                      0.053580  0.5135006470
+CPU Frequency                                              0.010123  0.9018162682
+CPU Utilization                                            0.516654  0.0000000000
+Memory Utilization                                         0.004602  0.9552802962
+Number of HTTP request                                     0.039854  0.6270642885
+Number of Requests with RequestMethod POST                 0.039854  0.6270642885
+Number of Requests with ResponseCode 200                   0.039854  0.6270642885
+Number of SQL statements                                   0.722405  0.0000000000
+Number of network packets                                 -0.037909  0.6439928923
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.048637  0.5531520401
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2 exp2_all.csv
+Can not find rapl data for all runs
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no1\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                             -0.043093  0.4072568237
+Application Server CPU Utilization                       -0.081749  0.1154785035
+Application Server Memory Utilization                     0.061333  0.2379703725
+CPU Frequency                                             0.130435  0.0118010276
+CPU Utilization                                           0.255580  0.0000005851
+Memory Utilization                                        0.171879  0.0008724440
+Number of HTTP request                                    0.370171  0.0000000000
+Number of Requests with RequestMethod PUT                 0.370171  0.0000000000
+Number of Requests with ResponseCode 200                  0.370171  0.0000000000
+Number of SQL statements                                  0.369472  0.0000000000
+Number of network packets                                 0.375226  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.373163  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no10\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.095300  0.0614100808
+Application Server CPU Utilization                        0.068230  0.1809891835
+Application Server Memory Utilization                     0.883671  0.0000000000
+CPU Frequency                                             0.264735  0.0000001300
+CPU Utilization                                           0.887847  0.0000000000
+Memory Utilization                                        0.893328  0.0000000000
+Number of HTTP request                                    0.558477  0.0000000000
+Number of Requests with RequestMethod PUT                 0.558477  0.0000000000
+Number of Requests with ResponseCode 200                  0.558477  0.0000000000
+Number of SQL statements                                  0.553076  0.0000000000
+Number of network packets                                 0.551995  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.555820  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no11\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.001153  0.9829511190
+Application Server CPU Utilization                       -0.012856  0.8116597361
+Application Server Memory Utilization                     0.088342  0.1008971210
+CPU Frequency                                             0.174024  0.0011534092
+CPU Utilization                                          -0.013354  0.8045096952
+Memory Utilization                                        0.220049  0.0000364248
+Number of HTTP request                                    0.093600  0.0821094091
+Number of Requests with RequestMethod PUT                 0.093600  0.0821094091
+Number of Requests with ResponseCode 200                  0.093600  0.0821094091
+Number of SQL statements                                  0.091649  0.0887203948
+Number of network packets                                 0.100367  0.0621971505
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.097195  0.0709694389
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no12\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.071841  0.1535981317
+Application Server CPU Utilization                        0.044205  0.3803193468
+Application Server Memory Utilization                     0.849623  0.0000000000
+CPU Frequency                                             0.295231  0.0000000021
+CPU Utilization                                           0.910295  0.0000000000
+Memory Utilization                                        0.853637  0.0000000000
+Number of HTTP request                                    0.510768  0.0000000000
+Number of Requests with RequestMethod PUT                 0.510768  0.0000000000
+Number of Requests with ResponseCode 200                  0.510768  0.0000000000
+Number of SQL statements                                  0.507691  0.0000000000
+Number of network packets                                 0.499889  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.506308  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no13\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.015446  0.7517202852
+Application Server CPU Utilization                        0.001781  0.9708932799
+Application Server Memory Utilization                    -0.054152  0.2670238194
+CPU Frequency                                             0.100901  0.0382739078
+CPU Utilization                                           0.568689  0.0000000000
+Memory Utilization                                       -0.010458  0.8303871266
+Number of HTTP request                                    0.611857  0.0000000000
+Number of Requests with RequestMethod PUT                 0.611857  0.0000000000
+Number of Requests with ResponseCode 200                  0.611857  0.0000000000
+Number of SQL statements                                  0.610249  0.0000000000
+Number of network packets                                 0.615699  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.613796  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no14\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.051470  0.2835586569
+Application Server CPU Utilization                        0.059530  0.2147672522
+Application Server Memory Utilization                     0.069114  0.1496622695
+CPU Frequency                                             0.059619  0.2140805703
+CPU Utilization                                           0.639224  0.0000000000
+Memory Utilization                                        0.043913  0.3603327550
+Number of HTTP request                                    0.666729  0.0000000000
+Number of Requests with RequestMethod PUT                 0.666729  0.0000000000
+Number of Requests with ResponseCode 200                  0.666729  0.0000000000
+Number of SQL statements                                  0.665895  0.0000000000
+Number of network packets                                 0.671353  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.669591  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no15\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.057152  0.2547216246
+Application Server CPU Utilization                        0.051883  0.3012235028
+Application Server Memory Utilization                     0.022953  0.6475950000
+CPU Frequency                                             0.077848  0.1205469254
+CPU Utilization                                           0.540769  0.0000000000
+Memory Utilization                                        0.038456  0.4436552492
+Number of HTTP request                                    0.472309  0.0000000000
+Number of Requests with RequestMethod PUT                 0.472309  0.0000000000
+Number of Requests with ResponseCode 200                  0.472309  0.0000000000
+Number of SQL statements                                  0.470341  0.0000000000
+Number of network packets                                 0.476352  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.474542  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no2\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                             -0.110056  0.0407594594
+Application Server CPU Utilization                       -0.170291  0.0014758877
+Application Server Memory Utilization                     0.091500  0.0892422668
+CPU Frequency                                             0.200393  0.0001753082
+CPU Utilization                                           0.115074  0.0323661073
+Memory Utilization                                        0.197924  0.0002113896
+Number of HTTP request                                    0.255640  0.0000014481
+Number of Requests with RequestMethod PUT                 0.255640  0.0000014481
+Number of Requests with ResponseCode 200                  0.255640  0.0000014481
+Number of SQL statements                                  0.255925  0.0000014083
+Number of network packets                                 0.261048  0.0000008486
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.259556  0.0000009847
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no3\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.016891  0.7497643577
+Application Server CPU Utilization                       -0.005785  0.9130265088
+Application Server Memory Utilization                     0.052830  0.3181901544
+CPU Frequency                                             0.106666  0.0434090215
+CPU Utilization                                           0.367640  0.0000000000
+Memory Utilization                                        0.134638  0.0106567235
+Number of HTTP request                                    0.316678  0.0000000008
+Number of Requests with RequestMethod PUT                 0.316678  0.0000000008
+Number of Requests with ResponseCode 200                  0.316678  0.0000000008
+Number of SQL statements                                  0.315680  0.0000000010
+Number of network packets                                 0.322000  0.0000000004
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.319853  0.0000000006
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no4\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.085686  0.0769484392
+Application Server CPU Utilization                        0.060753  0.2102526378
+Application Server Memory Utilization                     0.035500  0.4643769620
+CPU Frequency                                             0.079242  0.1020023059
+CPU Utilization                                           0.510788  0.0000000000
+Memory Utilization                                        0.111471  0.0212302315
+Number of HTTP request                                    0.565161  0.0000000000
+Number of Requests with RequestMethod PUT                 0.565161  0.0000000000
+Number of Requests with ResponseCode 200                  0.565161  0.0000000000
+Number of SQL statements                                  0.564109  0.0000000000
+Number of network packets                                 0.570566  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.568616  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no5\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                             -0.045624  0.3982215150
+Application Server CPU Utilization                       -0.058779  0.2762612826
+Application Server Memory Utilization                     0.079164  0.1422741742
+CPU Frequency                                             0.125565  0.0196459432
+CPU Utilization                                          -0.020486  0.7045620716
+Memory Utilization                                        0.202871  0.0001482377
+Number of HTTP request                                    0.214928  0.0000570336
+Number of Requests with RequestMethod PUT                 0.214928  0.0000570336
+Number of Requests with ResponseCode 200                  0.214928  0.0000570336
+Number of SQL statements                                  0.211888  0.0000729410
+Number of network packets                                 0.219619  0.0000387539
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.217410  0.0000465366
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no6\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.092712  0.0613479461
+Application Server CPU Utilization                        0.071930  0.1469633825
+Application Server Memory Utilization                     0.900325  0.0000000000
+CPU Frequency                                             0.342003  0.0000000000
+CPU Utilization                                           0.952222  0.0000000000
+Memory Utilization                                        0.903444  0.0000000000
+Number of HTTP request                                    0.491108  0.0000000000
+Number of Requests with RequestMethod PUT                 0.491108  0.0000000000
+Number of Requests with ResponseCode 200                  0.491108  0.0000000000
+Number of SQL statements                                  0.487948  0.0000000000
+Number of network packets                                 0.484454  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.488582  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no7\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.021942  0.6944148245
+Application Server CPU Utilization                        0.015784  0.7774878954
+Application Server Memory Utilization                     0.081475  0.1440072966
+CPU Frequency                                             0.104836  0.0598346050
+CPU Utilization                                           0.300963  0.0000000346
+Memory Utilization                                        0.183418  0.0009270328
+Number of HTTP request                                    0.405795  0.0000000000
+Number of Requests with RequestMethod PUT                 0.405795  0.0000000000
+Number of Requests with ResponseCode 200                  0.405795  0.0000000000
+Number of SQL statements                                  0.401400  0.0000000000
+Number of network packets                                 0.405954  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.405775  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no8\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                             -0.046199  0.3814635463
+Application Server CPU Utilization                       -0.062321  0.2375437754
+Application Server Memory Utilization                     0.026101  0.6211020042
+CPU Frequency                                             0.105036  0.0461211515
+CPU Utilization                                           0.272010  0.0000001524
+Memory Utilization                                        0.123941  0.0184824797
+Number of HTTP request                                    0.389251  0.0000000000
+Number of Requests with RequestMethod PUT                 0.389251  0.0000000000
+Number of Requests with ResponseCode 200                  0.389251  0.0000000000
+Number of SQL statements                                  0.387544  0.0000000000
+Number of network packets                                 0.394608  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.392051  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no9\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                             -0.010436  0.8448676703
+Application Server CPU Utilization                       -0.027403  0.6073557351
+Application Server Memory Utilization                     0.039782  0.4555859390
+CPU Frequency                                             0.126975  0.0168363901
+CPU Utilization                                           0.284409  0.0000000518
+Memory Utilization                                        0.129105  0.0150700626
+Number of HTTP request                                    0.422849  0.0000000000
+Number of Requests with RequestMethod PUT                 0.422849  0.0000000000
+Number of Requests with ResponseCode 200                  0.422849  0.0000000000
+Number of SQL statements                                  0.420775  0.0000000000
+Number of network packets                                 0.428108  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.425817  0.0000000000
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3 exp3_all.csv
+Can not find rapl data for all runs
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no1\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.043575  0.6783322806
+Application Server CPU Utilization                        0.006401  0.9514461860
+Application Server Memory Utilization                     0.687877  0.0000000000
+CPU Frequency                                             0.144937  0.1657017639
+CPU Utilization                                           0.610143  0.0000000001
+Memory Utilization                                        0.727876  0.0000000000
+Number of HTTP request                                    0.615943  0.0000000000
+Number of Requests with RequestMethod PUT                 0.615943  0.0000000000
+Number of Requests with ResponseCode 200                  0.617192  0.0000000000
+Number of Requests with ResponseCode 400                  0.063395  0.5460447157
+Number of SQL statements                                  0.616766  0.0000000000
+Number of network packets                                 0.612305  0.0000000001
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.613765  0.0000000001
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no10\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.252443  0.0069860149
+Application Server CPU Utilization                        0.206624  0.0281078299
+Application Server Memory Utilization                     0.940829  0.0000000000
+CPU Frequency                                             0.380456  0.0000322777
+CPU Utilization                                           0.954179  0.0000000000
+Memory Utilization                                        0.940845  0.0000000000
+Number of HTTP request                                    0.401679  0.0000103551
+Number of Requests with RequestMethod PUT                 0.401679  0.0000103551
+Number of Requests with ResponseCode 200                  0.400752  0.0000109006
+Number of Requests with ResponseCode 400                  0.170315  0.0713028774
+Number of SQL statements                                  0.400138  0.0000112764
+Number of network packets                                 0.380761  0.0000317726
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.390374  0.0000191594
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no11\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.280758  0.0035548261
+Application Server CPU Utilization                        0.226987  0.0192889064
+Application Server Memory Utilization                     0.923595  0.0000000000
+CPU Frequency                                             0.394999  0.0000278643
+CPU Utilization                                           0.954112  0.0000000000
+Memory Utilization                                        0.923632  0.0000000000
+Number of HTTP request                                    0.489173  0.0000001033
+Number of Requests with RequestMethod PUT                 0.489173  0.0000001033
+Number of Requests with ResponseCode 200                  0.487948  0.0000001124
+Number of Requests with ResponseCode 400                  0.199839  0.0399916907
+Number of SQL statements                                  0.485915  0.0000001291
+Number of network packets                                 0.468114  0.0000004193
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.478441  0.0000002134
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no12\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.004830  0.9631465815
+Application Server CPU Utilization                       -0.014715  0.8880524783
+Application Server Memory Utilization                    -0.028822  0.7827337148
+CPU Frequency                                             0.275856  0.0071202541
+CPU Utilization                                           0.047311  0.6506835673
+Memory Utilization                                        0.125156  0.2293920702
+Number of HTTP request                                    0.314406  0.0020276215
+Number of Requests with RequestMethod PUT                 0.314406  0.0020276215
+Number of Requests with ResponseCode 200                  0.312501  0.0021661346
+Number of Requests with ResponseCode 400                  0.193348  0.0618796307
+Number of SQL statements                                  0.313087  0.0021226675
+Number of network packets                                 0.313435  0.0020971852
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.313911  0.0020628287
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no13\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.111380  0.3222116918
+Application Server CPU Utilization                        0.112703  0.3164615610
+Application Server Memory Utilization                     0.149743  0.1821128750
+CPU Frequency                                             0.160755  0.1516714735
+CPU Utilization                                           0.173306  0.1218034860
+Memory Utilization                                        0.215469  0.0533793941
+Number of HTTP request                                    0.399922  0.0002164719
+Number of Requests with RequestMethod PUT                 0.399922  0.0002164719
+Number of Requests with ResponseCode 200                  0.398367  0.0002302532
+Number of Requests with ResponseCode 400                  0.229393  0.0393980521
+Number of SQL statements                                  0.401356  0.0002044317
+Number of network packets                                 0.390742  0.0003103382
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.394382  0.0002693685
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no14\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.280708  0.0023759207
+Application Server CPU Utilization                        0.250165  0.0070086694
+Application Server Memory Utilization                     0.933756  0.0000000000
+CPU Frequency                                             0.379952  0.0000281175
+CPU Utilization                                           0.959647  0.0000000000
+Memory Utilization                                        0.932700  0.0000000000
+Number of HTTP request                                    0.325596  0.0003841287
+Number of Requests with RequestMethod PUT                 0.325596  0.0003841287
+Number of Requests with ResponseCode 200                  0.325897  0.0003790890
+Number of Requests with ResponseCode 400                  0.107994  0.2506287938
+Number of SQL statements                                  0.323968  0.0004124780
+Number of network packets                                 0.301489  0.0010591455
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.313244  0.0006527826
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no15\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.089767  0.4028295235
+Application Server CPU Utilization                        0.063344  0.5553700287
+Application Server Memory Utilization                     0.582927  0.0000000021
+CPU Frequency                                             0.072317  0.5006436494
+CPU Utilization                                           0.570103  0.0000000055
+Memory Utilization                                        0.617555  0.0000000001
+Number of HTTP request                                    0.565154  0.0000000079
+Number of Requests with RequestMethod PUT                 0.565154  0.0000000079
+Number of Requests with ResponseCode 200                  0.565701  0.0000000076
+Number of Requests with ResponseCode 400                  0.090727  0.3977942404
+Number of SQL statements                                  0.562588  0.0000000096
+Number of network packets                                 0.560284  0.0000000113
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.562076  0.0000000100
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no2\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.235464  0.0128545576
+Application Server CPU Utilization                        0.167534  0.0788244382
+Application Server Memory Utilization                     0.947057  0.0000000000
+CPU Frequency                                             0.403014  0.0000115760
+CPU Utilization                                           0.939515  0.0000000000
+Memory Utilization                                        0.948835  0.0000000000
+Number of HTTP request                                    0.493091  0.0000000384
+Number of Requests with RequestMethod PUT                 0.493091  0.0000000384
+Number of Requests with ResponseCode 200                  0.492567  0.0000000399
+Number of Requests with ResponseCode 400                  0.152312  0.1105187398
+Number of SQL statements                                  0.491849  0.0000000420
+Number of network packets                                 0.477035  0.0000001202
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.484924  0.0000000691
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no3\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                             -0.064278  0.5541922982
+Application Server CPU Utilization                       -0.068604  0.5277916739
+Application Server Memory Utilization                     0.128340  0.2361480682
+CPU Frequency                                             0.201016  0.0619095585
+CPU Utilization                                           0.300611  0.0046677895
+Memory Utilization                                        0.205101  0.0566891247
+Number of HTTP request                                    0.468739  0.0000046721
+Number of Requests with RequestMethod PUT                 0.468739  0.0000046721
+Number of Requests with ResponseCode 200                  0.471780  0.0000039735
+Number of Requests with ResponseCode 400                  0.015082  0.8897306470
+Number of SQL statements                                  0.467643  0.0000049511
+Number of network packets                                 0.464170  0.0000059424
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.464788  0.0000057532
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no4\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.399306  0.0000082058
+Application Server CPU Utilization                        0.325909  0.0003360319
+Application Server Memory Utilization                     0.928899  0.0000000000
+CPU Frequency                                             0.398302  0.0000086876
+CPU Utilization                                           0.957199  0.0000000000
+Memory Utilization                                        0.928908  0.0000000000
+Number of HTTP request                                    0.284781  0.0018581983
+Number of Requests with RequestMethod PUT                 0.284781  0.0018581983
+Number of Requests with ResponseCode 200                  0.283183  0.0019761349
+Number of Requests with ResponseCode 400                  0.173731  0.0610298884
+Number of SQL statements                                  0.283627  0.0019427267
+Number of network packets                                 0.263968  0.0040302387
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.274194  0.0027754338
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no5\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                             -0.018598  0.8436124591
+Application Server CPU Utilization                       -0.004132  0.9650388569
+Application Server Memory Utilization                    -0.021105  0.8228539550
+CPU Frequency                                             0.114316  0.2237939156
+CPU Utilization                                           0.349031  0.0001318369
+Memory Utilization                                        0.022514  0.8112364608
+Number of HTTP request                                    0.518778  0.0000000029
+Number of Requests with RequestMethod PUT                 0.518778  0.0000000029
+Number of Requests with ResponseCode 200                  0.522292  0.0000000021
+Number of Requests with ResponseCode 400                  0.051386  0.5854816985
+Number of SQL statements                                  0.518259  0.0000000030
+Number of network packets                                 0.511311  0.0000000052
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.514683  0.0000000040
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no6\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.033532  0.7510013498
+Application Server CPU Utilization                       -0.000216  0.9983681985
+Application Server Memory Utilization                     0.728250  0.0000000000
+CPU Frequency                                             0.099990  0.3429578689
+CPU Utilization                                           0.664186  0.0000000000
+Memory Utilization                                        0.752070  0.0000000000
+Number of HTTP request                                    0.649766  0.0000000000
+Number of Requests with RequestMethod PUT                 0.649766  0.0000000000
+Number of Requests with ResponseCode 200                  0.649045  0.0000000000
+Number of Requests with ResponseCode 400                  0.197075  0.0597086159
+Number of SQL statements                                  0.649413  0.0000000000
+Number of network packets                                 0.645161  0.0000000000
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.645765  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no7\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.057007  0.5450831080
+Application Server CPU Utilization                        0.015780  0.8670657662
+Application Server Memory Utilization                     0.679624  0.0000000000
+CPU Frequency                                             0.162011  0.0836591908
+CPU Utilization                                           0.603566  0.0000000000
+Memory Utilization                                        0.705897  0.0000000000
+Number of HTTP request                                    0.556918  0.0000000001
+Number of Requests with RequestMethod PUT                 0.556918  0.0000000001
+Number of Requests with ResponseCode 200                  0.556838  0.0000000001
+Number of Requests with ResponseCode 400                  0.185172  0.0475655524
+Number of SQL statements                                  0.556256  0.0000000001
+Number of network packets                                 0.555475  0.0000000001
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.556050  0.0000000001
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no8\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.424361  0.0000028106
+Application Server CPU Utilization                        0.427835  0.0000022822
+Application Server Memory Utilization                     0.931756  0.0000000000
+CPU Frequency                                             0.306948  0.0009435822
+CPU Utilization                                           0.972264  0.0000000000
+Memory Utilization                                        0.931891  0.0000000000
+Number of HTTP request                                    0.381001  0.0000313798
+Number of Requests with RequestMethod PUT                 0.381001  0.0000313798
+Number of Requests with ResponseCode 200                  0.381258  0.0000309646
+Number of Requests with ResponseCode 400                  0.068493  0.4710034813
+Number of SQL statements                                  0.378436  0.0000358216
+Number of network packets                                 0.357782  0.0001000010
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.368368  0.0000596031
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no9\correlation_results.csv
+                                           correlation_coefficient       p_value
+Application Server CPU Power                              0.205272  0.0347828053
+Application Server CPU Utilization                        0.144173  0.1403563117
+Application Server Memory Utilization                     0.953171  0.0000000000
+CPU Frequency                                             0.394268  0.0000289193
+CPU Utilization                                           0.959605  0.0000000000
+Memory Utilization                                        0.953145  0.0000000000
+Number of HTTP request                                    0.452504  0.0000011168
+Number of Requests with RequestMethod PUT                 0.452504  0.0000011168
+Number of Requests with ResponseCode 200                  0.453170  0.0000010721
+Number of Requests with ResponseCode 400                  0.108123  0.2699248069
+Number of SQL statements                                  0.451649  0.0000011768
+Number of network packets                                 0.429524  0.0000043364
+Total Power                                               1.000000  0.0000000000
+Total length of packets                                   0.440392  0.0000023114
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>

@@ -1,0 +1,70 @@
+7534.353993: PerformanceTest Version: 11.0.1002
+7534.354177: Detect Model
+7534.354224: 
+7534.354251: Detect CPU Name
+7534.383070: Intel Core i3-6100 CPU @ 3.70GHz
+7534.383115: Detect Manufacturer
+7534.387687: GenuineIntel
+7534.387719: Detect OS
+7534.387757: Ubuntu 22.04.4 LTS
+7534.387771: Detect Kernel
+7534.387801: 5.15.0-125-generic
+7534.387815: Detect Architecture
+7534.411081: x86_64
+7534.411120: Detect Memory
+7534.411142: 8179892224
+7534.411153: Detect CPU Frequency
+7534.411188: 3700
+7534.411200: Detect cpu sockets
+7534.415836: 1
+7534.415866: Detect cpu cores
+7534.447395: CPU NODE SOCKET CORE L1d:L1i:L2:L3 ONLINE    MAXMHZ   MINMHZ      MHZ
+
+7534.447811: CORE column index: 3
+7534.454702: CPU NODE SOCKET CORE L1d:L1i:L2:L3 ONLINE    MAXMHZ   MINMHZ      MHZ
+
+7534.454757:   0    0      0    0 0:0:0:0          yes 3700.0000 800.0000 2250.125
+
+7534.454783:   1    0      0    1 1:1:1:0          yes 3700.0000 800.0000 3700.000
+
+7534.454802:   2    0      0    0 0:0:0:0          yes 3700.0000 800.0000 3700.000
+
+7534.454822:   3    0      0    1 1:1:1:0          yes 3700.0000 800.0000 3700.000
+
+7534.455063: No. of Cores: 2
+7534.476723: Running CPU Test: 0 on 1 Thread(s)
+7555.478799: INTEGER TEST: Time Elapsed = 20, Operations = 88191940000, MOps = 4409.6
+7555.478852: CPU Test: 0 Cumulative Total = 4409.6
+7555.478970: Running CPU Test: 1 on 1 Thread(s)
+7576.480884: FLOAT TEST: Time Elapsed = 20, Operations = 72875220000MOps = 3643.76
+7576.480942: CPU Test: 1 Cumulative Total = 3643.76
+7576.481043: Running CPU Test: 2 on 1 Thread(s)
+7597.707951: PRIME TEST: Time Elapsed = 20.1928, Loops = 91, Primes/loop = 2063689
+7597.708665: CPU Test: 2 Cumulative Total = 9.30015
+7597.708800: Running CPU Test: 3 on 1 Thread(s)
+7618.822699: SORT TEST: Time Elapsed = 20.0552, Loops = 107Primes/s = 2.66764e+06
+7618.822783: CPU Test: 3 Cumulative Total = 2667.64
+7618.822947: Running CPU Test: 4 on 1 Thread(s)
+7626.500477: AES Encrypted\Elapsed\Bps: 8021606400 \ 6.67491 \ 1.20175e+09
+7633.174028: SHA256 Hashed\Elapsed\Bps: 2034237440 \ 6.67094 \ 3.0494e+08
+7639.868465: ECDSA verified\Elapsed\Bps: 1782579200 \ 6.68927 \ 2.66484e+08
+7639.868610: CPU Test: 4 Cumulative Total = 563.678
+7639.868766: Running CPU Test: 5 on 1 Thread(s)
+7660.943406: NewCompressData: chars encoded = 4.52985e+08, time elapsed = 20.0729, total size = 298587402
+7660.943686: CPU Test: 5 Cumulative Total = 22038.1
+7660.943835: Running CPU Test: 6 on 1 Thread(s)
+7667.945866: FLOAT TEST: Time Elapsed = 6, Operations = 21890388000MOps = 3648.4
+7674.034944: SORT TEST: Time Elapsed = 6.03282, Loops = 32Primes/s = 2.65216e+06
+7680.311075: NewCompressData: chars encoded = 1.42606e+08, time elapsed = 6.27592, total size = 93999626
+7680.311111: Single Thread: ResF = 2043.1, ResS = 901.734, ResC = 4216.14
+7681.944480: CPU Test: 6 Cumulative Total = 2229.45
+7681.944932: Running CPU Test: 7 on 1 Thread(s)
+7703.096737: Physics Test: Frames per second = 150.573480
+7703.096815: CPU Test: 7 Cumulative Total = 150.573
+7703.096924: Running CPU Test: 8 on 1 Thread(s)
+7704.097317: Begin MM Test
+7705.097753: Base MM test score = 203.852935
+7711.783087: SSE test score = 791.386320
+7718.449869: FMA test score = 2455.964916
+7725.135094: AVX test score = 1657.544001
+7725.152168: CPU Test: 8 Cumulative Total = 1634.97

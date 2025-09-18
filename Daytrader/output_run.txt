@@ -1,0 +1,549 @@
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7 daytrader7_all.csv
+Can not find rapl data for all runs
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no1\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.197582  0.0047186199
+Application Server CPU Utilization                         0.181003  0.0097561894
+Application Server Memory Utilization                      0.811289  0.0000000000
+CPU Frequency                                             -0.197233  0.0047942948
+CPU Utilization                                            0.887941  0.0000000000
+Memory Utilization                                         0.809783  0.0000000000
+Number of HTTP request                                     0.499259  0.0000000000
+Number of Requests with RequestMethod GET                  0.498439  0.0000000000
+Number of Requests with RequestMethod POST                 0.462961  0.0000000000
+Number of Requests with ResponseCode 101                   0.409747  0.0000000013
+Number of Requests with ResponseCode 200                   0.495712  0.0000000000
+Number of Requests with ResponseCode 302                   0.162889  0.0202326203
+Number of network packets                                  0.463291  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.470389  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no10\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.073945  0.2920167453
+Application Server CPU Utilization                        -0.038466  0.5839794898
+Application Server Memory Utilization                     -0.052330  0.4561581666
+CPU Frequency                                              0.237304  0.0006126216
+CPU Utilization                                           -0.588750  0.0000000000
+Memory Utilization                                        -0.073900  0.2923140615
+Number of HTTP request                                    -0.839428  0.0000000000
+Number of Requests with RequestMethod GET                 -0.835778  0.0000000000
+Number of Requests with RequestMethod POST                -0.695246  0.0000000000
+Number of Requests with ResponseCode 101                  -0.554444  0.0000000000
+Number of Requests with ResponseCode 200                  -0.837439  0.0000000000
+Number of exceptions                                      -0.021526  0.7593379605
+Number of network packets                                 -0.849385  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.832663  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no11\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.231595  0.0009394987
+Application Server CPU Utilization                         0.162261  0.0213707187
+Application Server Memory Utilization                     -0.147927  0.0361092707
+CPU Frequency                                              0.293518  0.0000234834
+CPU Utilization                                           -0.627924  0.0000000000
+Memory Utilization                                        -0.213750  0.0023127008
+Number of HTTP request                                    -0.863260  0.0000000000
+Number of Requests with RequestMethod GET                 -0.860826  0.0000000000
+Number of Requests with RequestMethod POST                -0.696245  0.0000000000
+Number of Requests with ResponseCode 101                  -0.541051  0.0000000000
+Number of Requests with ResponseCode 200                  -0.862385  0.0000000000
+Number of network packets                                 -0.876339  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.862079  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no12\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.062613  0.3832974211
+Application Server CPU Utilization                        -0.028840  0.6882316064
+Application Server Memory Utilization                     -0.115570  0.1067367206
+CPU Frequency                                              0.223395  0.0016473186
+CPU Utilization                                           -0.591933  0.0000000000
+Memory Utilization                                        -0.148547  0.0377192874
+Number of HTTP request                                    -0.792477  0.0000000000
+Number of Requests with RequestMethod GET                 -0.790420  0.0000000000
+Number of Requests with RequestMethod POST                -0.576569  0.0000000000
+Number of Requests with ResponseCode 101                  -0.331143  0.0000021288
+Number of Requests with ResponseCode 200                  -0.797382  0.0000000000
+Number of network packets                                 -0.809004  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.783386  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no13\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.186929  0.0080394118
+Application Server CPU Utilization                         0.180314  0.0106183301
+Application Server Memory Utilization                      0.823272  0.0000000000
+CPU Frequency                                             -0.252120  0.0003163584
+CPU Utilization                                            0.905015  0.0000000000
+Memory Utilization                                         0.824604  0.0000000000
+Number of HTTP request                                     0.587319  0.0000000000
+Number of Requests with RequestMethod GET                  0.586034  0.0000000000
+Number of Requests with RequestMethod POST                 0.519417  0.0000000000
+Number of Requests with ResponseCode 101                   0.502112  0.0000000000
+Number of Requests with ResponseCode 200                   0.586747  0.0000000000
+Number of Requests with ResponseCode 302                   0.002991  0.9664728377
+Number of network packets                                  0.555285  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.560450  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no14\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.309367  0.0000107878
+Application Server CPU Utilization                         0.180069  0.0117691935
+Application Server Memory Utilization                     -0.103369  0.1504219848
+CPU Frequency                                              0.198782  0.0053387436
+CPU Utilization                                           -0.752903  0.0000000000
+Memory Utilization                                        -0.182806  0.0105298322
+Number of HTTP request                                    -0.826975  0.0000000000
+Number of Requests with RequestMethod GET                 -0.819375  0.0000000000
+Number of Requests with RequestMethod POST                -0.704679  0.0000000000
+Number of Requests with ResponseCode 101                  -0.421177  0.0000000009
+Number of Requests with ResponseCode 200                  -0.827688  0.0000000000
+Number of network packets                                 -0.837815  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.817260  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no15\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.243100  0.0005771157
+Application Server CPU Utilization                         0.247174  0.0004623449
+Application Server Memory Utilization                      0.832264  0.0000000000
+CPU Frequency                                             -0.304809  0.0000133035
+CPU Utilization                                            0.890118  0.0000000000
+Memory Utilization                                         0.786930  0.0000000000
+Number of HTTP request                                     0.555601  0.0000000000
+Number of Requests with RequestMethod GET                  0.553142  0.0000000000
+Number of Requests with RequestMethod POST                 0.502595  0.0000000000
+Number of Requests with ResponseCode 101                   0.493727  0.0000000000
+Number of Requests with ResponseCode 200                   0.545652  0.0000000000
+Number of Requests with ResponseCode 302                   0.248726  0.0004245032
+Number of network packets                                  0.512484  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.515798  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no2\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.085425  0.2279117856
+Application Server CPU Utilization                        -0.054453  0.4426269919
+Application Server Memory Utilization                     -0.106956  0.1307277338
+CPU Frequency                                              0.149262  0.0344449118
+CPU Utilization                                           -0.556743  0.0000000000
+Memory Utilization                                        -0.136838  0.0527405829
+Number of HTTP request                                    -0.808352  0.0000000000
+Number of Requests with RequestMethod GET                 -0.808501  0.0000000000
+Number of Requests with RequestMethod POST                -0.618903  0.0000000000
+Number of Requests with ResponseCode 101                  -0.533956  0.0000000000
+Number of Requests with ResponseCode 200                  -0.809141  0.0000000000
+Number of network packets                                 -0.820966  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.805901  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no3\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.220872  0.0014211949
+Application Server CPU Utilization                         0.085323  0.2226945918
+Application Server Memory Utilization                     -0.107634  0.1235819632
+CPU Frequency                                              0.375071  0.0000000278
+CPU Utilization                                           -0.553766  0.0000000000
+Memory Utilization                                        -0.098239  0.1600742775
+Number of HTTP request                                    -0.818906  0.0000000000
+Number of Requests with RequestMethod GET                 -0.815489  0.0000000000
+Number of Requests with RequestMethod POST                -0.686960  0.0000000000
+Number of Requests with ResponseCode 101                  -0.539642  0.0000000000
+Number of Requests with ResponseCode 200                  -0.817977  0.0000000000
+Number of network packets                                 -0.836452  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.813183  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no4\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.310239  0.0000082185
+Application Server CPU Utilization                         0.139344  0.0496588937
+Application Server Memory Utilization                     -0.069962  0.3261387096
+CPU Frequency                                              0.249156  0.0003870398
+CPU Utilization                                           -0.398762  0.0000000054
+Memory Utilization                                        -0.145406  0.0404444253
+Number of HTTP request                                    -0.701029  0.0000000000
+Number of Requests with RequestMethod GET                 -0.696566  0.0000000000
+Number of Requests with RequestMethod POST                -0.553225  0.0000000000
+Number of Requests with ResponseCode 101                  -0.439482  0.0000000001
+Number of Requests with ResponseCode 200                  -0.700282  0.0000000000
+Number of network packets                                 -0.724118  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.695945  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no5\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.279968  0.0000479049
+Application Server CPU Utilization                         0.153893  0.0275890135
+Application Server Memory Utilization                     -0.116318  0.0967364781
+CPU Frequency                                              0.322588  0.0000023908
+CPU Utilization                                           -0.597220  0.0000000000
+Memory Utilization                                        -0.143038  0.0407559420
+Number of HTTP request                                    -0.844534  0.0000000000
+Number of Requests with RequestMethod GET                 -0.841391  0.0000000000
+Number of Requests with RequestMethod POST                -0.711725  0.0000000000
+Number of Requests with ResponseCode 101                  -0.546988  0.0000000000
+Number of Requests with ResponseCode 200                  -0.844349  0.0000000000
+Number of network packets                                 -0.860898  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.843244  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no6\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.172353  0.0127960588
+Application Server CPU Utilization                         0.159187  0.0216383594
+Application Server Memory Utilization                      0.810334  0.0000000000
+CPU Frequency                                             -0.072710  0.2966225657
+CPU Utilization                                            0.827378  0.0000000000
+Memory Utilization                                         0.819027  0.0000000000
+Number of HTTP request                                     0.381290  0.0000000133
+Number of Requests with RequestMethod GET                  0.379637  0.0000000156
+Number of Requests with RequestMethod POST                 0.353199  0.0000001669
+Number of Requests with ResponseCode 101                   0.316439  0.0000032169
+Number of Requests with ResponseCode 200                   0.378263  0.0000000177
+Number of Requests with ResponseCode 302                   0.151464  0.0289694206
+Number of network packets                                  0.349473  0.0000002293
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.358563  0.0000001049
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no7\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.393092  0.0000000120
+Application Server CPU Utilization                         0.370532  0.0000000900
+Application Server Memory Utilization                      0.526350  0.0000000000
+CPU Frequency                                             -0.087417  0.2230944151
+CPU Utilization                                            0.780081  0.0000000000
+Memory Utilization                                         0.481891  0.0000000000
+Number of HTTP request                                     0.170542  0.0168552877
+Number of Requests with RequestMethod GET                  0.165837  0.0201803339
+Number of Requests with RequestMethod POST                 0.180288  0.0114505472
+Number of Requests with ResponseCode 101                   0.144117  0.0438772867
+Number of Requests with ResponseCode 200                   0.168314  0.0183651106
+Number of network packets                                  0.175777  0.0137261529
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.173120  0.0152442798
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no8\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.444884  0.0000000001
+Application Server CPU Utilization                         0.360469  0.0000002262
+Application Server Memory Utilization                     -0.070574  0.3268861338
+CPU Frequency                                              0.252806  0.0003629696
+CPU Utilization                                           -0.644778  0.0000000000
+Memory Utilization                                        -0.118674  0.0984553879
+Number of HTTP request                                    -0.801285  0.0000000000
+Number of Requests with RequestMethod GET                 -0.798189  0.0000000000
+Number of Requests with RequestMethod POST                -0.586525  0.0000000000
+Number of Requests with ResponseCode 101                  -0.345673  0.0000007442
+Number of Requests with ResponseCode 200                  -0.804720  0.0000000000
+Number of network packets                                 -0.811431  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.789775  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no9\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.289723  0.0000380732
+Application Server CPU Utilization                         0.278681  0.0000764625
+Application Server Memory Utilization                      0.728696  0.0000000000
+CPU Frequency                                             -0.141480  0.0479275612
+CPU Utilization                                            0.848936  0.0000000000
+Memory Utilization                                         0.676023  0.0000000000
+Number of HTTP request                                     0.384251  0.0000000270
+Number of Requests with RequestMethod GET                  0.385967  0.0000000231
+Number of Requests with RequestMethod POST                 0.316847  0.0000060508
+Number of Requests with ResponseCode 101                   0.320440  0.0000046768
+Number of Requests with ResponseCode 200                   0.381922  0.0000000332
+Number of Requests with ResponseCode 302                   0.164229  0.0214406184
+Number of network packets                                  0.352623  0.0000004001
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.353501  0.0000003727
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10 daytrader10_all.csv
+Can not find rapl data for all runs
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no1\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.106311  0.1330782089
+Application Server CPU Utilization                        -0.607149  0.0000000000
+Application Server Memory Utilization                     -0.193773  0.0058469890
+CPU Frequency                                              0.192596  0.0061590925
+CPU Utilization                                           -0.627403  0.0000000000
+Memory Utilization                                        -0.144137  0.0412082066
+Number of HTTP request                                    -0.883369  0.0000000000
+Number of Requests with RequestMethod GET                 -0.881129  0.0000000000
+Number of Requests with RequestMethod POST                -0.703409  0.0000000000
+Number of Requests with ResponseCode 101                  -0.426829  0.0000000003
+Number of Requests with ResponseCode 200                  -0.883018  0.0000000000
+Number of exceptions                                      -0.019796  0.7802921698
+Number of network packets                                 -0.876690  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.878978  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no10\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.881360  0.0000000000
+Application Server CPU Utilization                         0.575681  0.0000000000
+Application Server Memory Utilization                      0.550799  0.0000000000
+CPU Frequency                                             -0.078234  0.2720509633
+CPU Utilization                                            0.695852  0.0000000000
+Memory Utilization                                         0.556922  0.0000000000
+Number of HTTP request                                     0.044957  0.5283566405
+Number of Requests with RequestMethod GET                  0.041705  0.5586392532
+Number of Requests with RequestMethod POST                 0.059577  0.4032195255
+Number of Requests with ResponseCode 101                   0.054895  0.4412460084
+Number of Requests with ResponseCode 200                   0.042779  0.5485415721
+Number of exceptions                                      -0.002947  0.9670529519
+Number of network packets                                  0.043284  0.5438316991
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.044603  0.5316079240
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no11\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.993909  0.0000000000
+Application Server CPU Utilization                         0.928793  0.0000000000
+Application Server Memory Utilization                      0.917067  0.0000000000
+CPU Frequency                                             -0.078519  0.2666721594
+CPU Utilization                                            0.942122  0.0000000000
+Memory Utilization                                         0.918085  0.0000000000
+Number of HTTP request                                     0.314767  0.0000050566
+Number of Requests with RequestMethod GET                  0.295880  0.0000190912
+Number of Requests with RequestMethod POST                 0.420576  0.0000000005
+Number of Requests with ResponseCode 101                   0.269574  0.0001046011
+Number of Requests with ResponseCode 200                   0.332047  0.0000013815
+Number of Requests with ResponseCode 302                  -0.517287  0.0000000000
+Number of exceptions                                       0.057378  0.4173095695
+Number of network packets                                  0.356249  0.0000001955
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.361302  0.0000001273
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no12\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.057327  0.4200693270
+Application Server CPU Utilization                        -0.608464  0.0000000000
+Application Server Memory Utilization                     -0.192548  0.0063032597
+CPU Frequency                                              0.289563  0.0000319896
+CPU Utilization                                           -0.638815  0.0000000000
+Memory Utilization                                        -0.117677  0.0970071785
+Number of HTTP request                                    -0.850978  0.0000000000
+Number of Requests with RequestMethod GET                 -0.843033  0.0000000000
+Number of Requests with RequestMethod POST                -0.712857  0.0000000000
+Number of Requests with ResponseCode 101                  -0.515341  0.0000000000
+Number of Requests with ResponseCode 200                  -0.848853  0.0000000000
+Number of exceptions                                      -0.032770  0.6450459926
+Number of network packets                                 -0.844857  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.838136  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no13\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.997142  0.0000000000
+Application Server CPU Utilization                         0.914707  0.0000000000
+Application Server Memory Utilization                      0.892982  0.0000000000
+CPU Frequency                                             -0.109705  0.1182897124
+CPU Utilization                                            0.922426  0.0000000000
+Memory Utilization                                         0.894705  0.0000000000
+Number of HTTP request                                     0.310295  0.0000062826
+Number of Requests with RequestMethod GET                  0.304618  0.0000094314
+Number of Requests with RequestMethod POST                 0.319187  0.0000032684
+Number of Requests with ResponseCode 101                   0.218992  0.0016501147
+Number of Requests with ResponseCode 200                   0.320559  0.0000029494
+Number of Requests with ResponseCode 302                  -0.443100  0.0000000000
+Number of exceptions                                      -0.074108  0.2921502967
+Number of network packets                                  0.331233  0.0000013037
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.338435  0.0000007383
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no14\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                              -0.130052  0.0650728683
+Application Server CPU Utilization                        -0.672818  0.0000000000
+Application Server Memory Utilization                     -0.105438  0.1353263912
+CPU Frequency                                              0.308645  0.0000078569
+CPU Utilization                                           -0.689956  0.0000000000
+Memory Utilization                                        -0.072609  0.3044614448
+Number of HTTP request                                    -0.851757  0.0000000000
+Number of Requests with RequestMethod GET                 -0.840092  0.0000000000
+Number of Requests with RequestMethod POST                -0.713701  0.0000000000
+Number of Requests with ResponseCode 101                  -0.511563  0.0000000000
+Number of Requests with ResponseCode 200                  -0.850409  0.0000000000
+Number of exceptions                                      -0.028818  0.6839149171
+Number of network packets                                 -0.846482  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.836954  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no15\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.994233  0.0000000000
+Application Server CPU Utilization                         0.903923  0.0000000000
+Application Server Memory Utilization                      0.864590  0.0000000000
+CPU Frequency                                             -0.190209  0.0064311217
+CPU Utilization                                            0.924994  0.0000000000
+Memory Utilization                                         0.865753  0.0000000000
+Number of HTTP request                                     0.403783  0.0000000021
+Number of Requests with RequestMethod GET                  0.391601  0.0000000070
+Number of Requests with RequestMethod POST                 0.427684  0.0000000002
+Number of Requests with ResponseCode 101                   0.195927  0.0049776022
+Number of Requests with ResponseCode 200                   0.405555  0.0000000018
+Number of exceptions                                       0.028078  0.6901514901
+Number of network packets                                  0.410004  0.0000000011
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.397493  0.0000000039
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no2\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.967017  0.0000000000
+Application Server CPU Utilization                         0.738411  0.0000000000
+Application Server Memory Utilization                      0.678689  0.0000000000
+CPU Frequency                                             -0.021156  0.7639142264
+CPU Utilization                                            0.811606  0.0000000000
+Memory Utilization                                         0.678982  0.0000000000
+Number of HTTP request                                     0.228362  0.0010193134
+Number of Requests with RequestMethod GET                  0.224949  0.0012175757
+Number of Requests with RequestMethod POST                 0.200083  0.0041141742
+Number of Requests with ResponseCode 101                   0.165586  0.0179391682
+Number of Requests with ResponseCode 200                   0.226190  0.0011417299
+Number of exceptions                                       0.003844  0.9564814077
+Number of network packets                                  0.216434  0.0018756629
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.222751  0.0013633738
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no3\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.997185  0.0000000000
+Application Server CPU Utilization                         0.954982  0.0000000000
+Application Server Memory Utilization                      0.924953  0.0000000000
+CPU Frequency                                             -0.104381  0.1403027434
+CPU Utilization                                            0.962958  0.0000000000
+Memory Utilization                                         0.925150  0.0000000000
+Number of HTTP request                                     0.366305  0.0000000890
+Number of Requests with RequestMethod GET                  0.367496  0.0000000802
+Number of Requests with RequestMethod POST                 0.303000  0.0000122999
+Number of Requests with ResponseCode 101                   0.198353  0.0047621323
+Number of Requests with ResponseCode 200                   0.371871  0.0000000546
+Number of Requests with ResponseCode 302                  -0.395792  0.0000000060
+Number of Requests with ResponseCode 500                  -0.079236  0.2635175560
+Number of exceptions                                      -0.047302  0.5048894473
+Number of network packets                                  0.413417  0.0000000011
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.426602  0.0000000003
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no4\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.279552  0.0000536253
+Application Server CPU Utilization                         0.261408  0.0001650868
+Application Server Memory Utilization                      0.929880  0.0000000000
+CPU Frequency                                              0.072394  0.3046843514
+CPU Utilization                                            0.901800  0.0000000000
+Memory Utilization                                         0.825191  0.0000000000
+Number of HTTP request                                    -0.272401  0.0000843276
+Number of Requests with RequestMethod GET                 -0.282968  0.0000430068
+Number of Requests with RequestMethod POST                -0.137547  0.0503536183
+Number of Requests with ResponseCode 101                  -0.206233  0.0031569551
+Number of Requests with ResponseCode 200                  -0.302422  0.0000115786
+Number of Requests with ResponseCode 302                   0.369059  0.0000000602
+Number of Requests with ResponseCode 500                  -0.027977  0.6919337055
+Number of exceptions                                       0.029941  0.6715211797
+Number of network packets                                 -0.304512  0.0000099989
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.328820  0.0000016686
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no5\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.996030  0.0000000000
+Application Server CPU Utilization                         0.885343  0.0000000000
+Application Server Memory Utilization                      0.875873  0.0000000000
+CPU Frequency                                             -0.064484  0.3559503974
+CPU Utilization                                            0.898768  0.0000000000
+Memory Utilization                                         0.877865  0.0000000000
+Number of HTTP request                                     0.222147  0.0012950470
+Number of Requests with RequestMethod GET                  0.230299  0.0008427993
+Number of Requests with RequestMethod POST                 0.108825  0.1185518068
+Number of Requests with ResponseCode 101                   0.202538  0.0034251011
+Number of Requests with ResponseCode 200                   0.235334  0.0006415165
+Number of Requests with ResponseCode 302                  -0.462752  0.0000000000
+Number of Requests with ResponseCode 500                  -0.105709  0.1295363766
+Number of exceptions                                      -0.074231  0.2877795641
+Number of network packets                                  0.276270  0.0000559030
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                    0.295388  0.0000155344
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no6\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.266858  0.0001187472
+Application Server CPU Utilization                        -0.578046  0.0000000000
+Application Server Memory Utilization                     -0.149476  0.0332932360
+CPU Frequency                                              0.396400  0.0000000048
+CPU Utilization                                           -0.604808  0.0000000000
+Memory Utilization                                        -0.080864  0.2514216448
+Number of HTTP request                                    -0.892322  0.0000000000
+Number of Requests with RequestMethod GET                 -0.881658  0.0000000000
+Number of Requests with RequestMethod POST                -0.745556  0.0000000000
+Number of Requests with ResponseCode 101                  -0.550612  0.0000000000
+Number of Requests with ResponseCode 200                  -0.889661  0.0000000000
+Number of exceptions                                      -0.012127  0.8636525785
+Number of network packets                                 -0.885865  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.880924  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no7\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.015457  0.8267468126
+Application Server CPU Utilization                        -0.653159  0.0000000000
+Application Server Memory Utilization                     -0.225375  0.0012251477
+CPU Frequency                                              0.135685  0.0535803436
+CPU Utilization                                           -0.646487  0.0000000000
+Memory Utilization                                        -0.207572  0.0029623436
+Number of HTTP request                                    -0.866783  0.0000000000
+Number of Requests with RequestMethod GET                 -0.859377  0.0000000000
+Number of Requests with RequestMethod POST                -0.768853  0.0000000000
+Number of Requests with ResponseCode 101                  -0.483666  0.0000000000
+Number of Requests with ResponseCode 200                  -0.865360  0.0000000000
+Number of exceptions                                      -0.027882  0.6929255341
+Number of network packets                                 -0.858195  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.859724  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no8\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.123606  0.0796705466
+Application Server CPU Utilization                        -0.480276  0.0000000000
+Application Server Memory Utilization                     -0.224655  0.0013075533
+CPU Frequency                                              0.354631  0.0000002240
+CPU Utilization                                           -0.423872  0.0000000003
+Memory Utilization                                        -0.118962  0.0917441751
+Number of HTTP request                                    -0.852759  0.0000000000
+Number of Requests with RequestMethod GET                 -0.843068  0.0000000000
+Number of Requests with RequestMethod POST                -0.741012  0.0000000000
+Number of Requests with ResponseCode 101                  -0.541329  0.0000000000
+Number of Requests with ResponseCode 200                  -0.851724  0.0000000000
+Number of exceptions                                      -0.019695  0.7808492050
+Number of network packets                                 -0.847804  0.0000000000
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.844351  0.0000000000
+
+C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no9\correlation_results.csv
+                                            correlation_coefficient       p_value
+Application Server CPU Power                               0.311310  0.0000072233
+Application Server CPU Utilization                         0.298499  0.0000176079
+Application Server Memory Utilization                      0.936685  0.0000000000
+CPU Frequency                                             -0.049499  0.4863915346
+CPU Utilization                                            0.919189  0.0000000000
+Memory Utilization                                         0.849447  0.0000000000
+Number of HTTP request                                    -0.176324  0.0125047426
+Number of Requests with RequestMethod GET                 -0.180368  0.0105943394
+Number of Requests with RequestMethod POST                -0.126079  0.0752461067
+Number of Requests with ResponseCode 101                  -0.152917  0.0306371305
+Number of Requests with ResponseCode 200                  -0.211687  0.0026201255
+Number of Requests with ResponseCode 302                   0.360095  0.0000001629
+Number of Requests with ResponseCode 500                  -0.087347  0.2187435760
+Number of exceptions                                      -0.120690  0.0886900341
+Number of network packets                                 -0.210638  0.0027547509
+Total Power                                                1.000000  0.0000000000
+Total length of packets                                   -0.230252  0.0010379582
+
+C:\Users\tmpnguyen\CollectedLogs_TS\analysis>

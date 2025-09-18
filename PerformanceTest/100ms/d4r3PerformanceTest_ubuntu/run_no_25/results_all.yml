@@ -1,0 +1,80 @@
+BaselineInfo:
+  WebDBID: -1
+  TimeStamp: 20241210122431
+Version:
+  Major: 11
+  Minor: 0
+  Build: 1002
+  SpecialBuildName: ""
+  ptArchitecture: x86_64_linux
+Results:
+  Results Complete: true
+  NumTestProcesses: 1
+  CPU_INTEGER_MATH: 4409.5685999999996
+  CPU_FLOATINGPOINT_MATH: 3644.6871802253627
+  CPU_PRIME: 9.3394565337949409
+  CPU_SORTING: 2673.9002343259672
+  CPU_ENCRYPTION: 563.29048388378828
+  CPU_COMPRESSION: 21967.612714772262
+  CPU_SINGLETHREAD: 2226.5611967017571
+  CPU_PHYSICS: 150.52177134204507
+  CPU_MATRIX_MULT_SSE: 1632.2912647909609
+  CPU_mm: 201.30795200283336
+  CPU_sse: 789.87353499282904
+  CPU_fma: 2454.5489053550677
+  CPU_avx: 1652.4513540249861
+  CPU_avx512: 0
+  m_CPU_enc_SHA: 304316980.498685
+  m_CPU_enc_AES: 1201114216.4123049
+  m_CPU_enc_ECDSA: 266527450.37579173
+  ME_ALLOC_S: 810.2454692158401
+  ME_READ_S: 23002.965722656249
+  ME_READ_L: 11760.0380859375
+  ME_WRITE: 5738.193359375
+  ME_LARGE: 1512.7
+  ME_LATENCY: 54.19138856655379
+  ME_THREADED: 13997.7919921875
+  SUMM_CPU: 1758.0520520481064
+  SUMM_ME: 1310.4041350788473
+SystemInformation:
+  OSName: Ubuntu 22.04.4 LTS
+  Kernel: 5.15.0-125-generic
+  Device: ""
+  Processor: Intel Core i3-6100 CPU @ 3.70GHz
+  NumSockets: 1
+  Manufacturer: GenuineIntel
+  NumCores: 2
+  NumLogicals: 4
+  CPUFrequency: 3700
+  Memory: 7800
+  MemModuleInfo:
+    iNumMemSticks: 4
+    DIMM 1:
+      manufacturer: 802C0000802C
+      modulePartNo: "8ATF1G64AZ-2G3H1    "
+      memType: DDR4
+      size: 8
+      clkspeed: 1200
+      moduleVoltage: 1.20000005
+    DIMM 2:
+      manufacturer: Not Specified
+      modulePartNo: Not Specified
+      memType: Unknown
+      size: 0
+      clkspeed: 0
+      moduleVoltage: 0
+    DIMM 3:
+      manufacturer: Not Specified
+      modulePartNo: Not Specified
+      memType: Unknown
+      size: 0
+      clkspeed: 0
+      moduleVoltage: 0
+    DIMM 4:
+      manufacturer: Not Specified
+      modulePartNo: Not Specified
+      memType: Unknown
+      size: 0
+      clkspeed: 0
+      moduleVoltage: 0
+Checksum: 5916BC7BAF34FA688187397B3B669C5A1D54DB5C

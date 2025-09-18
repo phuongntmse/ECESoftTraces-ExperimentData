@@ -1,0 +1,519 @@
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726149779
+########### READY FOR THE RUN NO. 0 at: 1726149779 ###########
+curl: (7) Failed to connect to 10.0.25.25 port 9080 after 2049 ms: Couldn't connect to server
+Error resetting trade: Command '['curl', '-X', 'GET', 'http://10.0.25.25:9080/daytrader/config?action=resetTrade']' returned non-zero exit status 7.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 4:03:02 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 4:03:03 PM CEST (1726149783124)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:02 =    0.4/s Avg:  2065 Min:  2065 Max:  2065 Err:     1 (100.00%) Active: 50 Started: 50 Finished: 0
+summary +    603 in 00:00:25 =   24.6/s Avg:  1942 Min:     0 Max:  2974 Err:   594 (98.51%) Active: 50 Started: 50 Finished: 0
+summary =    604 in 00:00:27 =   22.5/s Avg:  1942 Min:     0 Max:  2974 Err:   595 (98.51%)
+summary +   6165 in 00:00:30 =  205.5/s Avg:   157 Min:     0 Max:  4357 Err:   571 (9.26%) Active: 50 Started: 50 Finished: 0
+summary =   6769 in 00:00:57 =  119.2/s Avg:   316 Min:     0 Max:  4357 Err:  1166 (17.23%)
+summary +   8238 in 00:00:30 =  274.6/s Avg:    81 Min:     0 Max:   879 Err:     7 (0.08%) Active: 50 Started: 50 Finished: 0
+summary =  15007 in 00:01:27 =  172.9/s Avg:   187 Min:     0 Max:  4357 Err:  1173 (7.82%)
+summary +   9133 in 00:00:30 =  304.4/s Avg:    63 Min:     0 Max:   402 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  24140 in 00:01:57 =  206.7/s Avg:   140 Min:     0 Max:  4357 Err:  1173 (4.86%)
+summary +   9563 in 00:00:30 =  318.8/s Avg:    56 Min:     0 Max:   559 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  33703 in 00:02:27 =  229.6/s Avg:   116 Min:     0 Max:  4357 Err:  1173 (3.48%)
+summary +  10379 in 00:00:30 =  345.9/s Avg:    42 Min:     0 Max:   345 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  44082 in 00:02:57 =  249.3/s Avg:    99 Min:     0 Max:  4357 Err:  1173 (2.66%)
+summary +   1103 in 00:00:03 =  329.4/s Avg:    48 Min:     0 Max:   266 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  45185 in 00:03:00 =  250.8/s Avg:    97 Min:     0 Max:  4357 Err:  1173 (2.60%)
+Tidying up ...    @ September 12, 2024 4:06:03 PM CEST (1726149963358)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726149964 ###########
+Experiment end at: 1726149964
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726150505
+########### READY FOR THE RUN NO. 0 at: 1726150505 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 4:15:07 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 4:15:08 PM CEST (1726150508163)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +   3744 in 00:00:22 =  172.3/s Avg:   184 Min:     0 Max:  2268 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   7315 in 00:00:30 =  243.8/s Avg:   105 Min:     0 Max:   700 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  11059 in 00:00:52 =  213.7/s Avg:   132 Min:     0 Max:  2268 Err:     0 (0.00%)
+summary +   8651 in 00:00:30 =  288.4/s Avg:    71 Min:     0 Max:   402 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  19710 in 00:01:22 =  241.1/s Avg:   105 Min:     0 Max:  2268 Err:     0 (0.00%)
+summary +   8849 in 00:00:30 =  294.9/s Avg:    68 Min:     0 Max:   453 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  28559 in 00:01:52 =  255.6/s Avg:    94 Min:     0 Max:  2268 Err:     0 (0.00%)
+summary +   9343 in 00:00:30 =  311.4/s Avg:    60 Min:     0 Max:   508 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  37902 in 00:02:22 =  267.4/s Avg:    85 Min:     0 Max:  2268 Err:     0 (0.00%)
+summary +  10088 in 00:00:30 =  336.3/s Avg:    47 Min:     0 Max:   416 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  47990 in 00:02:52 =  279.4/s Avg:    77 Min:     0 Max:  2268 Err:     0 (0.00%)
+summary +   2909 in 00:00:08 =  344.1/s Avg:    46 Min:     0 Max:   347 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  50899 in 00:03:00 =  282.5/s Avg:    75 Min:     0 Max:  2268 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 4:18:08 PM CEST (1726150688459)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726150690 ###########
+Experiment end at: 1726150690
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726151216
+########### READY FOR THE RUN NO. 0 at: 1726151216 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 4:26:58 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 4:26:58 PM CEST (1726151218630)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +     26 in 00:00:01 =   19.9/s Avg:   761 Min:   554 Max:  1097 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   6144 in 00:00:30 =  205.0/s Avg:   146 Min:     0 Max:  1918 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   6170 in 00:00:31 =  197.3/s Avg:   149 Min:     0 Max:  1918 Err:     0 (0.00%)
+summary +   8144 in 00:00:30 =  271.5/s Avg:    84 Min:     0 Max:   659 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  14314 in 00:01:01 =  233.6/s Avg:   112 Min:     0 Max:  1918 Err:     0 (0.00%)
+summary +   9768 in 00:00:30 =  325.6/s Avg:    51 Min:     0 Max:   419 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  24082 in 00:01:31 =  263.8/s Avg:    87 Min:     0 Max:  1918 Err:     0 (0.00%)
+summary +   9862 in 00:00:30 =  328.7/s Avg:    51 Min:     0 Max:   432 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  33944 in 00:02:01 =  279.9/s Avg:    77 Min:     0 Max:  1918 Err:     0 (0.00%)
+summary +  10575 in 00:00:30 =  352.5/s Avg:    39 Min:     0 Max:   329 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  44519 in 00:02:31 =  294.3/s Avg:    68 Min:     0 Max:  1918 Err:     0 (0.00%)
+summary +  10653 in 00:00:29 =  369.0/s Avg:    33 Min:     0 Max:   322 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  55172 in 00:03:00 =  306.3/s Avg:    61 Min:     0 Max:  1918 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 4:29:58 PM CEST (1726151398873)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726151400 ###########
+Experiment end at: 1726151400
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726151936
+########### READY FOR THE RUN NO. 0 at: 1726151936 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 4:38:58 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 4:38:58 PM CEST (1726151938955)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +     17 in 00:00:01 =   17.4/s Avg:   646 Min:   540 Max:   794 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   5478 in 00:00:30 =  182.8/s Avg:   178 Min:     0 Max:  1864 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   5495 in 00:00:31 =  177.6/s Avg:   179 Min:     0 Max:  1864 Err:     0 (0.00%)
+summary +   8389 in 00:00:30 =  279.7/s Avg:    77 Min:     0 Max:   368 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  13884 in 00:01:01 =  227.8/s Avg:   118 Min:     0 Max:  1864 Err:     0 (0.00%)
+summary +   9231 in 00:00:30 =  307.7/s Avg:    61 Min:     0 Max:   420 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  23115 in 00:01:31 =  254.2/s Avg:    95 Min:     0 Max:  1864 Err:     0 (0.00%)
+summary +  10433 in 00:00:30 =  347.8/s Avg:    41 Min:     0 Max:   370 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  33548 in 00:02:01 =  277.4/s Avg:    78 Min:     0 Max:  1864 Err:     0 (0.00%)
+summary +  10908 in 00:00:30 =  363.6/s Avg:    36 Min:     0 Max:   303 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  44456 in 00:02:31 =  294.5/s Avg:    68 Min:     0 Max:  1864 Err:     0 (0.00%)
+summary +  11340 in 00:00:29 =  388.5/s Avg:    26 Min:     0 Max:   251 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  55796 in 00:03:00 =  309.8/s Avg:    59 Min:     0 Max:  1864 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 4:41:59 PM CEST (1726152119189)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726152120 ###########
+Experiment end at: 1726152120
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726152775
+########### READY FOR THE RUN NO. 0 at: 1726152775 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 4:52:57 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 4:52:57 PM CEST (1726152777608)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    212 in 00:00:02 =   92.3/s Avg:   414 Min:    45 Max:  2139 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   5708 in 00:00:30 =  190.3/s Avg:   160 Min:     0 Max:  1160 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   5920 in 00:00:32 =  183.3/s Avg:   169 Min:     0 Max:  2139 Err:     0 (0.00%)
+summary +   8485 in 00:00:30 =  282.8/s Avg:    75 Min:     0 Max:   669 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  14405 in 00:01:02 =  231.2/s Avg:   114 Min:     0 Max:  2139 Err:     0 (0.00%)
+summary +   9485 in 00:00:30 =  316.1/s Avg:    57 Min:     0 Max:   528 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  23890 in 00:01:32 =  258.8/s Avg:    91 Min:     0 Max:  2139 Err:     0 (0.00%)
+summary +   9505 in 00:00:30 =  316.9/s Avg:    56 Min:     0 Max:   452 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  33395 in 00:02:02 =  273.1/s Avg:    81 Min:     0 Max:  2139 Err:     0 (0.00%)
+summary +   9910 in 00:00:30 =  330.3/s Avg:    50 Min:     0 Max:   483 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  43305 in 00:02:32 =  284.3/s Avg:    74 Min:     0 Max:  2139 Err:     0 (0.00%)
+summary +   9882 in 00:00:28 =  354.8/s Avg:    39 Min:     0 Max:   419 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  53187 in 00:03:00 =  295.2/s Avg:    68 Min:     0 Max:  2139 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 4:55:57 PM CEST (1726152957855)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726152959 ###########
+Experiment end at: 1726152959
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726153470
+########### READY FOR THE RUN NO. 0 at: 1726153470 ###########
+curl: (7) Failed to connect to 10.0.25.25 port 9080 after 2052 ms: Couldn't connect to server
+Error resetting trade: Command '['curl', '-X', 'GET', 'http://10.0.25.25:9080/daytrader/config?action=resetTrade']' returned non-zero exit status 7.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 5:04:33 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 5:04:33 PM CEST (1726153473919)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +   1551 in 00:00:26 =   59.7/s Avg:   729 Min:     0 Max:  4635 Err:   773 (49.84%) Active: 50 Started: 50 Finished: 0
+summary +   5764 in 00:00:30 =  192.1/s Avg:   161 Min:     0 Max:  1782 Err:   263 (4.56%) Active: 50 Started: 50 Finished: 0
+summary =   7315 in 00:00:56 =  130.6/s Avg:   281 Min:     0 Max:  4635 Err:  1036 (14.16%)
+summary +   8010 in 00:00:30 =  267.0/s Avg:    86 Min:     0 Max:   531 Err:     8 (0.10%) Active: 50 Started: 50 Finished: 0
+summary =  15325 in 00:01:26 =  178.2/s Avg:   179 Min:     0 Max:  4635 Err:  1044 (6.81%)
+summary +   8559 in 00:00:30 =  285.3/s Avg:    73 Min:     0 Max:   465 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  23884 in 00:01:56 =  205.9/s Avg:   141 Min:     0 Max:  4635 Err:  1044 (4.37%)
+summary +   9516 in 00:00:30 =  317.2/s Avg:    56 Min:     0 Max:   501 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  33400 in 00:02:26 =  228.8/s Avg:   117 Min:     0 Max:  4635 Err:  1044 (3.13%)
+summary +  10214 in 00:00:30 =  340.4/s Avg:    46 Min:     0 Max:   336 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  43614 in 00:02:56 =  247.8/s Avg:   100 Min:     0 Max:  4635 Err:  1044 (2.39%)
+summary +   1436 in 00:00:04 =  344.7/s Avg:    44 Min:     0 Max:   283 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  45050 in 00:03:00 =  250.1/s Avg:    99 Min:     0 Max:  4635 Err:  1044 (2.32%)
+Tidying up ...    @ September 12, 2024 5:07:34 PM CEST (1726153654172)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726153655 ###########
+Experiment end at: 1726153655
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726154015
+########### READY FOR THE RUN NO. 0 at: 1726154015 ###########
+curl: (7) Failed to connect to 10.0.25.25 port 9080 after 2039 ms: Couldn't connect to server
+Error resetting trade: Command '['curl', '-X', 'GET', 'http://10.0.25.25:9080/daytrader/config?action=resetTrade']' returned non-zero exit status 7.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 5:13:38 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 5:13:39 PM CEST (1726154019117)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +   2379 in 00:00:21 =  114.4/s Avg:   327 Min:     0 Max:  9074 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   5900 in 00:00:30 =  196.7/s Avg:   155 Min:     0 Max:  1137 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   8279 in 00:00:51 =  163.0/s Avg:   204 Min:     0 Max:  9074 Err:     0 (0.00%)
+summary +   8495 in 00:00:30 =  283.2/s Avg:    75 Min:     0 Max:   594 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  16774 in 00:01:21 =  207.6/s Avg:   139 Min:     0 Max:  9074 Err:     0 (0.00%)
+summary +   9090 in 00:00:30 =  303.0/s Avg:    64 Min:     0 Max:   513 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  25864 in 00:01:51 =  233.4/s Avg:   112 Min:     0 Max:  9074 Err:     0 (0.00%)
+summary +   9708 in 00:00:30 =  323.6/s Avg:    52 Min:     0 Max:   299 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  35572 in 00:02:21 =  252.7/s Avg:    96 Min:     0 Max:  9074 Err:     0 (0.00%)
+summary +  10006 in 00:00:30 =  333.5/s Avg:    48 Min:     0 Max:   543 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  45578 in 00:02:51 =  266.9/s Avg:    85 Min:     0 Max:  9074 Err:     0 (0.00%)
+summary +   3271 in 00:00:09 =  349.9/s Avg:    42 Min:     0 Max:   288 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  48849 in 00:03:00 =  271.2/s Avg:    82 Min:     0 Max:  9074 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 5:16:39 PM CEST (1726154199355)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726154200 ###########
+Experiment end at: 1726154200
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726154674
+########### READY FOR THE RUN NO. 0 at: 1726154674 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 5:24:35 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 5:24:36 PM CEST (1726154676208)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +   4201 in 00:00:24 =  177.3/s Avg:   176 Min:     0 Max:  3769 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   7441 in 00:00:30 =  248.0/s Avg:   101 Min:     0 Max:   682 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  11642 in 00:00:54 =  216.8/s Avg:   128 Min:     0 Max:  3769 Err:     0 (0.00%)
+summary +   8940 in 00:00:30 =  298.0/s Avg:    66 Min:     0 Max:   497 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  20582 in 00:01:24 =  245.9/s Avg:   101 Min:     0 Max:  3769 Err:     0 (0.00%)
+summary +   8957 in 00:00:30 =  298.6/s Avg:    65 Min:     0 Max:   366 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  29539 in 00:01:54 =  259.8/s Avg:    90 Min:     0 Max:  3769 Err:     0 (0.00%)
+summary +   9476 in 00:00:30 =  315.8/s Avg:    56 Min:     0 Max:   334 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  39015 in 00:02:24 =  271.5/s Avg:    82 Min:     0 Max:  3769 Err:     0 (0.00%)
+summary +  10117 in 00:00:30 =  337.3/s Avg:    47 Min:     0 Max:   313 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  49132 in 00:02:54 =  282.9/s Avg:    75 Min:     0 Max:  3769 Err:     0 (0.00%)
+summary +   2288 in 00:00:06 =  354.2/s Avg:    37 Min:     0 Max:   204 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  51420 in 00:03:00 =  285.4/s Avg:    73 Min:     0 Max:  3769 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 5:27:36 PM CEST (1726154856463)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726154858 ###########
+Experiment end at: 1726154858
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726155285
+########### READY FOR THE RUN NO. 0 at: 1726155285 ###########
+curl: (7) Failed to connect to 10.0.25.25 port 9080 after 2057 ms: Couldn't connect to server
+Error resetting trade: Command '['curl', '-X', 'GET', 'http://10.0.25.25:9080/daytrader/config?action=resetTrade']' returned non-zero exit status 7.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 5:34:48 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 5:34:48 PM CEST (1726155288692)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    439 in 00:00:12 =   37.9/s Avg:  1020 Min:     0 Max:  3645 Err:   279 (63.55%) Active: 50 Started: 50 Finished: 0
+summary +   5996 in 00:00:30 =  202.2/s Avg:   157 Min:     0 Max:  4689 Err:   439 (7.32%) Active: 50 Started: 50 Finished: 0
+summary =   6435 in 00:00:41 =  156.1/s Avg:   216 Min:     0 Max:  4689 Err:   718 (11.16%)
+summary +   8637 in 00:00:30 =  287.9/s Avg:    72 Min:     0 Max:   647 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  15072 in 00:01:11 =  211.6/s Avg:   133 Min:     0 Max:  4689 Err:   718 (4.76%)
+summary +   9865 in 00:00:30 =  328.8/s Avg:    49 Min:     0 Max:   546 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  24937 in 00:01:41 =  246.4/s Avg:   100 Min:     0 Max:  4689 Err:   718 (2.88%)
+summary +  10101 in 00:00:30 =  336.7/s Avg:    47 Min:     0 Max:   324 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  35038 in 00:02:11 =  267.0/s Avg:    85 Min:     0 Max:  4689 Err:   718 (2.05%)
+summary +  10827 in 00:00:30 =  360.8/s Avg:    37 Min:     0 Max:   330 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  45865 in 00:02:41 =  284.5/s Avg:    73 Min:     0 Max:  4689 Err:   718 (1.57%)
+summary +   7171 in 00:00:19 =  379.2/s Avg:    30 Min:     0 Max:   254 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  53036 in 00:03:00 =  294.4/s Avg:    67 Min:     0 Max:  4689 Err:   718 (1.35%)
+Tidying up ...    @ September 12, 2024 5:37:48 PM CEST (1726155468916)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726155470 ###########
+Experiment end at: 1726155470
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726156083
+########### READY FOR THE RUN NO. 0 at: 1726156083 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 5:48:05 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 5:48:05 PM CEST (1726156085592)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +   4352 in 00:00:24 =  179.0/s Avg:   174 Min:     0 Max:  3192 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   7548 in 00:00:30 =  251.6/s Avg:    99 Min:     0 Max:   638 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  11900 in 00:00:54 =  219.1/s Avg:   126 Min:     0 Max:  3192 Err:     0 (0.00%)
+summary +   8612 in 00:00:30 =  287.0/s Avg:    73 Min:     0 Max:   530 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  20512 in 00:01:24 =  243.3/s Avg:   104 Min:     0 Max:  3192 Err:     0 (0.00%)
+summary +   9284 in 00:00:30 =  309.5/s Avg:    58 Min:     0 Max:   416 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  29796 in 00:01:54 =  260.7/s Avg:    90 Min:     0 Max:  3192 Err:     0 (0.00%)
+summary +   9312 in 00:00:30 =  310.4/s Avg:    59 Min:     0 Max:   480 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  39108 in 00:02:24 =  271.0/s Avg:    82 Min:     0 Max:  3192 Err:     0 (0.00%)
+summary +  10024 in 00:00:30 =  334.1/s Avg:    47 Min:     0 Max:   409 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  49132 in 00:02:54 =  281.9/s Avg:    75 Min:     0 Max:  3192 Err:     0 (0.00%)
+summary +   2007 in 00:00:06 =  343.8/s Avg:    42 Min:     0 Max:   325 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  51139 in 00:03:00 =  283.9/s Avg:    74 Min:     0 Max:  3192 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 5:51:05 PM CEST (1726156265843)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726156267 ###########
+Experiment end at: 1726156267
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726156790
+########### READY FOR THE RUN NO. 0 at: 1726156790 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 5:59:51 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 5:59:52 PM CEST (1726156792252)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    964 in 00:00:08 =  125.9/s Avg:   282 Min:     0 Max:  3191 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   7204 in 00:00:30 =  240.3/s Avg:   107 Min:     0 Max:   718 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   8168 in 00:00:38 =  217.0/s Avg:   127 Min:     0 Max:  3191 Err:     0 (0.00%)
+summary +   9185 in 00:00:30 =  306.2/s Avg:    62 Min:     0 Max:   596 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  17353 in 00:01:08 =  256.5/s Avg:    93 Min:     0 Max:  3191 Err:     0 (0.00%)
+summary +   9563 in 00:00:30 =  318.8/s Avg:    55 Min:     0 Max:   476 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  26916 in 00:01:38 =  275.7/s Avg:    79 Min:     0 Max:  3191 Err:     0 (0.00%)
+summary +   9976 in 00:00:30 =  332.5/s Avg:    49 Min:     0 Max:   427 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  36892 in 00:02:08 =  289.0/s Avg:    71 Min:     0 Max:  3191 Err:     0 (0.00%)
+summary +  10088 in 00:00:30 =  336.3/s Avg:    48 Min:     0 Max:   421 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  46980 in 00:02:38 =  298.0/s Avg:    66 Min:     0 Max:  3191 Err:     0 (0.00%)
+summary +   8077 in 00:00:23 =  358.6/s Avg:    37 Min:     0 Max:   349 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  55057 in 00:03:00 =  305.6/s Avg:    62 Min:     0 Max:  3191 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 6:02:52 PM CEST (1726156972528)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726156974 ###########
+Experiment end at: 1726156974
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726157475
+########### READY FOR THE RUN NO. 0 at: 1726157475 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 6:11:16 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 6:11:17 PM CEST (1726157477112)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +   1914 in 00:00:13 =  149.6/s Avg:   225 Min:     0 Max:  3183 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   6507 in 00:00:30 =  216.9/s Avg:   130 Min:     0 Max:   833 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   8421 in 00:00:43 =  196.8/s Avg:   152 Min:     0 Max:  3183 Err:     0 (0.00%)
+summary +   8782 in 00:00:30 =  292.7/s Avg:    70 Min:     0 Max:   543 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  17203 in 00:01:13 =  236.3/s Avg:   110 Min:     0 Max:  3183 Err:     0 (0.00%)
+summary +   9429 in 00:00:30 =  314.3/s Avg:    58 Min:     0 Max:   434 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  26632 in 00:01:43 =  259.1/s Avg:    91 Min:     0 Max:  3183 Err:     0 (0.00%)
+summary +   8944 in 00:00:30 =  298.1/s Avg:    69 Min:     0 Max:   608 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  35576 in 00:02:13 =  267.9/s Avg:    86 Min:     0 Max:  3183 Err:     0 (0.00%)
+summary +   9894 in 00:00:30 =  329.8/s Avg:    50 Min:     0 Max:   422 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  45470 in 00:02:43 =  279.3/s Avg:    78 Min:     0 Max:  3183 Err:     0 (0.00%)
+summary +   6069 in 00:00:17 =  349.3/s Avg:    42 Min:     0 Max:   361 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  51539 in 00:03:00 =  286.1/s Avg:    74 Min:     0 Max:  3183 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 6:14:17 PM CEST (1726157657379)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726157658 ###########
+Experiment end at: 1726157658
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726158064
+########### READY FOR THE RUN NO. 0 at: 1726158064 ###########
+curl: (7) Failed to connect to 10.0.25.25 port 9080 after 2045 ms: Couldn't connect to server
+Error resetting trade: Command '['curl', '-X', 'GET', 'http://10.0.25.25:9080/daytrader/config?action=resetTrade']' returned non-zero exit status 7.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 6:21:06 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 6:21:07 PM CEST (1726158067463)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    542 in 00:00:23 =   23.6/s Avg:  1896 Min:     0 Max:  2075 Err:   541 (99.82%) Active: 50 Started: 50 Finished: 0
+summary +   5886 in 00:00:29 =  200.0/s Avg:   158 Min:     0 Max:  3250 Err:   659 (11.20%) Active: 50 Started: 50 Finished: 0
+summary =   6428 in 00:00:52 =  122.6/s Avg:   304 Min:     0 Max:  3250 Err:  1200 (18.67%)
+summary +   8343 in 00:00:30 =  278.1/s Avg:    78 Min:     0 Max:   785 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  14771 in 00:01:22 =  179.1/s Avg:   176 Min:     0 Max:  3250 Err:  1200 (8.12%)
+summary +   8689 in 00:00:30 =  289.7/s Avg:    72 Min:     0 Max:   684 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  23460 in 00:01:52 =  208.6/s Avg:   138 Min:     0 Max:  3250 Err:  1200 (5.12%)
+summary +   9391 in 00:00:30 =  313.0/s Avg:    57 Min:     0 Max:   494 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  32851 in 00:02:22 =  230.6/s Avg:   114 Min:     0 Max:  3250 Err:  1200 (3.65%)
+summary +   9484 in 00:00:30 =  316.1/s Avg:    57 Min:     0 Max:   420 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  42335 in 00:02:52 =  245.5/s Avg:   102 Min:     0 Max:  3250 Err:  1200 (2.83%)
+summary +   2564 in 00:00:08 =  333.0/s Avg:    49 Min:     0 Max:   440 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  44899 in 00:03:00 =  249.2/s Avg:    99 Min:     0 Max:  3250 Err:  1200 (2.67%)
+Tidying up ...    @ September 12, 2024 6:24:07 PM CEST (1726158247704)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726158249 ###########
+Experiment end at: 1726158249
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726158661
+########### READY FOR THE RUN NO. 0 at: 1726158661 ###########
+Trade reset successful.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 6:31:03 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 6:31:03 PM CEST (1726158663644)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:01 =    1.5/s Avg:   507 Min:   507 Max:   507 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +   4043 in 00:00:26 =  158.0/s Avg:   221 Min:     0 Max:  1619 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =   4044 in 00:00:26 =  154.0/s Avg:   221 Min:     0 Max:  1619 Err:     0 (0.00%)
+summary +   7160 in 00:00:30 =  238.6/s Avg:   110 Min:     0 Max:   674 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  11204 in 00:00:56 =  199.1/s Avg:   150 Min:     0 Max:  1619 Err:     0 (0.00%)
+summary +   8669 in 00:00:30 =  289.0/s Avg:    72 Min:     0 Max:   743 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  19873 in 00:01:26 =  230.4/s Avg:   116 Min:     0 Max:  1619 Err:     0 (0.00%)
+summary +   8714 in 00:00:30 =  290.5/s Avg:    71 Min:     0 Max:   640 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  28587 in 00:01:56 =  245.9/s Avg:   102 Min:     0 Max:  1619 Err:     0 (0.00%)
+summary +   8977 in 00:00:30 =  299.3/s Avg:    66 Min:     0 Max:   514 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  37564 in 00:02:26 =  256.8/s Avg:    94 Min:     0 Max:  1619 Err:     0 (0.00%)
+summary +   9340 in 00:00:30 =  311.3/s Avg:    59 Min:     0 Max:   414 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  46904 in 00:02:56 =  266.1/s Avg:    87 Min:     0 Max:  1619 Err:     0 (0.00%)
+summary +   1243 in 00:00:04 =  318.7/s Avg:    55 Min:     0 Max:   288 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  48147 in 00:03:00 =  267.2/s Avg:    86 Min:     0 Max:  1619 Err:     0 (0.00%)
+Tidying up ...    @ September 12, 2024 6:34:03 PM CEST (1726158843910)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726158845 ###########
+Experiment end at: 1726158845
+
+
+C:\Users\tmpnguyen\CollectedLogs_TS\others>python3 C:\Users\tmpnguyen\CollectedLogs_TS\others\cl-daytrader-test.py 10.0.25.25:9080 C:\Users\tmpnguyen\Downloads\daytrader7.jmx 1
+Experiment start at: 1726159326
+########### READY FOR THE RUN NO. 0 at: 1726159326 ###########
+curl: (7) Failed to connect to 10.0.25.25 port 9080 after 2047 ms: Couldn't connect to server
+Error resetting trade: Command '['curl', '-X', 'GET', 'http://10.0.25.25:9080/daytrader/config?action=resetTrade']' returned non-zero exit status 7.
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Sep 12, 2024 6:42:09 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+Creating summariser <summary>
+Created the tree successfully using C:\Users\tmpnguyen\Downloads\daytrader7.jmx
+Starting standalone test @ September 12, 2024 6:42:09 PM CEST (1726159329770)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    487 in 00:00:21 =   22.8/s Avg:  1901 Min:     0 Max:  2077 Err:   487 (100.00%) Active: 50 Started: 50 Finished: 0
+summary +   4254 in 00:00:29 =  147.9/s Avg:   255 Min:     0 Max:  8673 Err:   697 (16.38%) Active: 50 Started: 50 Finished: 0
+summary =   4741 in 00:00:50 =   94.6/s Avg:   424 Min:     0 Max:  8673 Err:  1184 (24.97%)
+summary +   7133 in 00:00:30 =  237.8/s Avg:   110 Min:     0 Max:   635 Err:    26 (0.36%) Active: 50 Started: 50 Finished: 0
+summary =  11874 in 00:01:20 =  148.2/s Avg:   235 Min:     0 Max:  8673 Err:  1210 (10.19%)
+summary +   8461 in 00:00:30 =  282.0/s Avg:    75 Min:     0 Max:   433 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  20335 in 00:01:50 =  184.6/s Avg:   169 Min:     0 Max:  8673 Err:  1210 (5.95%)
+summary +   8641 in 00:00:30 =  288.1/s Avg:    72 Min:     0 Max:   685 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  28976 in 00:02:20 =  206.8/s Avg:   140 Min:     0 Max:  8673 Err:  1210 (4.18%)
+summary +   9235 in 00:00:30 =  307.8/s Avg:    61 Min:     0 Max:   554 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary =  38211 in 00:02:50 =  224.6/s Avg:   121 Min:     0 Max:  8673 Err:  1210 (3.17%)
+summary +   3111 in 00:00:10 =  309.5/s Avg:    60 Min:     0 Max:   453 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =  41322 in 00:03:00 =  229.3/s Avg:   116 Min:     0 Max:  8673 Err:  1210 (2.93%)
+Tidying up ...    @ September 12, 2024 6:45:10 PM CEST (1726159510055)
+... end of run
+JMeter command completed successfully!
+########### FINISH THE RUN NO. 0 at: 1726159511 ###########
+Experiment end at: 1726159511
