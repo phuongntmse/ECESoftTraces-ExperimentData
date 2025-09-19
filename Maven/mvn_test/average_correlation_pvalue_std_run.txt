@@ -1,22 +1,21 @@
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson
+python3 als_average_correlation_for_all_run.py Maven\mvn_test\esson
 Std of energy:  178460.9807624986
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\summary_correlation_results.csv
+Results have been saved to Maven\mvn_test\esson\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind
+python3 als_average_correlation_for_all_run.py Maven\mvn_test\jackson-databind
 Std of energy:  25993.4714548568
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\summary_correlation_results.csv
+Results have been saved to Maven\mvn_test\jackson-databind\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon
+python3 als_average_correlation_for_all_run.py Maven\mvn_test\johnzon
 Std of energy:  26955.524335365237
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\summary_correlation_results.csv
+Results have been saved to Maven\mvn_test\johnzon\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple
+python3 als_average_correlation_for_all_run.py Maven\mvn_test\json-simple
 Std of energy:  113800.35665006643
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\summary_correlation_results.csv
+Results have been saved to Maven\mvn_test\json-simple\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java
+python3 als_average_correlation_for_all_run.py Maven\mvn_test\JSON-java
 Std of energy:  86021.74909120983
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\summary_correlation_results.csv
+Results have been saved to Maven\mvn_test\JSON-java\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>

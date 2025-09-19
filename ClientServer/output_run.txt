@@ -1,8 +1,8 @@
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1 exp1_all.csv
+python3 als_measurevalues.py Exp1 exp1_all.csv
 Can not find rapl data for all runs
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no1\correlation_results.csv
+Exp1\exp1_run_no1\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                              -0.032465  0.8323315249
 Application Server CPU Utilization                        -0.025352  0.8686997449
@@ -18,7 +18,7 @@ Number of network packets                                  0.058470  0.702818135
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.039136  0.7985343381
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no10\correlation_results.csv
+Exp1\exp1_run_no10\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.252752  0.0077217585
 Application Server CPU Utilization                         0.232961  0.0143171855
@@ -34,7 +34,7 @@ Number of network packets                                 -0.197351  0.038775187
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.195345  0.0408408755
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no11\correlation_results.csv
+Exp1\exp1_run_no11\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.111847  0.4592806892
 Application Server CPU Utilization                         0.122038  0.4191178827
@@ -50,7 +50,7 @@ Number of network packets                                  0.050012  0.741346224
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.033889  0.8230808452
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no12\correlation_results.csv
+Exp1\exp1_run_no12\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.089477  0.3989781405
 Application Server CPU Utilization                         0.117436  0.2675922354
@@ -66,7 +66,7 @@ Number of network packets                                  0.154283  0.144240153
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.135371  0.2007547591
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no13\correlation_results.csv
+Exp1\exp1_run_no13\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.246618  0.0191174921
 Application Server CPU Utilization                         0.232162  0.0276741546
@@ -82,7 +82,7 @@ Number of network packets                                 -0.169389  0.110474612
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.177250  0.0946626167
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no14\correlation_results.csv
+Exp1\exp1_run_no14\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.124030  0.4061854120
 Application Server CPU Utilization                         0.150333  0.3131542846
@@ -98,7 +98,7 @@ Number of network packets                                  0.064732  0.665537213
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.051367  0.7316726296
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no15\correlation_results.csv
+Exp1\exp1_run_no15\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.182137  0.0894319607
 Application Server CPU Utilization                         0.163045  0.1290644045
@@ -114,7 +114,7 @@ Number of network packets                                 -0.185904  0.082891721
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.196415  0.0666391965
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no2\correlation_results.csv
+Exp1\exp1_run_no2\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.082371  0.4481619258
 Application Server CPU Utilization                         0.053203  0.6245465896
@@ -130,7 +130,7 @@ Number of network packets                                  0.166957  0.122197767
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.154603  0.1527756385
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no3\correlation_results.csv
+Exp1\exp1_run_no3\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.141983  0.1722260685
 Application Server CPU Utilization                         0.114544  0.2716348000
@@ -146,7 +146,7 @@ Number of network packets                                 -0.210116  0.042088950
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.222007  0.0315117203
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no4\correlation_results.csv
+Exp1\exp1_run_no4\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.111198  0.2025756393
 Application Server CPU Utilization                         0.129732  0.1366673356
@@ -162,7 +162,7 @@ Number of network packets                                 -0.074157  0.396261250
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.095454  0.2744239089
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no5\correlation_results.csv
+Exp1\exp1_run_no5\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.195703  0.0880577870
 Application Server CPU Utilization                         0.198105  0.0841503742
@@ -178,7 +178,7 @@ Number of network packets                                  0.070671  0.541361920
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.062582  0.5887095444
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no6\correlation_results.csv
+Exp1\exp1_run_no6\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.075147  0.4186502312
 Application Server CPU Utilization                         0.089743  0.3338271038
@@ -194,7 +194,7 @@ Number of network packets                                 -0.015175  0.870439945
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.027842  0.7647288523
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no7\correlation_results.csv
+Exp1\exp1_run_no7\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.222299  0.0362782986
 Application Server CPU Utilization                         0.183530  0.0851426785
@@ -210,7 +210,7 @@ Number of network packets                                 -0.159750  0.134811179
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.168479  0.1145042524
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no8\correlation_results.csv
+Exp1\exp1_run_no8\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.243120  0.0240979513
 Application Server CPU Utilization                         0.222925  0.0391019874
@@ -226,7 +226,7 @@ Number of network packets                                 -0.135601  0.213177942
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.144302  0.1849821108
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1\exp1_run_no9\correlation_results.csv
+Exp1\exp1_run_no9\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.282082  0.0142109193
 Application Server CPU Utilization                         0.222168  0.0553992615
@@ -242,10 +242,10 @@ Number of network packets                                 -0.145420  0.213186003
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.148561  0.2033607098
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b exp1b_all.csv
+python3 als_measurevalues.py Exp1b exp1b_all.csv
 Can not find rapl data for all runs
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no1\correlation_results.csv
+Exp1b\exp1b_run_no1\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.186445  0.0263082624
 Application Server CPU Utilization                         0.144370  0.0865009141
@@ -261,7 +261,7 @@ Number of network packets                                 -0.130030  0.122989381
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.132311  0.1164990688
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no10\correlation_results.csv
+Exp1b\exp1b_run_no10\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.095499  0.2195757466
 Application Server CPU Utilization                         0.086994  0.2636139498
@@ -277,7 +277,7 @@ Number of network packets                                  0.026599  0.732941808
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.019365  0.8038278334
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no11\correlation_results.csv
+Exp1b\exp1b_run_no11\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.140433  0.0702732678
 Application Server CPU Utilization                         0.126800  0.1024890350
@@ -293,7 +293,7 @@ Number of network packets                                 -0.295854  0.000103674
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.304855  0.0000618139
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no12\correlation_results.csv
+Exp1b\exp1b_run_no12\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.101517  0.2029197579
 Application Server CPU Utilization                         0.087389  0.2733708643
@@ -309,7 +309,7 @@ Number of network packets                                 -0.315448  0.000051182
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.323839  0.0000312709
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no13\correlation_results.csv
+Exp1b\exp1b_run_no13\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.100937  0.2405484593
 Application Server CPU Utilization                         0.071241  0.4080861322
@@ -325,7 +325,7 @@ Number of network packets                                  0.119879  0.162916085
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.112537  0.1904295359
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no14\correlation_results.csv
+Exp1b\exp1b_run_no14\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.259809  0.0005163198
 Application Server CPU Utilization                         0.181024  0.0165119334
@@ -341,7 +341,7 @@ Number of network packets                                 -0.121475  0.109291771
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.121630  0.1088384039
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no15\correlation_results.csv
+Exp1b\exp1b_run_no15\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.107151  0.1733862338
 Application Server CPU Utilization                         0.084657  0.2826244109
@@ -357,7 +357,7 @@ Number of network packets                                 -0.266796  0.000576088
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.273217  0.0004175470
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no2\correlation_results.csv
+Exp1b\exp1b_run_no2\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                              -0.045243  0.6435494046
 Application Server CPU Utilization                        -0.016249  0.8680633718
@@ -373,7 +373,7 @@ Number of network packets                                  0.148821  0.126049981
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.144023  0.1388681325
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no3\correlation_results.csv
+Exp1b\exp1b_run_no3\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.171410  0.0083194295
 Application Server CPU Utilization                         0.153607  0.0182132235
@@ -389,7 +389,7 @@ Number of network packets                                 -0.140886  0.030491985
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.138090  0.0339824639
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no4\correlation_results.csv
+Exp1b\exp1b_run_no4\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.195558  0.0188256103
 Application Server CPU Utilization                         0.168460  0.0435548038
@@ -405,7 +405,7 @@ Number of network packets                                 -0.135483  0.105425684
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.139230  0.0960483308
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no5\correlation_results.csv
+Exp1b\exp1b_run_no5\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                              -0.018126  0.8586603370
 Application Server CPU Utilization                        -0.009887  0.9226216591
@@ -421,7 +421,7 @@ Number of network packets                                 -0.179360  0.075670919
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.179357  0.0756752456
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no6\correlation_results.csv
+Exp1b\exp1b_run_no6\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.089256  0.2978469546
 Application Server CPU Utilization                         0.098656  0.2496428711
@@ -437,7 +437,7 @@ Number of network packets                                 -0.028130  0.743283766
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.037698  0.6606752382
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no7\correlation_results.csv
+Exp1b\exp1b_run_no7\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.137666  0.1676485098
 Application Server CPU Utilization                         0.144073  0.1485469186
@@ -453,7 +453,7 @@ Number of network packets                                 -0.033134  0.740940916
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.037727  0.7065705264
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no8\correlation_results.csv
+Exp1b\exp1b_run_no8\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.099962  0.2315847042
 Application Server CPU Utilization                         0.117921  0.1577728244
@@ -469,7 +469,7 @@ Number of network packets                                 -0.046742  0.576654257
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.060134  0.4724518496
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp1b\exp1b_run_no9\correlation_results.csv
+Exp1b\exp1b_run_no9\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.078937  0.3353289951
 Application Server CPU Utilization                         0.071718  0.3815252754
@@ -485,10 +485,10 @@ Number of network packets                                 -0.037909  0.643992892
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.048637  0.5531520401
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2 exp2_all.csv
+python3 als_measurevalues.py Exp2 exp2_all.csv
 Can not find rapl data for all runs
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no1\correlation_results.csv
+Exp2\exp2_run_no1\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                             -0.043093  0.4072568237
 Application Server CPU Utilization                       -0.081749  0.1154785035
@@ -504,7 +504,7 @@ Number of network packets                                 0.375226  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.373163  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no10\correlation_results.csv
+Exp2\exp2_run_no10\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.095300  0.0614100808
 Application Server CPU Utilization                        0.068230  0.1809891835
@@ -520,7 +520,7 @@ Number of network packets                                 0.551995  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.555820  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no11\correlation_results.csv
+Exp2\exp2_run_no11\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.001153  0.9829511190
 Application Server CPU Utilization                       -0.012856  0.8116597361
@@ -536,7 +536,7 @@ Number of network packets                                 0.100367  0.0621971505
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.097195  0.0709694389
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no12\correlation_results.csv
+Exp2\exp2_run_no12\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.071841  0.1535981317
 Application Server CPU Utilization                        0.044205  0.3803193468
@@ -552,7 +552,7 @@ Number of network packets                                 0.499889  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.506308  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no13\correlation_results.csv
+Exp2\exp2_run_no13\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.015446  0.7517202852
 Application Server CPU Utilization                        0.001781  0.9708932799
@@ -568,7 +568,7 @@ Number of network packets                                 0.615699  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.613796  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no14\correlation_results.csv
+Exp2\exp2_run_no14\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.051470  0.2835586569
 Application Server CPU Utilization                        0.059530  0.2147672522
@@ -584,7 +584,7 @@ Number of network packets                                 0.671353  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.669591  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no15\correlation_results.csv
+Exp2\exp2_run_no15\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.057152  0.2547216246
 Application Server CPU Utilization                        0.051883  0.3012235028
@@ -600,7 +600,7 @@ Number of network packets                                 0.476352  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.474542  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no2\correlation_results.csv
+Exp2\exp2_run_no2\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                             -0.110056  0.0407594594
 Application Server CPU Utilization                       -0.170291  0.0014758877
@@ -616,7 +616,7 @@ Number of network packets                                 0.261048  0.0000008486
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.259556  0.0000009847
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no3\correlation_results.csv
+Exp2\exp2_run_no3\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.016891  0.7497643577
 Application Server CPU Utilization                       -0.005785  0.9130265088
@@ -632,7 +632,7 @@ Number of network packets                                 0.322000  0.0000000004
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.319853  0.0000000006
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no4\correlation_results.csv
+Exp2\exp2_run_no4\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.085686  0.0769484392
 Application Server CPU Utilization                        0.060753  0.2102526378
@@ -648,7 +648,7 @@ Number of network packets                                 0.570566  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.568616  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no5\correlation_results.csv
+Exp2\exp2_run_no5\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                             -0.045624  0.3982215150
 Application Server CPU Utilization                       -0.058779  0.2762612826
@@ -664,7 +664,7 @@ Number of network packets                                 0.219619  0.0000387539
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.217410  0.0000465366
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no6\correlation_results.csv
+Exp2\exp2_run_no6\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.092712  0.0613479461
 Application Server CPU Utilization                        0.071930  0.1469633825
@@ -680,7 +680,7 @@ Number of network packets                                 0.484454  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.488582  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no7\correlation_results.csv
+Exp2\exp2_run_no7\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.021942  0.6944148245
 Application Server CPU Utilization                        0.015784  0.7774878954
@@ -696,7 +696,7 @@ Number of network packets                                 0.405954  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.405775  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no8\correlation_results.csv
+Exp2\exp2_run_no8\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                             -0.046199  0.3814635463
 Application Server CPU Utilization                       -0.062321  0.2375437754
@@ -712,7 +712,7 @@ Number of network packets                                 0.394608  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.392051  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp2\exp2_run_no9\correlation_results.csv
+Exp2\exp2_run_no9\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                             -0.010436  0.8448676703
 Application Server CPU Utilization                       -0.027403  0.6073557351
@@ -728,10 +728,10 @@ Number of network packets                                 0.428108  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.425817  0.0000000000
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3 exp3_all.csv
+python3 als_measurevalues.py Exp3 exp3_all.csv
 Can not find rapl data for all runs
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no1\correlation_results.csv
+Exp3\exp3_run_no1\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.043575  0.6783322806
 Application Server CPU Utilization                        0.006401  0.9514461860
@@ -748,7 +748,7 @@ Number of network packets                                 0.612305  0.0000000001
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.613765  0.0000000001
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no10\correlation_results.csv
+Exp3\exp3_run_no10\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.252443  0.0069860149
 Application Server CPU Utilization                        0.206624  0.0281078299
@@ -765,7 +765,7 @@ Number of network packets                                 0.380761  0.0000317726
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.390374  0.0000191594
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no11\correlation_results.csv
+Exp3\exp3_run_no11\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.280758  0.0035548261
 Application Server CPU Utilization                        0.226987  0.0192889064
@@ -782,7 +782,7 @@ Number of network packets                                 0.468114  0.0000004193
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.478441  0.0000002134
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no12\correlation_results.csv
+Exp3\exp3_run_no12\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.004830  0.9631465815
 Application Server CPU Utilization                       -0.014715  0.8880524783
@@ -799,7 +799,7 @@ Number of network packets                                 0.313435  0.0020971852
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.313911  0.0020628287
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no13\correlation_results.csv
+Exp3\exp3_run_no13\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.111380  0.3222116918
 Application Server CPU Utilization                        0.112703  0.3164615610
@@ -816,7 +816,7 @@ Number of network packets                                 0.390742  0.0003103382
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.394382  0.0002693685
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no14\correlation_results.csv
+Exp3\exp3_run_no14\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.280708  0.0023759207
 Application Server CPU Utilization                        0.250165  0.0070086694
@@ -833,7 +833,7 @@ Number of network packets                                 0.301489  0.0010591455
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.313244  0.0006527826
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no15\correlation_results.csv
+Exp3\exp3_run_no15\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.089767  0.4028295235
 Application Server CPU Utilization                        0.063344  0.5553700287
@@ -850,7 +850,7 @@ Number of network packets                                 0.560284  0.0000000113
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.562076  0.0000000100
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no2\correlation_results.csv
+Exp3\exp3_run_no2\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.235464  0.0128545576
 Application Server CPU Utilization                        0.167534  0.0788244382
@@ -867,7 +867,7 @@ Number of network packets                                 0.477035  0.0000001202
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.484924  0.0000000691
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no3\correlation_results.csv
+Exp3\exp3_run_no3\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                             -0.064278  0.5541922982
 Application Server CPU Utilization                       -0.068604  0.5277916739
@@ -884,7 +884,7 @@ Number of network packets                                 0.464170  0.0000059424
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.464788  0.0000057532
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no4\correlation_results.csv
+Exp3\exp3_run_no4\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.399306  0.0000082058
 Application Server CPU Utilization                        0.325909  0.0003360319
@@ -901,7 +901,7 @@ Number of network packets                                 0.263968  0.0040302387
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.274194  0.0027754338
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no5\correlation_results.csv
+Exp3\exp3_run_no5\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                             -0.018598  0.8436124591
 Application Server CPU Utilization                       -0.004132  0.9650388569
@@ -918,7 +918,7 @@ Number of network packets                                 0.511311  0.0000000052
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.514683  0.0000000040
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no6\correlation_results.csv
+Exp3\exp3_run_no6\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.033532  0.7510013498
 Application Server CPU Utilization                       -0.000216  0.9983681985
@@ -935,7 +935,7 @@ Number of network packets                                 0.645161  0.0000000000
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.645765  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no7\correlation_results.csv
+Exp3\exp3_run_no7\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.057007  0.5450831080
 Application Server CPU Utilization                        0.015780  0.8670657662
@@ -952,7 +952,7 @@ Number of network packets                                 0.555475  0.0000000001
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.556050  0.0000000001
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no8\correlation_results.csv
+Exp3\exp3_run_no8\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.424361  0.0000028106
 Application Server CPU Utilization                        0.427835  0.0000022822
@@ -969,7 +969,7 @@ Number of network packets                                 0.357782  0.0001000010
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.368368  0.0000596031
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\self-developed-app\Exp3\exp3_run_no9\correlation_results.csv
+Exp3\exp3_run_no9\correlation_results.csv
                                            correlation_coefficient       p_value
 Application Server CPU Power                              0.205272  0.0347828053
 Application Server CPU Utilization                        0.144173  0.1403563117
@@ -986,4 +986,3 @@ Number of network packets                                 0.429524  0.0000043364
 Total Power                                               1.000000  0.0000000000
 Total length of packets                                   0.440392  0.0000023114
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>

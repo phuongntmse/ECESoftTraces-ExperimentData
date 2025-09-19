@@ -1,25 +1,24 @@
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\100ms\d4r1PerformanceTest_ubuntu
+python3 als_average_correlation_for_all_run.py PerformanceTest\100ms\d4r1PerformanceTest_ubuntu
 Std of energy:  21884.22643678632
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\100ms\d4r1PerformanceTest_ubuntu\summary_correlation_results.csv
+Results have been saved to PerformanceTest\100ms\d4r1PerformanceTest_ubuntu\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\100ms\d4r2PerformanceTest_ubuntu
+python3 als_average_correlation_for_all_run.py PerformanceTest\100ms\d4r2PerformanceTest_ubuntu
 Std of energy:  7671.751809010382
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\100ms\d4r2PerformanceTest_ubuntu\summary_correlation_results.csv
+Results have been saved to PerformanceTest\100ms\d4r2PerformanceTest_ubuntu\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\100ms\d4r3PerformanceTest_ubuntu
+python3 als_average_correlation_for_all_run.py PerformanceTest\100ms\d4r3PerformanceTest_ubuntu
 Std of energy:  6872.196734281982
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\100ms\d4r3PerformanceTest_ubuntu\summary_correlation_results.csv
+Results have been saved to PerformanceTest\100ms\d4r3PerformanceTest_ubuntu\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\1s\d4r1PerformanceTest_ubuntu
+python3 als_average_correlation_for_all_run.py PerformanceTest\1s\d4r1PerformanceTest_ubuntu
 Std of energy:  76780.19928604751
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\1s\d4r1PerformanceTest_ubuntu\summary_correlation_results.csv
+Results have been saved to PerformanceTest\1s\d4r1PerformanceTest_ubuntu\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\1s\d4r2PerformanceTest_ubuntu
+python3 als_average_correlation_for_all_run.py PerformanceTest\1s\d4r2PerformanceTest_ubuntu
 Std of energy:  53286.08934624581
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\1s\d4r2PerformanceTest_ubuntu\summary_correlation_results.csv
+Results have been saved to PerformanceTest\1s\d4r2PerformanceTest_ubuntu\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\1s\d4r3PerformanceTest_ubuntu
+python3 als_average_correlation_for_all_run.py PerformanceTest\1s\d4r3PerformanceTest_ubuntu
 Std of energy:  55407.50865600888
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\PerformanceTest\1s\d4r3PerformanceTest_ubuntu\summary_correlation_results.csv
+Results have been saved to PerformanceTest\1s\d4r3PerformanceTest_ubuntu\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>

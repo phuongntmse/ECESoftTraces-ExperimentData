@@ -1,8 +1,8 @@
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7 daytrader7_all.csv
+python3 als_measurevalues.py Daytrader\daytrader7 daytrader7_all.csv
 Can not find rapl data for all runs
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no1\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no1\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.197582  0.0047186199
 Application Server CPU Utilization                         0.181003  0.0097561894
@@ -20,7 +20,7 @@ Number of network packets                                  0.463291  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.470389  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no10\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no10\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.073945  0.2920167453
 Application Server CPU Utilization                        -0.038466  0.5839794898
@@ -38,7 +38,7 @@ Number of network packets                                 -0.849385  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.832663  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no11\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no11\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.231595  0.0009394987
 Application Server CPU Utilization                         0.162261  0.0213707187
@@ -55,7 +55,7 @@ Number of network packets                                 -0.876339  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.862079  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no12\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no12\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.062613  0.3832974211
 Application Server CPU Utilization                        -0.028840  0.6882316064
@@ -72,7 +72,7 @@ Number of network packets                                 -0.809004  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.783386  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no13\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no13\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.186929  0.0080394118
 Application Server CPU Utilization                         0.180314  0.0106183301
@@ -90,7 +90,7 @@ Number of network packets                                  0.555285  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.560450  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no14\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no14\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.309367  0.0000107878
 Application Server CPU Utilization                         0.180069  0.0117691935
@@ -107,7 +107,7 @@ Number of network packets                                 -0.837815  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.817260  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no15\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no15\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.243100  0.0005771157
 Application Server CPU Utilization                         0.247174  0.0004623449
@@ -125,7 +125,7 @@ Number of network packets                                  0.512484  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.515798  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no2\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no2\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.085425  0.2279117856
 Application Server CPU Utilization                        -0.054453  0.4426269919
@@ -142,7 +142,7 @@ Number of network packets                                 -0.820966  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.805901  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no3\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no3\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.220872  0.0014211949
 Application Server CPU Utilization                         0.085323  0.2226945918
@@ -159,7 +159,7 @@ Number of network packets                                 -0.836452  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.813183  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no4\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no4\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.310239  0.0000082185
 Application Server CPU Utilization                         0.139344  0.0496588937
@@ -176,7 +176,7 @@ Number of network packets                                 -0.724118  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.695945  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no5\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no5\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.279968  0.0000479049
 Application Server CPU Utilization                         0.153893  0.0275890135
@@ -193,7 +193,7 @@ Number of network packets                                 -0.860898  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.843244  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no6\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no6\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.172353  0.0127960588
 Application Server CPU Utilization                         0.159187  0.0216383594
@@ -211,7 +211,7 @@ Number of network packets                                  0.349473  0.000000229
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.358563  0.0000001049
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no7\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no7\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.393092  0.0000000120
 Application Server CPU Utilization                         0.370532  0.0000000900
@@ -228,7 +228,7 @@ Number of network packets                                  0.175777  0.013726152
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.173120  0.0152442798
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no8\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no8\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.444884  0.0000000001
 Application Server CPU Utilization                         0.360469  0.0000002262
@@ -245,7 +245,7 @@ Number of network packets                                 -0.811431  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.789775  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader7\daytrader7_run_no9\correlation_results.csv
+Daytrader\daytrader7\daytrader7_run_no9\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.289723  0.0000380732
 Application Server CPU Utilization                         0.278681  0.0000764625
@@ -263,10 +263,10 @@ Number of network packets                                  0.352623  0.000000400
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.353501  0.0000003727
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>python3 als_measurevalues.py C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10 daytrader10_all.csv
+python3 als_measurevalues.py Daytrader\daytrader10 daytrader10_all.csv
 Can not find rapl data for all runs
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no1\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no1\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.106311  0.1330782089
 Application Server CPU Utilization                        -0.607149  0.0000000000
@@ -284,7 +284,7 @@ Number of network packets                                 -0.876690  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.878978  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no10\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no10\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.881360  0.0000000000
 Application Server CPU Utilization                         0.575681  0.0000000000
@@ -302,7 +302,7 @@ Number of network packets                                  0.043284  0.543831699
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.044603  0.5316079240
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no11\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no11\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.993909  0.0000000000
 Application Server CPU Utilization                         0.928793  0.0000000000
@@ -321,7 +321,7 @@ Number of network packets                                  0.356249  0.000000195
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.361302  0.0000001273
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no12\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no12\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.057327  0.4200693270
 Application Server CPU Utilization                        -0.608464  0.0000000000
@@ -339,7 +339,7 @@ Number of network packets                                 -0.844857  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.838136  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no13\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no13\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.997142  0.0000000000
 Application Server CPU Utilization                         0.914707  0.0000000000
@@ -358,7 +358,7 @@ Number of network packets                                  0.331233  0.000001303
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.338435  0.0000007383
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no14\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no14\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                              -0.130052  0.0650728683
 Application Server CPU Utilization                        -0.672818  0.0000000000
@@ -376,7 +376,7 @@ Number of network packets                                 -0.846482  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.836954  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no15\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no15\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.994233  0.0000000000
 Application Server CPU Utilization                         0.903923  0.0000000000
@@ -394,7 +394,7 @@ Number of network packets                                  0.410004  0.000000001
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.397493  0.0000000039
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no2\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no2\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.967017  0.0000000000
 Application Server CPU Utilization                         0.738411  0.0000000000
@@ -412,7 +412,7 @@ Number of network packets                                  0.216434  0.001875662
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.222751  0.0013633738
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no3\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no3\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.997185  0.0000000000
 Application Server CPU Utilization                         0.954982  0.0000000000
@@ -432,7 +432,7 @@ Number of network packets                                  0.413417  0.000000001
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.426602  0.0000000003
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no4\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no4\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.279552  0.0000536253
 Application Server CPU Utilization                         0.261408  0.0001650868
@@ -452,7 +452,7 @@ Number of network packets                                 -0.304512  0.000009998
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.328820  0.0000016686
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no5\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no5\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.996030  0.0000000000
 Application Server CPU Utilization                         0.885343  0.0000000000
@@ -472,7 +472,7 @@ Number of network packets                                  0.276270  0.000055903
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                    0.295388  0.0000155344
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no6\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no6\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.266858  0.0001187472
 Application Server CPU Utilization                        -0.578046  0.0000000000
@@ -490,7 +490,7 @@ Number of network packets                                 -0.885865  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.880924  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no7\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no7\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.015457  0.8267468126
 Application Server CPU Utilization                        -0.653159  0.0000000000
@@ -508,7 +508,7 @@ Number of network packets                                 -0.858195  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.859724  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no8\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no8\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.123606  0.0796705466
 Application Server CPU Utilization                        -0.480276  0.0000000000
@@ -526,7 +526,7 @@ Number of network packets                                 -0.847804  0.000000000
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.844351  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\12092024\Daytrader\daytrader10\daytrader10_run_no9\correlation_results.csv
+Daytrader\daytrader10\daytrader10_run_no9\correlation_results.csv
                                             correlation_coefficient       p_value
 Application Server CPU Power                               0.311310  0.0000072233
 Application Server CPU Utilization                         0.298499  0.0000176079
@@ -546,4 +546,3 @@ Number of network packets                                 -0.210638  0.002754750
 Total Power                                                1.000000  0.0000000000
 Total length of packets                                   -0.230252  0.0010379582
 
-C:\Users\tmpnguyen\CollectedLogs_TS\analysis>

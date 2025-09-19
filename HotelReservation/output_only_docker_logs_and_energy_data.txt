@@ -1,7 +1,7 @@
 
-C:\Users\tmpnguyen\Analysis>python3 als_docker_logs.py C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data
+python3 als_docker_logs.py Exp_data
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_1\dk_correlation_results.csv
+run_no_1\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.194346  0.0047054495
 Cpu1_usage                                                         0.194486  0.0046751866
@@ -22,7 +22,7 @@ Reads_on_sda                                                      -0.053193  0.4
 Writes_on_sda                                                      0.119286  0.0846255165
 memory_usage                                                      -0.026013  0.7078259921
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_10\dk_correlation_results.csv
+run_no_10\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.207042  0.0025684506
 Cpu1_usage                                                         0.206574  0.0026280889
@@ -43,7 +43,7 @@ Reads_on_sda                                                       0.405417  0.0
 Writes_on_sda                                                      0.133197  0.0539442205
 memory_usage                                                      -0.095161  0.1694707140
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_11\dk_correlation_results.csv
+run_no_11\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.269093  0.0000753131
 Cpu1_usage                                                         0.268411  0.0000786667
@@ -64,7 +64,7 @@ Reads_on_sda                                                       0.511941  0.0
 Writes_on_sda                                                      0.171123  0.0127986186
 memory_usage                                                      -0.157008  0.0225315640
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_12\dk_correlation_results.csv
+run_no_12\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.190851  0.0055246690
 Cpu1_usage                                                         0.190795  0.0055386711
@@ -85,7 +85,7 @@ Reads_on_sda                                                      -0.022991  0.7
 Writes_on_sda                                                      0.122286  0.0770354718
 memory_usage                                                      -0.283423  0.0000306642
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_13\dk_correlation_results.csv
+run_no_13\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.207404  0.0025231715
 Cpu1_usage                                                         0.207967  0.0024542536
@@ -106,7 +106,7 @@ Reads_on_sda                                                       0.452878  0.0
 Writes_on_sda                                                      0.146729  0.0335755546
 memory_usage                                                      -0.121347  0.0793485846
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_14\dk_correlation_results.csv
+run_no_14\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.189054  0.0059936689
 Cpu1_usage                                                         0.188856  0.0060474840
@@ -127,7 +127,7 @@ Reads_on_sda                                                       0.187721  0.0
 Writes_on_sda                                                      0.110575  0.1101042122
 memory_usage                                                      -0.105286  0.1282941355
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_15\dk_correlation_results.csv
+run_no_15\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.223885  0.0010586026
 Cpu1_usage                                                         0.223424  0.0010848653
@@ -148,7 +148,7 @@ Reads_on_sda                                                       0.481257  0.0
 Writes_on_sda                                                      0.179993  0.0087814049
 memory_usage                                                      -0.167764  0.0146972758
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_2\dk_correlation_results.csv
+run_no_2\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.196567  0.0042435038
 Cpu1_usage                                                         0.195763  0.0044058260
@@ -169,7 +169,7 @@ Reads_on_sda                                                       0.422919  0.0
 Writes_on_sda                                                      0.131150  0.0577752026
 memory_usage                                                       0.044944  0.5171552884
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_3\dk_correlation_results.csv
+run_no_3\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.254167  0.0001903246
 Cpu1_usage                                                         0.253817  0.0001943752
@@ -190,7 +190,7 @@ Reads_on_sda                                                       0.415650  0.0
 Writes_on_sda                                                      0.162186  0.0183974132
 memory_usage                                                      -0.020935  0.7624004325
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_4\dk_correlation_results.csv
+run_no_4\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.198442  0.0038005918
 Cpu1_usage                                                         0.198168  0.0038503211
@@ -211,7 +211,7 @@ Reads_on_sda                                                       0.320484  0.0
 Writes_on_sda                                                      0.083366  0.2278689658
 memory_usage                                                      -0.107180  0.1206376781
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_5\dk_correlation_results.csv
+run_no_5\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.229573  0.0007796560
 Cpu1_usage                                                         0.229552  0.0007805362
@@ -232,7 +232,7 @@ Reads_on_sda                                                       0.055341  0.4
 Writes_on_sda                                                      0.133923  0.0520704905
 memory_usage                                                      -0.172763  0.0119523148
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_6\dk_correlation_results.csv
+run_no_6\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.147255  0.0329389030
 Cpu1_usage                                                         0.148004  0.0320482812
@@ -253,7 +253,7 @@ Reads_on_sda                                                       0.248976  0.0
 Writes_on_sda                                                      0.190695  0.0055640370
 memory_usage                                                       0.327836  0.0000011897
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_7\dk_correlation_results.csv
+run_no_7\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.182811  0.0079122234
 Cpu1_usage                                                         0.182980  0.0078539338
@@ -274,7 +274,7 @@ Reads_on_sda                                                       0.494536  0.0
 Writes_on_sda                                                      0.110785  0.1094278640
 memory_usage                                                      -0.040504  0.5594216711
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_8\dk_correlation_results.csv
+run_no_8\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.187476  0.0064346192
 Cpu1_usage                                                         0.188194  0.0062306038
@@ -295,7 +295,7 @@ Reads_on_sda                                                       0.338317  0.0
 Writes_on_sda                                                      0.192583  0.0051039216
 memory_usage                                                       0.667321  0.0000000000
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\17022025_Exp_data\run_no_9\dk_correlation_results.csv
+run_no_9\dk_correlation_results.csv
                                                     correlation_coefficient       p_value
 Cpu0_usage                                                         0.189209  0.0057159176
 Cpu1_usage                                                         0.191264  0.0052024076
@@ -316,4 +316,3 @@ Reads_on_sda                                                       0.481690  0.0
 Writes_on_sda                                                      0.145190  0.0346257912
 memory_usage                                                      -0.070306  0.3082619592
 
-C:\Users\tmpnguyen\Analysis>

@@ -1,7 +1,7 @@
 
-C:\Users\tmpnguyen\Analysis>python3 als_exp.py C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu
+python3 als_exp.py d4r3PerformanceTest_ubuntu
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_1\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_1\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.370908  0.0000000000
 Cpu1_usage                               0.520058  0.0000000000
@@ -13,7 +13,7 @@ Reads_on_sda                            -0.106120  0.0316916065
 Writes_on_sda                           -0.053157  0.2829047381
 memory_usage                            -0.089535  0.0701335139
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_10\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_10\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.392230  0.0000000000
 Cpu1_usage                               0.073105  0.1389988912
@@ -25,7 +25,7 @@ Reads_on_sda                            -0.284296  0.0000000044
 Writes_on_sda                           -0.057106  0.2480333643
 memory_usage                            -0.076315  0.1224229776
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_11\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_11\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.191802  0.0000893722
 Cpu1_usage                               0.569631  0.0000000000
@@ -37,7 +37,7 @@ Reads_on_sda                             0.280180  0.0000000072
 Writes_on_sda                           -0.062036  0.2089043106
 memory_usage                            -0.073890  0.1343150494
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_12\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_12\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.429848  0.0000000000
 Cpu1_usage                              -0.136551  0.0056145959
@@ -49,7 +49,7 @@ Reads_on_sda                            -0.253189  0.0000002037
 Writes_on_sda                           -0.058551  0.2368202414
 memory_usage                            -0.066398  0.1796481207
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_13\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_13\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.539693  0.0000000000
 Cpu1_usage                              -0.010708  0.8284527738
@@ -61,7 +61,7 @@ Reads_on_sda                             0.047091  0.3403494993
 Writes_on_sda                           -0.078844  0.1100476692
 memory_usage                            -0.076679  0.1201895150
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_14\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_14\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.117311  0.0173488474
 Cpu1_usage                               0.496131  0.0000000000
@@ -73,7 +73,7 @@ Reads_on_sda                            -0.234595  0.0000015187
 Writes_on_sda                           -0.038270  0.4390626770
 memory_usage                            -0.078709  0.1110969270
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_15\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_15\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.257994  0.0000001130
 Cpu1_usage                               0.440521  0.0000000000
@@ -85,7 +85,7 @@ Reads_on_sda                             0.404661  0.0000000000
 Writes_on_sda                           -0.099856  0.0430431919
 memory_usage                            -0.089279  0.0705957201
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_16\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_16\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.207191  0.0000229935
 Cpu1_usage                               0.704675  0.0000000000
@@ -97,7 +97,7 @@ Reads_on_sda                            -0.217488  0.0000086230
 Writes_on_sda                           -0.052961  0.2840929075
 memory_usage                            -0.074814  0.1299710371
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_17\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_17\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.421681  0.0000000000
 Cpu1_usage                               0.402076  0.0000000000
@@ -109,7 +109,7 @@ Reads_on_sda                             0.131546  0.0075771978
 Writes_on_sda                           -0.111039  0.0243717270
 memory_usage                            -0.089198  0.0708519485
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_18\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_18\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.350507  0.0000000000
 Cpu1_usage                               0.363523  0.0000000000
@@ -121,7 +121,7 @@ Reads_on_sda                            -0.200102  0.0000439372
 Writes_on_sda                           -0.128271  0.0092329365
 memory_usage                            -0.085222  0.0844204834
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_19\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_19\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.483740  0.0000000000
 Cpu1_usage                              -0.035851  0.4685517540
@@ -133,7 +133,7 @@ Reads_on_sda                             0.350393  0.0000000000
 Writes_on_sda                           -0.063629  0.1979780154
 memory_usage                            -0.098265  0.0464935667
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_2\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_2\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.017833  0.7178381983
 Cpu1_usage                               0.513029  0.0000000000
@@ -145,7 +145,7 @@ Reads_on_sda                            -0.288127  0.0000000025
 Writes_on_sda                           -0.034543  0.4838776444
 memory_usage                            -0.082229  0.0951476701
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_20\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_20\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.066398  0.1785837217
 Cpu1_usage                               0.410520  0.0000000000
@@ -157,7 +157,7 @@ Reads_on_sda                            -0.206950  0.0000229788
 Writes_on_sda                           -0.045963  0.3520567162
 memory_usage                            -0.076167  0.1226938819
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_21\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_21\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.318504  0.0000000000
 Cpu1_usage                               0.093616  0.0579223045
@@ -169,7 +169,7 @@ Reads_on_sda                             0.102915  0.0370146790
 Writes_on_sda                           -0.083516  0.0908505802
 memory_usage                            -0.089985  0.0683915732
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_22\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_22\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.572540  0.0000000000
 Cpu1_usage                               0.343050  0.0000000000
@@ -181,7 +181,7 @@ Reads_on_sda                            -0.188669  0.0001191489
 Writes_on_sda                           -0.042203  0.3934536205
 memory_usage                            -0.092709  0.0604058338
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_23\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_23\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.223489  0.0000047620
 Cpu1_usage                               0.429898  0.0000000000
@@ -193,7 +193,7 @@ Reads_on_sda                             0.149228  0.0024205303
 Writes_on_sda                           -0.042242  0.3930223159
 memory_usage                            -0.087605  0.0760580068
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_24\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_24\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                              -0.030038  0.5436845424
 Cpu1_usage                               0.501412  0.0000000000
@@ -205,7 +205,7 @@ Reads_on_sda                            -0.163616  0.0008704055
 Writes_on_sda                           -0.081043  0.1008614698
 memory_usage                            -0.099183  0.0444746058
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_25\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_25\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.184594  0.0001676899
 Cpu1_usage                               0.319537  0.0000000000
@@ -217,7 +217,7 @@ Reads_on_sda                             0.065254  0.1867439017
 Writes_on_sda                           -0.095014  0.0542636013
 memory_usage                            -0.077906  0.1147989610
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_26\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_26\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.425097  0.0000000000
 Cpu1_usage                              -0.078242  0.1136776261
@@ -229,7 +229,7 @@ Reads_on_sda                            -0.091326  0.0646840994
 Writes_on_sda                           -0.076908  0.1199909452
 memory_usage                            -0.096330  0.0512822501
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_27\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_27\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.424094  0.0000000000
 Cpu1_usage                              -0.066743  0.1768638674
@@ -241,7 +241,7 @@ Reads_on_sda                            -0.028932  0.5586237887
 Writes_on_sda                           -0.068472  0.1658843158
 memory_usage                            -0.074066  0.1338630974
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_28\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_28\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.431658  0.0000000000
 Cpu1_usage                               0.281048  0.0000000067
@@ -253,7 +253,7 @@ Reads_on_sda                            -0.082073  0.0965893296
 Writes_on_sda                           -0.072601  0.1417516045
 memory_usage                            -0.081593  0.0985639096
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_29\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_29\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.199680  0.0000456324
 Cpu1_usage                               0.412940  0.0000000000
@@ -265,7 +265,7 @@ Reads_on_sda                            -0.046495  0.3470988752
 Writes_on_sda                           -0.077448  0.1169551797
 memory_usage                            -0.086358  0.0803464283
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_3\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_3\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.027095  0.5838813151
 Cpu1_usage                               0.505147  0.0000000000
@@ -277,7 +277,7 @@ Reads_on_sda                            -0.090762  0.0660289129
 Writes_on_sda                           -0.084129  0.0884969340
 memory_usage                            -0.093565  0.0580617323
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_30\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_30\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.372771  0.0000000000
 Cpu1_usage                               0.617773  0.0000000000
@@ -289,7 +289,7 @@ Reads_on_sda                            -0.097767  0.0476199300
 Writes_on_sda                           -0.093845  0.0573117622
 memory_usage                            -0.080676  0.1024209011
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_4\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_4\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.286619  0.0000000033
 Cpu1_usage                               0.087408  0.0767226422
@@ -301,7 +301,7 @@ Reads_on_sda                            -0.345975  0.0000000000
 Writes_on_sda                           -0.064564  0.1914538133
 memory_usage                            -0.089838  0.0688452063
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_5\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_5\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.135790  0.0058281842
 Cpu1_usage                               0.253265  0.0000001951
@@ -313,7 +313,7 @@ Reads_on_sda                            -0.073673  0.1359475079
 Writes_on_sda                           -0.109993  0.0257551822
 memory_usage                            -0.088086  0.0744541637
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_6\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_6\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.073230  0.1383201355
 Cpu1_usage                               0.448541  0.0000000000
@@ -325,7 +325,7 @@ Reads_on_sda                            -0.330531  0.0000000000
 Writes_on_sda                           -0.152413  0.0019443317
 memory_usage                            -0.099627  0.0435254514
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_7\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_7\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.016842  0.7335429253
 Cpu1_usage                               0.479817  0.0000000000
@@ -337,7 +337,7 @@ Reads_on_sda                             0.100141  0.0424487480
 Writes_on_sda                           -0.075454  0.1267100340
 memory_usage                            -0.095106  0.0540291591
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_8\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_8\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.528106  0.0000000000
 Cpu1_usage                               0.103681  0.0356238706
@@ -349,7 +349,7 @@ Reads_on_sda                            -0.319171  0.0000000000
 Writes_on_sda                           -0.070235  0.1552279651
 memory_usage                            -0.080408  0.1035676584
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\run_no_9\hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\run_no_9\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.738083  0.0000000000
 Cpu1_usage                              -0.187330  0.0001309075
@@ -361,7 +361,7 @@ Reads_on_sda                            -0.009124  0.8535198030
 Writes_on_sda                           -0.097998  0.0468236312
 memory_usage                            -0.083398  0.0909154836
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r3PerformanceTest_ubuntu\combined_all_hardware_correlation_results.csv
+d4r3PerformanceTest_ubuntu\combined_all_hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.012006  0.1824742673
 Cpu1_usage                               0.011844  0.1884415054
@@ -373,4 +373,3 @@ Reads_on_sda                            -0.018227  0.0429581606
 Writes_on_sda                           -0.007922  0.3789981711
 memory_usage                            -0.085249  0.0000000000
 
-C:\Users\tmpnguyen\Analysis>

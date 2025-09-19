@@ -1,7 +1,7 @@
 
-C:\Users\tmpnguyen\Analysis>python3 als_maven.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson
+python3 als_maven.py Maven\mvn_test\esson
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_1\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_1\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.784219  0.0212282427
 Cpu1_usage                                           0.710261  0.0483600885
@@ -14,10 +14,10 @@ Number of maven logs with Level INFO                 0.646584  0.0831728168
 Reads_on_sda                                         0.617903  0.1025516213
 Writes_on_sda                                        0.522898  0.1836218735
 memory_usage                                         0.669026  0.0696298733
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_10\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_10\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.557327  0.1512392701
 Cpu1_usage                                           0.581023  0.1309333314
@@ -31,7 +31,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.655423  0.0776706029
 memory_usage                                         0.726726  0.0411340205
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_11\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_11\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.963561  0.0000293446
 Cpu1_usage                                           0.963592  0.0000292585
@@ -44,10 +44,10 @@ Number of maven logs with Level INFO                -0.494603  0.1758752224
 Reads_on_sda                                         0.963501  0.0000295137
 Writes_on_sda                                        0.963527  0.0000294398
 memory_usage                                         0.966136  0.0000227643
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_12\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_12\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.614969  0.1046660069
 Cpu1_usage                                           0.693078  0.0566636506
@@ -61,7 +61,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.537735  0.1692498587
 memory_usage                                         0.661600  0.0739556995
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_13\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_13\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.947205  0.0001057050
 Cpu1_usage                                           0.947205  0.0001057061
@@ -74,10 +74,10 @@ Number of maven logs with Level INFO                -0.543447  0.1304713764
 Reads_on_sda                                         0.947115  0.0001063324
 Writes_on_sda                                        0.947121  0.0001062911
 memory_usage                                         0.950319  0.0000857122
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_14\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_14\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.713357  0.0469469968
 Cpu1_usage                                           0.572704  0.1378773516
@@ -90,10 +90,10 @@ Number of maven logs with Level INFO                 0.725614  0.0416001121
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.620794  0.1004916850
 memory_usage                                         0.754374  0.0305583317
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_15\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_15\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.675578  0.0659408056
 Cpu1_usage                                           0.730331  0.0396456153
@@ -107,7 +107,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.547478  0.1601555432
 memory_usage                                         0.716122  0.0457067667
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_16\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_16\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.937250  0.0001915921
 Cpu1_usage                                           0.937234  0.0001917646
@@ -120,10 +120,10 @@ Number of maven logs with Level INFO                -0.483225  0.1875829165
 Reads_on_sda                                         0.937131  0.0001928478
 Writes_on_sda                                        0.937152  0.0001926275
 memory_usage                                         0.942278  0.0001437514
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_17\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_17\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.585638  0.1271676893
 Cpu1_usage                                           0.558740  0.1499828986
@@ -137,7 +137,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.623324  0.0987088974
 memory_usage                                         0.642441  0.0858278706
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_18\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_18\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.970273  0.0000642207
 Cpu1_usage                                           0.970265  0.0000642718
@@ -151,7 +151,7 @@ Reads_on_sda                                         0.970262  0.0000642919
 Writes_on_sda                                        0.970263  0.0000642843
 memory_usage                                         0.970132  0.0000651300
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_19\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_19\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.950936  0.0000820924
 Cpu1_usage                                           0.950965  0.0000819252
@@ -165,7 +165,7 @@ Reads_on_sda                                         0.950908  0.0000822544
 Writes_on_sda                                        0.950954  0.0000819913
 memory_usage                                         0.952080  0.0000756721
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_2\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_2\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.986134  0.0000065952
 Cpu1_usage                                           0.986133  0.0000065972
@@ -178,10 +178,10 @@ Number of maven logs with Level INFO                -0.562882  0.1463337113
 Reads_on_sda                                         0.986138  0.0000065897
 Writes_on_sda                                        0.986145  0.0000065800
 memory_usage                                         0.986762  0.0000057421
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_20\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_20\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.601020  0.1150584955
 Cpu1_usage                                           0.523193  0.1833295951
@@ -195,7 +195,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.670000  0.0690738760
 memory_usage                                         0.695020  0.0556854631
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_21\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_21\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.970620  0.0000620132
 Cpu1_usage                                           0.970617  0.0000620296
@@ -208,10 +208,10 @@ Number of maven logs with Level INFO                -0.633354  0.0918207818
 Reads_on_sda                                         0.970571  0.0000623224
 Writes_on_sda                                        0.970576  0.0000622905
 memory_usage                                         0.972851  0.0000490134
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_22\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_22\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.470496  0.2393644752
 Cpu1_usage                                           0.423785  0.2954135963
@@ -225,7 +225,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.243410  0.5613125664
 memory_usage                                         0.392140  0.3366366643
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_23\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_23\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.969316  0.0000705726
 Cpu1_usage                                           0.969308  0.0000706230
@@ -238,10 +238,10 @@ Number of maven logs with Level INFO                -0.600040  0.1158091904
 Reads_on_sda                                         0.969278  0.0000708346
 Writes_on_sda                                        0.969283  0.0000707988
 memory_usage                                         0.972193  0.0000526375
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_24\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_24\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.489449  0.2183152078
 Cpu1_usage                                           0.587955  0.1252992289
@@ -255,7 +255,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.285155  0.4936110198
 memory_usage                                         0.455390  0.2568476025
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_25\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_25\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.911001  0.0016468365
 Cpu1_usage                                           0.911058  0.0016437046
@@ -268,10 +268,10 @@ Number of maven logs with Level INFO                -0.463417  0.2474798734
 Reads_on_sda                                         0.910960  0.0016490202
 Writes_on_sda                                        0.910976  0.0016481829
 memory_usage                                         0.916914  0.0013460338
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_26\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_26\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.602597  0.1138553438
 Cpu1_usage                                           0.509545  0.1970921794
@@ -285,7 +285,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.611860  0.1069337469
 memory_usage                                         0.629675  0.0943144769
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_27\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_27\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.972842  0.0000490637
 Cpu1_usage                                           0.972843  0.0000490582
@@ -298,10 +298,10 @@ Number of maven logs with Level INFO                -0.614842  0.1047581210
 Reads_on_sda                                         0.972800  0.0000492905
 Writes_on_sda                                        0.972798  0.0000492992
 memory_usage                                         0.975286  0.0000370417
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_28\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_28\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.759991  0.0286407537
 Cpu1_usage                                           0.758433  0.0291651308
@@ -314,10 +314,10 @@ Number of maven logs with Level INFO                 0.544330  0.1630642845
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.745743  0.0336547301
 memory_usage                                         0.701132  0.0526731734
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_29\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_29\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.685237  0.0607168785
 Cpu1_usage                                           0.586048  0.1268356714
@@ -330,10 +330,10 @@ Number of maven logs with Level INFO                 0.653570  0.0788060978
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.798426  0.0175052733
 memory_usage                                         0.705133  0.0507558076
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_3\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_3\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.655176  0.0778212672
 Cpu1_usage                                           0.498908  0.2081847459
@@ -347,7 +347,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.608608  0.1093360180
 memory_usage                                         0.682853  0.0619825285
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_30\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_30\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.957033  0.0000519061
 Cpu1_usage                                           0.957074  0.0000517363
@@ -361,7 +361,7 @@ Reads_on_sda                                         0.956995  0.0000520644
 Writes_on_sda                                        0.957003  0.0000520344
 memory_usage                                         0.959136  0.0000436371
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_4\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_4\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.955076  0.0002190904
 Cpu1_usage                                           0.955094  0.0002188288
@@ -374,10 +374,10 @@ Number of maven logs with Level INFO                -0.617764  0.1026513223
 Reads_on_sda                                         0.955045  0.0002195413
 Writes_on_sda                                        0.955047  0.0002195077
 memory_usage                                         0.956401  0.0002004755
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_5\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_5\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.699900  0.0532725734
 Cpu1_usage                                           0.747481  0.0330162281
@@ -390,10 +390,10 @@ Number of maven logs with Level INFO                 0.493227  0.2142386653
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.746047  0.0335423948
 memory_usage                                         0.707172  0.0497948090
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_6\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_6\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.858669  0.0063305357
 Cpu1_usage                                           0.609710  0.1085186292
@@ -406,10 +406,10 @@ Number of maven logs with Level INFO                 0.739879  0.0358638779
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.797356  0.0177701366
 memory_usage                                         0.797016  0.0178547912
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_7\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_7\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.652067  0.0797338633
 Cpu1_usage                                           0.611114  0.1074821360
@@ -422,10 +422,10 @@ Number of maven logs with Level INFO                 0.404285  0.3205135525
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.740098  0.0357795942
 memory_usage                                         0.462534  0.2485015845
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_8\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_8\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.857940  0.0064253147
 Cpu1_usage                                           0.695342  0.0555246479
@@ -439,7 +439,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.704446  0.0510820160
 memory_usage                                         0.821539  0.0123752696
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\esson\run_no_9\mvn_correlation_results.csv
+Maven\mvn_test\esson\run_no_9\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.952018  0.0000760126
 Cpu1_usage                                           0.951971  0.0000762703
@@ -453,9 +453,9 @@ Reads_on_sda                                         0.951911  0.0000765973
 Writes_on_sda                                        0.951927  0.0000765084
 memory_usage                                         0.955845  0.0000570381
 
-C:\Users\tmpnguyen\Analysis>python3 als_maven.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind
+python3 als_maven.py Maven\mvn_test\jackson-databind
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_1\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_1\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.090971  0.4893945172
 Cpu1_usage                                              0.100149  0.4464488130
@@ -470,7 +470,7 @@ Reads_on_sda                                            0.108605  0.4088038947
 Writes_on_sda                                           0.092172  0.4836542817
 memory_usage                                            0.074810  0.5699770460
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_10\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_10\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.533759  0.0000159846
 Cpu1_usage                                              0.533670  0.0000160470
@@ -485,7 +485,7 @@ Reads_on_sda                                            0.533442  0.0000162062
 Writes_on_sda                                           0.533546  0.0000161336
 memory_usage                                            0.460277  0.0002775751
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_11\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_11\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.235848  0.0746999774
 Cpu1_usage                                              0.189335  0.1546034660
@@ -500,7 +500,7 @@ Reads_on_sda                                            0.060701  0.6508099626
 Writes_on_sda                                           0.280911  0.0326796939
 memory_usage                                            0.180729  0.1745785093
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_12\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_12\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.597108  0.0000007514
 Cpu1_usage                                              0.597186  0.0000007483
@@ -515,7 +515,7 @@ Reads_on_sda                                            0.596857  0.0000007616
 Writes_on_sda                                           0.597138  0.0000007502
 memory_usage                                            0.571501  0.0000027926
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_13\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_13\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.566747  0.0000028768
 Cpu1_usage                                              0.566746  0.0000028770
@@ -530,7 +530,7 @@ Reads_on_sda                                            0.566892  0.0000028564
 Writes_on_sda                                           0.566764  0.0000028745
 memory_usage                                            0.479972  0.0001196670
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_14\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_14\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.574622  0.0000023937
 Cpu1_usage                                              0.574477  0.0000024110
@@ -544,10 +544,10 @@ Number of maven logs with Level WARNING                 0.039983  0.7657098447
 Reads_on_sda                                            0.574432  0.0000024164
 Writes_on_sda                                           0.574535  0.0000024041
 memory_usage                                            0.518774  0.0000302051
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_15\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_15\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.022982  0.8640391083
 Cpu1_usage                                              0.074885  0.5763801325
@@ -562,7 +562,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                          -0.013917  0.9174175709
 memory_usage                                           -0.029710  0.8247907689
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_16\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_16\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.540007  0.0000145547
 Cpu1_usage                                              0.540024  0.0000145443
@@ -577,7 +577,7 @@ Reads_on_sda                                            0.539733  0.0000147298
 Writes_on_sda                                           0.539928  0.0000146052
 memory_usage                                            0.482995  0.0001415904
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_17\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_17\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.524448  0.0000201185
 Cpu1_usage                                              0.524417  0.0000201455
@@ -592,7 +592,7 @@ Reads_on_sda                                            0.523903  0.0000205943
 Writes_on_sda                                           0.524245  0.0000202948
 memory_usage                                            0.532592  0.0000141164
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_18\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_18\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.020914  0.8761723027
 Cpu1_usage                                              0.040079  0.7651626332
@@ -607,7 +607,7 @@ Reads_on_sda                                            0.071421  0.5941944304
 Writes_on_sda                                           0.060978  0.6493212758
 memory_usage                                           -0.028921  0.8293715977
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_19\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_19\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.573079  0.0000031795
 Cpu1_usage                                              0.573041  0.0000031853
@@ -621,10 +621,10 @@ Number of maven logs with Level WARNING                 0.023838  0.8602839786
 Reads_on_sda                                            0.573059  0.0000031826
 Writes_on_sda                                           0.572984  0.0000031941
 memory_usage                                            0.499134  0.0000774355
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_2\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_2\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.125882  0.3507933268
 Cpu1_usage                                              0.155521  0.2480120953
@@ -639,7 +639,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.098460  0.4662105548
 memory_usage                                            0.128885  0.3393256278
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_20\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_20\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.218010  0.1032839420
 Cpu1_usage                                              0.169724  0.2068826880
@@ -654,7 +654,7 @@ Reads_on_sda                                            0.052916  0.6958488123
 Writes_on_sda                                           0.301512  0.0226515494
 memory_usage                                            0.170010  0.2061088422
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_21\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_21\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.026603  0.8428700319
 Cpu1_usage                                              0.031849  0.8123993585
@@ -668,10 +668,10 @@ Number of maven logs with Level WARNING                -0.101849  0.4468019729
 Reads_on_sda                                            0.032586  0.8081353646
 Writes_on_sda                                          -0.006298  0.9625757876
 memory_usage                                           -0.032845  0.8066419971
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_22\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_22\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.005283  0.9688872416
 Cpu1_usage                                              0.025263  0.8520266863
@@ -686,7 +686,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                          -0.044340  0.7432875475
 memory_usage                                           -0.014331  0.9157348348
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_23\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_23\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.035796  0.7933859315
 Cpu1_usage                                              0.051405  0.7067317719
@@ -701,7 +701,7 @@ Reads_on_sda                                            0.014918  0.9131044417
 Writes_on_sda                                          -0.006603  0.9614768271
 memory_usage                                            0.017166  0.9000729549
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_24\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_24\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.524502  0.0000237670
 Cpu1_usage                                              0.524542  0.0000237275
@@ -715,10 +715,10 @@ Number of maven logs with Level WARNING                -0.019926  0.8819795125
 Reads_on_sda                                            0.524096  0.0000241783
 Writes_on_sda                                           0.524403  0.0000238668
 memory_usage                                            0.527046  0.0000213373
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_25\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_25\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.094276  0.4854545837
 Cpu1_usage                                              0.153972  0.2528113303
@@ -733,7 +733,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.128956  0.3390583032
 memory_usage                                            0.054463  0.6874095521
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_26\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_26\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.054443  0.6821448106
 Cpu1_usage                                              0.099793  0.4520506348
@@ -748,7 +748,7 @@ Reads_on_sda                                            0.038252  0.7736265903
 Writes_on_sda                                           0.149004  0.2600227496
 memory_usage                                            0.080931  0.5422974001
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_27\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_27\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.041467  0.7594029768
 Cpu1_usage                                              0.044342  0.7432743055
@@ -763,7 +763,7 @@ Reads_on_sda                                            0.144624  0.2831132032
 Writes_on_sda                                           0.091128  0.5002064624
 memory_usage                                            0.053725  0.6914310915
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_28\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_28\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.566355  0.0000029328
 Cpu1_usage                                              0.566262  0.0000029462
@@ -778,7 +778,7 @@ Reads_on_sda                                            0.566154  0.0000029619
 Writes_on_sda                                           0.566185  0.0000029573
 memory_usage                                            0.511445  0.0000347708
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_29\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_29\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.579105  0.0000019131
 Cpu1_usage                                              0.579074  0.0000019161
@@ -793,7 +793,7 @@ Reads_on_sda                                            0.578996  0.0000019237
 Writes_on_sda                                           0.579063  0.0000019171
 memory_usage                                            0.543327  0.0000104773
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_3\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_3\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.572440  0.0000026664
 Cpu1_usage                                              0.572420  0.0000026691
@@ -808,7 +808,7 @@ Reads_on_sda                                            0.572273  0.0000026886
 Writes_on_sda                                           0.572169  0.0000027022
 memory_usage                                            0.537587  0.0000135201
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_30\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_30\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.574945  0.0000029035
 Cpu1_usage                                              0.574841  0.0000029181
@@ -823,7 +823,7 @@ Reads_on_sda                                            0.574558  0.0000029587
 Writes_on_sda                                           0.574671  0.0000029425
 memory_usage                                            0.570634  0.0000035781
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_4\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_4\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.587958  0.0000012168
 Cpu1_usage                                              0.587970  0.0000012160
@@ -837,10 +837,10 @@ Number of maven logs with Level WARNING                 0.031122  0.8166058191
 Reads_on_sda                                            0.587421  0.0000012511
 Writes_on_sda                                           0.587653  0.0000012362
 memory_usage                                            0.589478  0.0000011243
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_5\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_5\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.048323  0.7186843754
 Cpu1_usage                                              0.059477  0.6574074654
@@ -855,7 +855,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.044703  0.7389819709
 memory_usage                                            0.011411  0.9322518240
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_6\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_6\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.133455  0.3223321524
 Cpu1_usage                                              0.132234  0.3268172046
@@ -870,7 +870,7 @@ Reads_on_sda                                            0.033093  0.8069364321
 Writes_on_sda                                           0.114178  0.3977230679
 memory_usage                                            0.106697  0.4295532578
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_7\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_7\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.057251  0.6722913765
 Cpu1_usage                                              0.077380  0.5672382329
@@ -885,7 +885,7 @@ Reads_on_sda                                            0.011007  0.9352333241
 Writes_on_sda                                           0.027410  0.8396113677
 memory_usage                                            0.031873  0.8139269973
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_8\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_8\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.037043  0.7824978927
 Cpu1_usage                                              0.044131  0.7422033111
@@ -900,7 +900,7 @@ Reads_on_sda                                           -0.017457  0.8965151269
 Writes_on_sda                                          -0.012917  0.9233344288
 memory_usage                                           -0.019966  0.8817437889
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\jackson-databind\run_no_9\mvn_correlation_results.csv
+Maven\mvn_test\jackson-databind\run_no_9\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.026814  0.8416383549
 Cpu1_usage                                              0.065761  0.6238164030
@@ -915,9 +915,9 @@ Reads_on_sda                                           -0.061014  0.6491251242
 Writes_on_sda                                           0.035304  0.7924774597
 memory_usage                                            0.013153  0.9219380085
 
-C:\Users\tmpnguyen\Analysis>python3 als_maven.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon
+python3 als_maven.py Maven\mvn_test\johnzon
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_1\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_1\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.141498  0.2291502139
 Cpu1_usage                                             -0.149074  0.2049252726
@@ -932,7 +932,7 @@ Reads_on_sda                                           -0.128174  0.2764542731
 Writes_on_sda                                          -0.162262  0.1672065773
 memory_usage                                           -0.054733  0.6432472599
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_10\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_10\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.676253  0.0000000001
 Cpu1_usage                                              0.676329  0.0000000001
@@ -947,7 +947,7 @@ Reads_on_sda                                            0.676765  0.0000000001
 Writes_on_sda                                           0.675657  0.0000000001
 memory_usage                                            0.551381  0.0000006252
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_11\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_11\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.614051  0.0000000123
 Cpu1_usage                                              0.614061  0.0000000123
@@ -962,7 +962,7 @@ Reads_on_sda                                            0.614144  0.0000000123
 Writes_on_sda                                           0.614041  0.0000000124
 memory_usage                                            0.529718  0.0000020316
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_12\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_12\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.148507  0.2198433379
 Cpu1_usage                                             -0.128762  0.2880847904
@@ -977,7 +977,7 @@ Reads_on_sda                                           -0.073408  0.5458880488
 Writes_on_sda                                          -0.161064  0.1828572771
 memory_usage                                           -0.096582  0.4263944846
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_13\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_13\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.656634  0.0000000004
 Cpu1_usage                                              0.656720  0.0000000004
@@ -992,7 +992,7 @@ Reads_on_sda                                            0.657155  0.0000000004
 Writes_on_sda                                           0.655860  0.0000000004
 memory_usage                                            0.513573  0.0000039581
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_14\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_14\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.597471  0.0000000302
 Cpu1_usage                                              0.597406  0.0000000303
@@ -1007,7 +1007,7 @@ Reads_on_sda                                            0.597972  0.0000000292
 Writes_on_sda                                           0.596391  0.0000000324
 memory_usage                                            0.466138  0.0000368036
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_15\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_15\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.101628  0.4025111390
 Cpu1_usage                                             -0.122255  0.3133425142
@@ -1022,7 +1022,7 @@ Reads_on_sda                                           -0.047642  0.6953164917
 Writes_on_sda                                          -0.087944  0.4690978007
 memory_usage                                            0.002760  0.9819068492
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_16\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_16\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.707517  0.0000000000
 Cpu1_usage                                              0.707545  0.0000000000
@@ -1037,7 +1037,7 @@ Reads_on_sda                                            0.707837  0.0000000000
 Writes_on_sda                                           0.706879  0.0000000000
 memory_usage                                            0.566170  0.0000002663
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_17\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_17\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.644313  0.0000000013
 Cpu1_usage                                              0.644199  0.0000000014
@@ -1052,7 +1052,7 @@ Reads_on_sda                                            0.644824  0.0000000013
 Writes_on_sda                                           0.643572  0.0000000014
 memory_usage                                            0.497754  0.0000100299
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_18\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_18\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.603380  0.0000000256
 Cpu1_usage                                              0.603359  0.0000000256
@@ -1067,7 +1067,7 @@ Reads_on_sda                                            0.603790  0.0000000249
 Writes_on_sda                                           0.602370  0.0000000274
 memory_usage                                            0.493808  0.0000120821
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_19\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_19\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.139321  0.2500306326
 Cpu1_usage                                             -0.146799  0.2252546924
@@ -1082,7 +1082,7 @@ Reads_on_sda                                           -0.031750  0.7941521185
 Writes_on_sda                                          -0.180146  0.1356179349
 memory_usage                                           -0.033347  0.7840448172
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_2\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_2\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.226726  0.0591021348
 Cpu1_usage                                             -0.227570  0.0581396451
@@ -1097,7 +1097,7 @@ Reads_on_sda                                           -0.206295  0.0866403836
 Writes_on_sda                                          -0.186636  0.1218579725
 memory_usage                                           -0.134539  0.2668146881
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_20\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_20\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.164764  0.1666432637
 Cpu1_usage                                             -0.148335  0.2136718005
@@ -1112,7 +1112,7 @@ Reads_on_sda                                           -0.170447  0.1522932465
 Writes_on_sda                                          -0.186052  0.1176372866
 memory_usage                                           -0.043349  0.7176774946
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_21\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_21\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.602317  0.0000000275
 Cpu1_usage                                              0.602325  0.0000000275
@@ -1127,7 +1127,7 @@ Reads_on_sda                                            0.602693  0.0000000268
 Writes_on_sda                                           0.601440  0.0000000291
 memory_usage                                            0.476246  0.0000269242
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_22\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_22\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.130462  0.2781760670
 Cpu1_usage                                             -0.100378  0.4049030884
@@ -1142,7 +1142,7 @@ Reads_on_sda                                            0.191492  0.1096564424
 Writes_on_sda                                          -0.096929  0.4213195402
 memory_usage                                           -0.061398  0.6109988130
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_23\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_23\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.113521  0.3458753465
 Cpu1_usage                                             -0.104122  0.3875181138
@@ -1157,7 +1157,7 @@ Reads_on_sda                                           -0.127824  0.2880941407
 Writes_on_sda                                          -0.147856  0.2185018993
 memory_usage                                           -0.056685  0.6386843532
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_24\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_24\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.226424  0.0594500760
 Cpu1_usage                                             -0.220174  0.0670280008
@@ -1172,7 +1172,7 @@ Reads_on_sda                                           -0.135444  0.2635846301
 Writes_on_sda                                          -0.234906  0.0502935285
 memory_usage                                           -0.159182  0.1880938560
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_25\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_25\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.174291  0.1460333754
 Cpu1_usage                                             -0.117731  0.3281647467
@@ -1187,7 +1187,7 @@ Reads_on_sda                                           -0.110026  0.3610247247
 Writes_on_sda                                          -0.208988  0.0802773180
 memory_usage                                           -0.114274  0.3426651643
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_26\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_26\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.607460  0.0000000153
 Cpu1_usage                                              0.607581  0.0000000152
@@ -1201,10 +1201,10 @@ Number of maven logs with Level WARNING                 0.012339  0.9180620276
 Reads_on_sda                                            0.607643  0.0000000151
 Writes_on_sda                                           0.606908  0.0000000159
 memory_usage                                            0.491735  0.0000115144
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_27\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_27\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.178955  0.1353804469
 Cpu1_usage                                             -0.158021  0.1881200443
@@ -1219,7 +1219,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                          -0.138113  0.2507140251
 memory_usage                                           -0.091347  0.4486739543
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_28\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_28\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.325387  0.0063689342
 Cpu1_usage                                             -0.335190  0.0048721134
@@ -1234,7 +1234,7 @@ Reads_on_sda                                           -0.318985  0.0075521677
 Writes_on_sda                                          -0.291549  0.0150737581
 memory_usage                                           -0.260965  0.0303253414
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_29\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_29\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.621066  0.0000000075
 Cpu1_usage                                              0.621103  0.0000000075
@@ -1249,7 +1249,7 @@ Reads_on_sda                                            0.621483  0.0000000073
 Writes_on_sda                                           0.620124  0.0000000081
 memory_usage                                            0.522019  0.0000030294
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_3\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_3\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.091110  0.4498580012
 Cpu1_usage                                             -0.108591  0.3673590947
@@ -1264,7 +1264,7 @@ Reads_on_sda                                           -0.209666  0.0792797404
 Writes_on_sda                                          -0.133763  0.2660928651
 memory_usage                                           -0.047261  0.6955146709
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_30\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_30\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.119905  0.3192485217
 Cpu1_usage                                             -0.115958  0.3355516725
@@ -1279,7 +1279,7 @@ Reads_on_sda                                           -0.160952  0.1799541904
 Writes_on_sda                                          -0.172342  0.1506652654
 memory_usage                                            0.006390  0.9578209473
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_4\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_4\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.608675  0.0000000141
 Cpu1_usage                                              0.608647  0.0000000141
@@ -1294,7 +1294,7 @@ Reads_on_sda                                            0.609025  0.0000000138
 Writes_on_sda                                           0.608293  0.0000000145
 memory_usage                                            0.496908  0.0000090003
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_5\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_5\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.078727  0.5170992420
 Cpu1_usage                                             -0.079777  0.5115054592
@@ -1309,7 +1309,7 @@ Reads_on_sda                                            0.011371  0.9255656375
 Writes_on_sda                                          -0.073938  0.5429859911
 memory_usage                                           -0.068617  0.5724659792
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_6\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_6\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.622949  0.0000000066
 Cpu1_usage                                              0.622916  0.0000000066
@@ -1324,7 +1324,7 @@ Reads_on_sda                                            0.623436  0.0000000064
 Writes_on_sda                                           0.621410  0.0000000074
 memory_usage                                            0.474699  0.0000288321
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_7\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_7\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.672448  0.0000000002
 Cpu1_usage                                              0.672542  0.0000000002
@@ -1339,7 +1339,7 @@ Reads_on_sda                                            0.672898  0.0000000002
 Writes_on_sda                                           0.671517  0.0000000002
 memory_usage                                            0.557414  0.0000005379
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_8\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_8\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.637320  0.0000000023
 Cpu1_usage                                              0.637316  0.0000000023
@@ -1354,7 +1354,7 @@ Reads_on_sda                                            0.637297  0.0000000023
 Writes_on_sda                                           0.636945  0.0000000024
 memory_usage                                            0.541459  0.0000010837
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\johnzon\run_no_9\mvn_correlation_results.csv
+Maven\mvn_test\johnzon\run_no_9\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.231846  0.0500382838
 Cpu1_usage                                             -0.178233  0.1341563772
@@ -1369,9 +1369,9 @@ Reads_on_sda                                           -0.206056  0.0824703139
 Writes_on_sda                                          -0.263762  0.0251736705
 memory_usage                                           -0.142620  0.2320419900
 
-C:\Users\tmpnguyen\Analysis>python3 als_maven.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java
+python3 als_maven.py Maven\mvn_test\JSON-java
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_1\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_1\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.320747  0.2852941683
 Cpu1_usage                                              0.357721  0.2301211006
@@ -1386,7 +1386,7 @@ Reads_on_sda                                            0.274143  0.3647342971
 Writes_on_sda                                           0.366332  0.2182830281
 memory_usage                                            0.240618  0.4284286851
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_10\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_10\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.898689  0.0000707533
 Cpu1_usage                                              0.898657  0.0000708628
@@ -1400,10 +1400,10 @@ Number of maven logs with Level WARNING                 0.009559  0.9764778292
 Reads_on_sda                                            0.898527  0.0000713005
 Writes_on_sda                                           0.898538  0.0000712647
 memory_usage                                            0.902240  0.0000595587
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_11\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_11\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.299707  0.3439328623
 Cpu1_usage                                              0.344617  0.2726498652
@@ -1417,10 +1417,10 @@ Number of maven logs with Level WARNING                 0.087788  0.7861641122
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.321234  0.3086171688
 memory_usage                                            0.202315  0.5283062264
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_12\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_12\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.284112  0.3971572928
 Cpu1_usage                                              0.355815  0.2828484318
@@ -1434,10 +1434,10 @@ Number of maven logs with Level WARNING                 0.021241  0.9505713846
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.071877  0.8336589340
 memory_usage                                            0.324311  0.3305516119
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_13\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_13\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.304240  0.3630216844
 Cpu1_usage                                              0.385899  0.2411212036
@@ -1451,10 +1451,10 @@ Number of maven logs with Level WARNING                 0.043298  0.8994134386
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.389445  0.2364528624
 memory_usage                                            0.343302  0.3013105935
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_14\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_14\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.508316  0.1103694192
 Cpu1_usage                                              0.605544  0.0483454956
@@ -1469,7 +1469,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.355757  0.2829330408
 memory_usage                                            0.524607  0.0975631301
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_15\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_15\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.865268  0.0002776519
 Cpu1_usage                                              0.865227  0.0002780567
@@ -1484,7 +1484,7 @@ Reads_on_sda                                            0.865068  0.0002796214
 Writes_on_sda                                           0.865082  0.0002794880
 memory_usage                                            0.871261  0.0002234971
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_16\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_16\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.905337  0.0000509755
 Cpu1_usage                                              0.905384  0.0000508552
@@ -1498,10 +1498,10 @@ Number of maven logs with Level WARNING                -0.345350  0.2715642015
 Reads_on_sda                                            0.905237  0.0000512386
 Writes_on_sda                                           0.905248  0.0000512076
 memory_usage                                            0.910063  0.0000397842
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_17\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_17\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.339444  0.2803897215
 Cpu1_usage                                              0.411748  0.1835450043
@@ -1515,10 +1515,10 @@ Number of maven logs with Level WARNING                 0.157054  0.6259320017
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.175547  0.5852562997
 memory_usage                                            0.284822  0.3695623474
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_18\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_18\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.487683  0.1280869015
 Cpu1_usage                                              0.534392  0.0903609231
@@ -1533,7 +1533,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.501290  0.1162127302
 memory_usage                                            0.508655  0.1100929608
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_19\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_19\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.836148  0.0007015628
 Cpu1_usage                                              0.836145  0.0007016378
@@ -1547,10 +1547,10 @@ Number of maven logs with Level WARNING                -0.046745  0.8852972374
 Reads_on_sda                                            0.835980  0.0007049669
 Writes_on_sda                                           0.836015  0.0007042463
 memory_usage                                            0.841657  0.0005971121
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_2\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_2\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.497850  0.1191451043
 Cpu1_usage                                              0.443962  0.1713391417
@@ -1565,7 +1565,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.429244  0.1876858782
 memory_usage                                            0.481132  0.1340682556
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_20\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_20\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.862252  0.0003085133
 Cpu1_usage                                              0.862235  0.0003086916
@@ -1579,10 +1579,10 @@ Number of maven logs with Level WARNING                -0.358738  0.2521567146
 Reads_on_sda                                            0.862064  0.0003105194
 Writes_on_sda                                           0.862075  0.0003104058
 memory_usage                                            0.868784  0.0002447756
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_21\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_21\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.136270  0.6895142542
 Cpu1_usage                                             -0.094770  0.7816530435
@@ -1597,7 +1597,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                          -0.084438  0.8050381220
 memory_usage                                           -0.021831  0.9492003026
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_22\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_22\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.890522  0.0001027909
 Cpu1_usage                                              0.890520  0.0001027971
@@ -1612,7 +1612,7 @@ Reads_on_sda                                            0.890375  0.0001034568
 Writes_on_sda                                           0.890449  0.0001031187
 memory_usage                                            0.895550  0.0000819682
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_23\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_23\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.914683  0.0000308065
 Cpu1_usage                                              0.914683  0.0000308063
@@ -1626,10 +1626,10 @@ Number of maven logs with Level WARNING                -0.397164  0.2011110068
 Reads_on_sda                                            0.914556  0.0000310300
 Writes_on_sda                                           0.914585  0.0000309798
 memory_usage                                            0.920768  0.0000215046
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_24\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_24\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.040428  0.9060545940
 Cpu1_usage                                              0.059238  0.8626452677
@@ -1643,10 +1643,10 @@ Number of maven logs with Level WARNING                -0.042687  0.9008268548
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.169418  0.6184870227
 memory_usage                                            0.186092  0.5837944919
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_25\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_25\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.400371  0.2223996617
 Cpu1_usage                                              0.399954  0.2229259403
@@ -1661,7 +1661,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.467943  0.1466412753
 memory_usage                                            0.328114  0.3245782078
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_26\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_26\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.934097  0.0000087592
 Cpu1_usage                                              0.934078  0.0000087718
@@ -1676,7 +1676,7 @@ Reads_on_sda                                            0.934046  0.0000087924
 Writes_on_sda                                           0.934058  0.0000087847
 memory_usage                                            0.935724  0.0000077516
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_27\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_27\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.919326  0.0000626305
 Cpu1_usage                                              0.919334  0.0000626038
@@ -1691,7 +1691,7 @@ Reads_on_sda                                            0.919219  0.0000629940
 Writes_on_sda                                           0.919247  0.0000628994
 memory_usage                                            0.924963  0.0000455857
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_28\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_28\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.460345  0.1542090698
 Cpu1_usage                                              0.364944  0.2697884999
@@ -1705,10 +1705,10 @@ Number of maven logs with Level WARNING                 0.335609  0.3129794947
 Reads_on_sda                                            0.361722  0.2743578553
 Writes_on_sda                                           0.357742  0.2800633212
 memory_usage                                            0.452999  0.1617525322
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_29\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_29\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.164715  0.6284031898
 Cpu1_usage                                              0.159376  0.6397280486
@@ -1722,10 +1722,10 @@ Number of maven logs with Level WARNING                 0.185202  0.5856278082
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                          -0.034930  0.9187919156
 memory_usage                                            0.170326  0.6165787545
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_3\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_3\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                             -0.018810  0.9562244497
 Cpu1_usage                                              0.092177  0.7875073796
@@ -1739,10 +1739,10 @@ Number of maven logs with Level WARNING                -0.184820  0.5864153639
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.140556  0.6801877623
 memory_usage                                            0.054130  0.8744029889
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_30\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_30\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.316405  0.3431513781
 Cpu1_usage                                              0.275223  0.4127187842
@@ -1757,7 +1757,7 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.468209  0.1463812492
 memory_usage                                            0.238614  0.4798156424
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_4\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_4\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.882957  0.0001416839
 Cpu1_usage                                              0.883025  0.0001412899
@@ -1772,7 +1772,7 @@ Reads_on_sda                                            0.882754  0.0001428680
 Writes_on_sda                                           0.882817  0.0001425001
 memory_usage                                            0.890148  0.0001044879
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_5\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_5\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.904418  0.0000534158
 Cpu1_usage                                              0.904467  0.0000532822
@@ -1786,10 +1786,10 @@ Number of maven logs with Level WARNING                 0.106064  0.7428591264
 Reads_on_sda                                            0.904292  0.0000537558
 Writes_on_sda                                           0.904321  0.0000536761
 memory_usage                                            0.909083  0.0000419292
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_6\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_6\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.233668  0.4648162160
 Cpu1_usage                                              0.292770  0.3557561346
@@ -1803,10 +1803,10 @@ Number of maven logs with Level WARNING                -0.082282  0.7993247736
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.268847  0.3981378855
 memory_usage                                            0.226628  0.4787519655
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_7\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_7\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.408958  0.2117083686
 Cpu1_usage                                              0.375190  0.2555420133
@@ -1820,10 +1820,10 @@ Number of maven logs with Level WARNING                -0.139839  0.6817442752
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.417845  0.2009709845
 memory_usage                                            0.394891  0.2293847341
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_8\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_8\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.326813  0.3266151682
 Cpu1_usage                                              0.293647  0.3807929655
@@ -1837,10 +1837,10 @@ Number of maven logs with Level WARNING                -0.079884  0.8153908244
 Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.284696  0.3961454600
 memory_usage                                            0.481257  0.1339527513
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\JSON-java\run_no_9\mvn_correlation_results.csv
+Maven\mvn_test\JSON-java\run_no_9\mvn_correlation_results.csv
                                          correlation_coefficient       p_value
 Cpu0_usage                                              0.395354  0.2287898521
 Cpu1_usage                                              0.396187  0.2277209817
@@ -1855,9 +1855,9 @@ Reads_on_sda                                                 NaN           nan
 Writes_on_sda                                           0.476416  0.1384828192
 memory_usage                                            0.310130  0.3533274242
 
-C:\Users\tmpnguyen\Analysis>python3 als_maven.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple
+python3 als_maven.py Maven\mvn_test\json-simple
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_1\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_1\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.946383  0.0003700055
 Cpu1_usage                                           0.946417  0.0003693125
@@ -1871,7 +1871,7 @@ Reads_on_sda                                         0.946645  0.0003646788
 Writes_on_sda                                        0.946382  0.0003700430
 memory_usage                                         0.947858  0.0003406857
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_10\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_10\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.944439  0.0004111216
 Cpu1_usage                                           0.944397  0.0004120435
@@ -1884,10 +1884,10 @@ Number of maven logs with Level INFO                -0.519903  0.1865989506
 Reads_on_sda                                         0.944397  0.0004120435
 Writes_on_sda                                        0.944409  0.0004117916
 memory_usage                                         0.947611  0.0003454896
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_11\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_11\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.590725  0.1625443792
 Cpu1_usage                                           0.526630  0.2245973654
@@ -1900,10 +1900,10 @@ Number of maven logs with Level INFO                 0.233735  0.6139483090
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.301288  0.5114129315
 memory_usage                                         0.468550  0.2889240119
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_12\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_12\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.474405  0.2821063942
 Cpu1_usage                                           0.393360  0.3826535722
@@ -1917,7 +1917,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.484274  0.2707809367
 memory_usage                                         0.290715  0.5270545674
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_13\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_13\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.952535  0.0009188762
 Cpu1_usage                                           0.952527  0.0009192298
@@ -1930,10 +1930,10 @@ Number of maven logs with Level INFO                -0.532357  0.2186617147
 Reads_on_sda                                         0.952532  0.0009190134
 Writes_on_sda                                        0.952535  0.0009188777
 memory_usage                                         0.953365  0.0008796246
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_14\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_14\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.025562  0.9566189733
 Cpu1_usage                                           0.449509  0.3115899362
@@ -1946,10 +1946,10 @@ Number of maven logs with Level INFO                -0.145189  0.7561091582
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.307375  0.5024813387
 memory_usage                                         0.007504  0.9872609335
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_15\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_15\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.242909  0.5996827772
 Cpu1_usage                                           0.262774  0.5691424484
@@ -1963,7 +1963,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.404948  0.3674901219
 memory_usage                                         0.121665  0.7949806114
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_16\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_16\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.951331  0.0002777900
 Cpu1_usage                                           0.951305  0.0002782244
@@ -1977,7 +1977,7 @@ Reads_on_sda                                         0.951292  0.0002784527
 Writes_on_sda                                        0.951300  0.0002783066
 memory_usage                                         0.955793  0.0002088826
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_17\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_17\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.927224  0.0009117997
 Cpu1_usage                                           0.927164  0.0009140042
@@ -1990,12 +1990,12 @@ Number of maven logs with Level INFO                -0.162861  0.6999917213
 Reads_on_sda                                         0.927157  0.0009142715
 Writes_on_sda                                        0.927165  0.0009139804
 memory_usage                                         0.930667  0.0007905083
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
+als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_18\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_18\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.012753  0.9783510014
 Cpu1_usage                                           0.577309  0.1747259140
@@ -2009,7 +2009,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.567166  0.1842228445
 memory_usage                                         0.297159  0.5175028848
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_19\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_19\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.839619  0.0181119124
 Cpu1_usage                                           0.835810  0.0191651939
@@ -2023,7 +2023,7 @@ Reads_on_sda                                         0.818269  0.0244558662
 Writes_on_sda                                        0.743026  0.0556689105
 memory_usage                                         0.780016  0.0385684474
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_2\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_2\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.891900  0.0029075133
 Cpu1_usage                                           0.891888  0.0029084592
@@ -2037,7 +2037,7 @@ Reads_on_sda                                         0.891839  0.0029123129
 Writes_on_sda                                        0.891841  0.0029121930
 memory_usage                                         0.895378  0.0026429428
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_20\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_20\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.916606  0.0036864852
 Cpu1_usage                                           0.916543  0.0036933319
@@ -2051,7 +2051,7 @@ Reads_on_sda                                         0.916543  0.0036933319
 Writes_on_sda                                        0.916551  0.0036924480
 memory_usage                                         0.926409  0.0027112743
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_21\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_21\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.941594  0.0004765308
 Cpu1_usage                                           0.941584  0.0004767690
@@ -2064,12 +2064,12 @@ Number of maven logs with Level INFO                -0.591396  0.1225542707
 Reads_on_sda                                         0.941594  0.0004765308
 Writes_on_sda                                        0.941597  0.0004764590
 memory_usage                                         0.944055  0.0004195784
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
+als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_22\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_22\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.735734  0.0594471704
 Cpu1_usage                                           0.483790  0.2713319295
@@ -2082,10 +2082,10 @@ Number of maven logs with Level INFO                 0.331528  0.4675940853
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.608483  0.1470917085
 memory_usage                                         0.407850  0.3637325900
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_23\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_23\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                                NaN           nan
 Cpu1_usage                                                NaN           nan
@@ -2099,7 +2099,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.118220  0.8007038292
 memory_usage                                         0.319104  0.4854267345
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_24\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_24\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.961286  0.0001408760
 Cpu1_usage                                           0.961278  0.0001409660
@@ -2112,10 +2112,10 @@ Number of maven logs with Level INFO                -0.538014  0.1689856103
 Reads_on_sda                                         0.961258  0.0001411797
 Writes_on_sda                                        0.961259  0.0001411673
 memory_usage                                         0.964508  0.0001088165
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_25\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_25\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                          -0.078509  0.8671292686
 Cpu1_usage                                           0.687340  0.0879485095
@@ -2129,7 +2129,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.470031  0.2871922771
 memory_usage                                         0.335149  0.4624425426
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_26\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_26\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.950792  0.0010046198
 Cpu1_usage                                           0.950796  0.0010044029
@@ -2143,7 +2143,7 @@ Reads_on_sda                                         0.950757  0.0010063659
 Writes_on_sda                                        0.950780  0.0010052107
 memory_usage                                         0.957288  0.0007076583
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_27\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_27\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.951796  0.0002700006
 Cpu1_usage                                           0.951835  0.0002693393
@@ -2156,12 +2156,12 @@ Number of maven logs with Level INFO                -0.588409  0.1249354157
 Reads_on_sda                                         0.951796  0.0002700006
 Writes_on_sda                                        0.951799  0.0002699445
 memory_usage                                         0.956059  0.0002051818
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
+als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_28\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_28\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.171026  0.7138841845
 Cpu1_usage                                           0.630441  0.1290586053
@@ -2174,10 +2174,10 @@ Number of maven logs with Level INFO                 0.042338  0.9281899076
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.385035  0.3936992507
 memory_usage                                         0.217957  0.6387103916
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
+als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_29\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_29\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.040829  0.9307441169
 Cpu1_usage                                          -0.122133  0.7942041315
@@ -2190,12 +2190,12 @@ Number of maven logs with Level INFO                 0.172301  0.7118146979
 Reads_on_sda                                         0.553738  0.1971717257
 Writes_on_sda                                        0.586218  0.1665880206
 memory_usage                                         0.390010  0.3870830085
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
+als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_3\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_3\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.546035  0.2047914330
 Cpu1_usage                                           0.521203  0.2302903124
@@ -2209,7 +2209,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.447370  0.3141826562
 memory_usage                                         0.254917  0.5811622941
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_30\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_30\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.919167  0.0034147211
 Cpu1_usage                                           0.919120  0.0034196295
@@ -2222,12 +2222,12 @@ Number of maven logs with Level INFO                -0.191387  0.6810090445
 Reads_on_sda                                         0.919120  0.0034196295
 Writes_on_sda                                        0.919151  0.0034164066
 memory_usage                                         0.926579  0.0026958945
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
+als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_4\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_4\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                          -0.017816  0.9697600652
 Cpu1_usage                                           0.780948  0.0381818318
@@ -2241,7 +2241,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.614291  0.1422056313
 memory_usage                                         0.562873  0.1883167749
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_5\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_5\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.885076  0.0080761681
 Cpu1_usage                                           0.884990  0.0080909457
@@ -2255,7 +2255,7 @@ Reads_on_sda                                         0.884990  0.0080909457
 Writes_on_sda                                        0.884990  0.0080908289
 memory_usage                                         0.894824  0.0065062119
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_6\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_6\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.964712  0.0001069682
 Cpu1_usage                                           0.964670  0.0001073460
@@ -2268,10 +2268,10 @@ Number of maven logs with Level INFO                -0.478039  0.2308674414
 Reads_on_sda                                         0.964670  0.0001073460
 Writes_on_sda                                        0.964677  0.0001072847
 memory_usage                                         0.969326  0.0000705011
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_7\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_7\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.229267  0.6209327849
 Cpu1_usage                                          -0.304114  0.5072593300
@@ -2284,12 +2284,12 @@ Number of maven logs with Level INFO                 0.024493  0.9584323017
 Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.245224  0.5960989451
 memory_usage                                         0.370028  0.4139281581
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
+als_maven.py:20: NearConstantInputWarning: An input array is nearly constant; the computed correlation coefficient may be inaccurate.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
-C:\Users\tmpnguyen\Analysis\als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_maven.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_8\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_8\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.436892  0.3270183307
 Cpu1_usage                                           0.528622  0.2225239339
@@ -2303,7 +2303,7 @@ Reads_on_sda                                              NaN           nan
 Writes_on_sda                                        0.427868  0.3382492474
 memory_usage                                         0.304240  0.5070738002
 
-C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_test\json-simple\run_no_9\mvn_correlation_results.csv
+Maven\mvn_test\json-simple\run_no_9\mvn_correlation_results.csv
                                       correlation_coefficient       p_value
 Cpu0_usage                                           0.930149  0.0008080127
 Cpu1_usage                                           0.930131  0.0008086204
@@ -2317,4 +2317,3 @@ Reads_on_sda                                         0.930124  0.0008088740
 Writes_on_sda                                        0.930123  0.0008089210
 memory_usage                                         0.934377  0.0006721834
 
-C:\Users\tmpnguyen\Analysis>

@@ -1,22 +1,21 @@
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\Activiti
+python3 als_average_correlation_for_all_run.py Maven\mvn_build\Activiti
 Std of energy:  115648.46643301404
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\Activiti\summary_correlation_results.csv
+Results have been saved to Maven\mvn_build\Activiti\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\clojure
+python3 als_average_correlation_for_all_run.py Maven\mvn_build\clojure
 Std of energy:  50668.22928395613
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\clojure\summary_correlation_results.csv
+Results have been saved to Maven\mvn_build\clojure\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\jitwatch
+python3 als_average_correlation_for_all_run.py Maven\mvn_build\jitwatch
 Std of energy:  107350.40233162149
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\jitwatch\summary_correlation_results.csv
+Results have been saved to Maven\mvn_build\jitwatch\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\languagetool
+python3 als_average_correlation_for_all_run.py Maven\mvn_build\languagetool
 Std of energy:  64310.770300884564
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\languagetool\summary_correlation_results.csv
+Results have been saved to Maven\mvn_build\languagetool\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\litemall
+python3 als_average_correlation_for_all_run.py Maven\mvn_build\litemall
 Std of energy:  77053.10198584403
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Maven\mvn_build\litemall\summary_correlation_results.csv
+Results have been saved to Maven\mvn_build\litemall\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>

@@ -1,14 +1,9 @@
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Daytrader\daytrader7
-C:\Users\tmpnguyen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\core\_methods.py:206: RuntimeWarning: Degrees of freedom <= 0 for slice
-  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
-C:\Users\tmpnguyen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\core\_methods.py:198: RuntimeWarning: invalid value encountered in scalar divide
-  ret = ret.dtype.type(ret / rcount)
+python3 als_average_correlation_for_all_run.py Daytrader\daytrader7
 Std of energy (using Total Power):  0.9317077633830436
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Daytrader\daytrader7\summary_correlation_results.csv
+Results have been saved to Daytrader\daytrader7\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>python3 als_average_correlation_for_all_run.py C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Daytrader\daytrader10
+python3 als_average_correlation_for_all_run.py Daytrader\daytrader10
 Std of energy (using Total Power):  1.9888467323686911
-Results have been saved to C:\Users\tmpnguyen\Downloads\PRJ_PAPER_USED\Daytrader\daytrader10\summary_correlation_results.csv
+Results have been saved to Daytrader\daytrader10\summary_correlation_results.csv
 
-C:\Users\tmpnguyen\Analysis>

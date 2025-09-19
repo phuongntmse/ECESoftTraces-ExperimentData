@@ -1,9 +1,9 @@
 
-C:\Users\tmpnguyen\Analysis>python3 als_exp.py C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu
-C:\Users\tmpnguyen\Analysis\als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+python3 als_exp.py d4r2PerformanceTest_ubuntu
+als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_1\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_1\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.460650  0.0000000000
 Cpu1_usage                               0.627691  0.0000000000
@@ -15,7 +15,7 @@ Reads_on_sda                                  NaN           nan
 Writes_on_sda                            0.076559  0.2538283606
 memory_usage                             0.136809  0.0407819704
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_10\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_10\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.594686  0.0000000000
 Cpu1_usage                               0.314978  0.0000014237
@@ -27,7 +27,7 @@ Reads_on_sda                            -0.013995  0.8346362854
 Writes_on_sda                            0.116889  0.0801924411
 memory_usage                             0.172881  0.0093666986
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_11\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_11\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.748756  0.0000000000
 Cpu1_usage                               0.749083  0.0000000000
@@ -39,7 +39,7 @@ Reads_on_sda                            -0.188461  0.0046510922
 Writes_on_sda                            0.168664  0.0114598428
 memory_usage                             0.148389  0.0263670642
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_12\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_12\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.501014  0.0000000000
 Cpu1_usage                               0.337060  0.0000002512
@@ -51,7 +51,7 @@ Reads_on_sda                            -0.246078  0.0002061959
 Writes_on_sda                            0.224077  0.0007507594
 memory_usage                             0.155742  0.0199720517
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_13\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_13\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.593262  0.0000000000
 Cpu1_usage                               0.601948  0.0000000000
@@ -63,7 +63,7 @@ Reads_on_sda                             0.086959  0.1957613192
 Writes_on_sda                            0.106709  0.1120399350
 memory_usage                             0.149573  0.0255072292
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_14\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_14\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.553614  0.0000000000
 Cpu1_usage                               0.207450  0.0017993800
@@ -75,7 +75,7 @@ Reads_on_sda                             0.582426  0.0000000000
 Writes_on_sda                            0.066526  0.3215881665
 memory_usage                             0.146503  0.0283633719
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_15\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_15\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.263579  0.0000675829
 Cpu1_usage                               0.344960  0.0000001253
@@ -86,10 +86,10 @@ Energy_usage_during_time                 1.000000  0.0000000000
 Reads_on_sda                             0.476466  0.0000000000
 Writes_on_sda                            0.141033  0.0353114810
 memory_usage                             0.160275  0.0165987949
-C:\Users\tmpnguyen\Analysis\als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_16\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_16\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.552046  0.0000000000
 Cpu1_usage                               0.732653  0.0000000000
@@ -100,10 +100,10 @@ Energy_usage_during_time                 1.000000  0.0000000000
 Reads_on_sda                                  NaN           nan
 Writes_on_sda                            0.048443  0.4706633262
 memory_usage                             0.151745  0.0231122330
-C:\Users\tmpnguyen\Analysis\als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_17\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_17\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.543989  0.0000000000
 Cpu1_usage                               0.242743  0.0002527677
@@ -115,7 +115,7 @@ Reads_on_sda                                  NaN           nan
 Writes_on_sda                            0.105086  0.1176347426
 memory_usage                             0.142386  0.0335726747
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_18\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_18\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.077795  0.2472931660
 Cpu1_usage                               0.769941  0.0000000000
@@ -127,7 +127,7 @@ Reads_on_sda                            -0.042058  0.5320978389
 Writes_on_sda                            0.169737  0.0111195071
 memory_usage                             0.149059  0.0260235071
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_19\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_19\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.721777  0.0000000000
 Cpu1_usage                               0.044176  0.5097199383
@@ -139,7 +139,7 @@ Reads_on_sda                            -0.109932  0.1000134963
 Writes_on_sda                            0.207652  0.0017383603
 memory_usage                             0.156002  0.0192143185
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_2\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_2\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.773454  0.0000000000
 Cpu1_usage                               0.463863  0.0000000000
@@ -151,7 +151,7 @@ Reads_on_sda                            -0.102688  0.1262931208
 Writes_on_sda                            0.124938  0.0625267388
 memory_usage                             0.152466  0.0227663846
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_20\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_20\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.711303  0.0000000000
 Cpu1_usage                               0.406683  0.0000000002
@@ -163,7 +163,7 @@ Reads_on_sda                            -0.284247  0.0000156124
 Writes_on_sda                            0.156727  0.0189217733
 memory_usage                             0.147244  0.0275632998
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_21\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_21\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.811358  0.0000000000
 Cpu1_usage                               0.294819  0.0000068587
@@ -175,7 +175,7 @@ Reads_on_sda                             0.005861  0.9303340482
 Writes_on_sda                            0.098603  0.1403738438
 memory_usage                             0.155675  0.0194711959
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_22\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_22\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.522219  0.0000000000
 Cpu1_usage                               0.676377  0.0000000000
@@ -187,7 +187,7 @@ Reads_on_sda                             0.342965  0.0000001497
 Writes_on_sda                            0.096396  0.1513573779
 memory_usage                             0.155418  0.0202349155
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_23\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_23\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.701876  0.0000000000
 Cpu1_usage                               0.145533  0.0298075989
@@ -199,7 +199,7 @@ Reads_on_sda                             0.555050  0.0000000000
 Writes_on_sda                            0.074602  0.2672853550
 memory_usage                             0.147501  0.0276412178
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_24\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_24\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.491530  0.0000000000
 Cpu1_usage                               0.333141  0.0000003314
@@ -210,10 +210,10 @@ Energy_usage_during_time                 1.000000  0.0000000000
 Reads_on_sda                             0.211977  0.0014169738
 Writes_on_sda                            0.064254  0.3384255060
 memory_usage                             0.152308  0.0226017288
-C:\Users\tmpnguyen\Analysis\als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_25\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_25\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.784132  0.0000000000
 Cpu1_usage                               0.082714  0.2185654177
@@ -224,10 +224,10 @@ Energy_usage_during_time                 1.000000  0.0000000000
 Reads_on_sda                                  NaN           nan
 Writes_on_sda                            0.110835  0.0987558432
 memory_usage                             0.164457  0.0139387786
-C:\Users\tmpnguyen\Analysis\als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_26\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_26\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.744652  0.0000000000
 Cpu1_usage                               0.007915  0.9062258553
@@ -239,7 +239,7 @@ Reads_on_sda                                  NaN           nan
 Writes_on_sda                            0.054773  0.4146151152
 memory_usage                             0.141880  0.0338092908
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_27\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_27\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.681313  0.0000000000
 Cpu1_usage                               0.168126  0.0119212146
@@ -251,7 +251,7 @@ Reads_on_sda                            -0.040560  0.5468186776
 Writes_on_sda                            0.194181  0.0036003127
 memory_usage                             0.170734  0.0106474345
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_28\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_28\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.657687  0.0000000000
 Cpu1_usage                               0.101574  0.1296099367
@@ -263,7 +263,7 @@ Reads_on_sda                            -0.246054  0.0001997396
 Writes_on_sda                            0.145246  0.0297640096
 memory_usage                             0.150474  0.0243015211
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_29\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_29\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.477098  0.0000000000
 Cpu1_usage                               0.284486  0.0000160412
@@ -275,7 +275,7 @@ Reads_on_sda                            -0.188094  0.0048285200
 Writes_on_sda                            0.123550  0.0655196760
 memory_usage                             0.166685  0.0126805848
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_3\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_3\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.384346  0.0000000029
 Cpu1_usage                               0.292258  0.0000091186
@@ -287,7 +287,7 @@ Reads_on_sda                            -0.274184  0.0000330641
 Writes_on_sda                            0.112066  0.0950457093
 memory_usage                             0.153988  0.0214289627
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_30\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_30\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.453827  0.0000000000
 Cpu1_usage                               0.284418  0.0000147545
@@ -299,7 +299,7 @@ Reads_on_sda                             0.261388  0.0000724191
 Writes_on_sda                            0.149791  0.0246369039
 memory_usage                             0.150330  0.0241191131
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_4\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_4\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.464049  0.0000000000
 Cpu1_usage                               0.292311  0.0000086689
@@ -311,7 +311,7 @@ Reads_on_sda                            -0.134611  0.0441594012
 Writes_on_sda                            0.152398  0.0225210286
 memory_usage                             0.136129  0.0418031077
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_5\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_5\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.791768  0.0000000000
 Cpu1_usage                               0.193026  0.0038091120
@@ -323,7 +323,7 @@ Reads_on_sda                             0.307056  0.0000029692
 Writes_on_sda                            0.126888  0.0585119968
 memory_usage                             0.174499  0.0090211370
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_6\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_6\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.831912  0.0000000000
 Cpu1_usage                              -0.056401  0.4008628667
@@ -335,7 +335,7 @@ Reads_on_sda                             0.628066  0.0000000000
 Writes_on_sda                            0.123069  0.0659721594
 memory_usage                             0.145497  0.0294796341
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_7\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_7\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.401617  0.0000000005
 Cpu1_usage                               0.543729  0.0000000000
@@ -346,10 +346,10 @@ Energy_usage_during_time                 1.000000  0.0000000000
 Reads_on_sda                             0.227309  0.0006256444
 Writes_on_sda                            0.218155  0.0010416635
 memory_usage                             0.162303  0.0152582721
-C:\Users\tmpnguyen\Analysis\als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_8\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_8\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.464082  0.0000000000
 Cpu1_usage                               0.225896  0.0006589199
@@ -360,10 +360,10 @@ Energy_usage_during_time                 1.000000  0.0000000000
 Reads_on_sda                                  NaN           nan
 Writes_on_sda                            0.135236  0.0431755975
 memory_usage                             0.156188  0.0193404342
-C:\Users\tmpnguyen\Analysis\als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+als_exp.py:20: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
   corr, p_value = pearsonr(df['Energy_usage_during_time'], df[column])
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\run_no_9\hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\run_no_9\hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.436562  0.0000000000
 Cpu1_usage                               0.744000  0.0000000000
@@ -375,7 +375,7 @@ Reads_on_sda                                  NaN           nan
 Writes_on_sda                            0.164391  0.0139780360
 memory_usage                             0.147849  0.0272727370
 
-C:\Users\tmpnguyen\Downloads\Experiments_results\EXP_BENCHMARK\1second\d4r2PerformanceTest_ubuntu\combined_all_hardware_correlation_results.csv
+d4r2PerformanceTest_ubuntu\combined_all_hardware_correlation_results.csv
                           correlation_coefficient       p_value
 Cpu0_usage                               0.178796  0.0000000000
 Cpu1_usage                               0.031067  0.0109338095
@@ -387,4 +387,3 @@ Reads_on_sda                             0.000033  0.9978734733
 Writes_on_sda                           -0.001294  0.9156377937
 memory_usage                             0.153047  0.0000000000
 
-C:\Users\tmpnguyen\Analysis>
